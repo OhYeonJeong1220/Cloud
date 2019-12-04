@@ -36,9 +36,12 @@ for n in range(1,3):
         album = song.find('td',{'class':'info'}).find('a',{'class':'albumtitle ellipsis'}).text
         #print(title.strip(),"  ",singer.strip(),"  ",album.strip())#use strip() -> delete blank space
 
-        sql  = "insert into song(title,singer,albumName) values(%s,%s,%s)"
-        curs.execute(sql,(title.strip(),singer.strip(),album))        
-        
+        sql  = "INSERT INTO  song (title,singer,albumName) VALUES (%s,%s,%s)"
+        #sql = 'select * from song'
+        curs.execute(sql,('test2','test2','test2'))        
+        #curs.execute(sql)
+        #print(curs.fetchone())
+        conn.commit()
 #앨범 사진 크롤링
 for i in soup.find_all('a',class_='cover'):
     img_url = link + i.find('img').get('src') 
@@ -48,3 +51,5 @@ for i in soup.find_all('a',class_='cover'):
     
     #파일로 저장 
     #urllib.request.urlretrieve(img_url,img_name+'.jpg')
+
+
