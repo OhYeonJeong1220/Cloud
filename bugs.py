@@ -29,6 +29,8 @@ for i in soup.find_all('p',class_='title'):
     print(rank_list[n][0])
     n = n+1
 
+print(n)
+
 #for i in top_list2:
  #   singer = i.find('td').find('p').find('a')
   #  print(singer.text)
@@ -46,6 +48,8 @@ for z in soup.find_all('p',class_='artist'):
     rank_list[m][1] = data_singer   #2차원 배열에 가수 이름 저장
     print(rank_list[m][1])
     m = m+1
+
+print(m)
 
 #for i in range(0,100):
 #    print("%d위 : %s - %s" %(i+1,title[i],singer2[i]))
@@ -68,7 +72,7 @@ for i in soup.find_all('a',class_='thumbnail'):
 #    print(img_url)
 #    print(img_name)
     
-    urllib.request.urlretrieve(img_url,str(num)+'.jpg')
+    urllib.request.urlretrieve(img_url,'img/'+str(num)+'.jpg')
     num = num+1
     #urllib.requests.urlretrieve(img_url,i.find('img').get('alt')+'.jpg')
 
