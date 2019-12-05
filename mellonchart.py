@@ -8,27 +8,31 @@ mellon=requests.get("https://www.melon.com/chart/index.htm",headers=headers)
 soup=BeautifulSoup(mellon.text,"html.parser")
 
 titles=soup.find_all('div',{'class':'ellipsis rank01'})
-songs=soup.find_all('div',{'class':'ellipsis rank02'})
+singers=soup.find_all('div',{'class':'ellipsis rank02'})
 imgs=soup.find_all('a',{'class':'image_typeAll'})
 alts=soup.find_all('a',{'class':'image_typeAll'})
+albums=soup.find_all('div',{'class':'ellipsis rank03'})
 
 title=[]
-song=[]
+singer=[]
 img=[]
 alt=[]
 name=[]
+album=[]
 
 for t in titles:
     title.append(t.find('a').text)
-for s in songs:
-    song.append(s.find('span',{'class':'checkEllipsis'}).text)
+for s in singers:
+    singer.append(s.find('span',{'class':'checkEllipsis'}).text)
 for j in imgs:
     img.append(j.find('img')['src'])
 for k in alts:
     alt.append(k.find('img')['alt'])
 for t in range(RANK):
     name.append(t)
+for a in albums:
+    album.append(a.find('a').text)
 
 for i in range(RANK):
-    print('%d title:%s singer:%s imgsrc:%s'%(i,title[i].strip(),song[i].strip(),img[i].strip()))
+    print('%d title:%s singer:%s album:%s imgsrc:%s'%(i,title[i].strip(),singer[i].strip(),album[i].strip(),img[i].strip()))
     urllib.request.urlretrieve(img[i],str(name[i])+'.jpg')
