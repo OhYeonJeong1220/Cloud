@@ -93,6 +93,6 @@ excel_data = pd.DataFrame(rank_list)
 #크롤링 결과 2차원 배열을 excel_data 변수에 저장
 excel_data.columns = ['title','singer','album','lyrics']
 #엑셀 각 열의 이름 정하기
-excel_data.to_csv('bugs_list.csv',encoding='cp949')
+excel_data.to_csv('bugs_list.csv',encoding='utf-8')
 #csv파일로 저장
-
+#제발
