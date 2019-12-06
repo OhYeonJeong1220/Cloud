@@ -26,10 +26,10 @@ for i in soup.find_all('p',class_='title'):
     #f_song.write(data_song) #텍스트파일에 노래 이름 저장
     #title[n] = song.text #배열에 노래 이름 저장
     rank_list[n][0] = data_song #2차원 배열에 노래제목 저장
-    print(rank_list[n][0])
+  #  print(rank_list[n][0])
     n = n+1
 
-print(n)
+#print(n)
 
 #for i in top_list2:
  #   singer = i.find('td').find('p').find('a')
@@ -46,10 +46,10 @@ for z in soup.find_all('p',class_='artist'):
     #f_singer.write(data_singer)
     #singer2[m] = singer.text #배열에 가수 이름 저장
     rank_list[m][1] = data_singer   #2차원 배열에 가수 이름 저장
-    print(rank_list[m][1])
+ #   print(rank_list[m][1])
     m = m+1
 
-print(m)
+#print(m)
 
 #for i in range(0,100):
 #    print("%d위 : %s - %s" %(i+1,title[i],singer2[i]))
@@ -78,11 +78,14 @@ for i in soup.find_all('a',class_='thumbnail'):
 
 m = 0
 #앨범 이름 크롤링
-for i in soup.find_all('a',class_='album'):
+for i in soup.find_all('a', class_='album'):
     data_album = "%s\n" % i.text
-    rank_list[m][2] = data_album #2차원 배열에 앨범이름 저장
-    print(rank_list[m][2])
+    if m >=1:
+        rank_list[m-1][2] = data_album #2차원 배열에 앨범이름 저장
+        #print(rank_list[m-1][2])
+    m = m+1
 
+print(m)
 
 #수록곡 크롤링
 #for i in soup.find_all('a', class_='album'):
