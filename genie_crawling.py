@@ -36,7 +36,9 @@ new_url = urlunparse(parts)
 
 print(new_url)
 
-img_link1 = 'https:'
+http = 'https:'
+img_link1 = 'https://www.genie.co.kr/chart/top200?ditc=D&ymd=20191206&hh=19&rtm=Y&pg=1'
+
 img_link2 = 'https://www.genie.co.kr/chart/top200?ditc=D&ymd=20191206&hh=19&rtm=Y&pg=2'
 
 #곡제목, 가수, 앨범 이름 크롤링
@@ -59,7 +61,7 @@ for n in range(1,3):
         title = song.find('td',{'class':'info'}).find('a',{'class':'title ellipsis'}).text
         singer = song.find('td',{'class':'info'}).find('a',{'class':'artist ellipsis'}).text
         album = song.find('td',{'class':'info'}).find('a',{'class':'albumtitle ellipsis'}).text
-        print(title.strip(),"  ",singer.strip(),"  ",album.strip())#use strip() -> delete blank space
+        #print(title.strip(),"  ",singer.strip(),"  ",album.strip())#use strip() -> delete blank space
 
         #sql  = "INSERT INTO  song (title,singer,albumName) VALUES (%s,%s,%s)"
         #sql = 'select * from song'
@@ -68,35 +70,41 @@ for n in range(1,3):
         #print(curs.fetchone())
         conn.commit()
 
-    #앨범 사진 크롤링
+#앨범 사진 크롤링
 
-    opener = urllib.request.build_opener()
-    opener.addheaders = [('User-Agent','Mozilla/5.0')]
+opener = urllib.request.build_opener()
+opener.addheaders = [('User-Agent','Mozilla/5.0')]
 
-    urllib.request.install_opener(opener)
+urllib.request.install_opener(opener)
+
+resp = requests.get(img_link1,headers = headers)
+soup = BeautifulSoup(resp.text, 'html.parser')
 
 num = 1
 
 for i in soup.find_all('a',class_='cover'):
-    img_url = img_link1 + i.find('img').get('src') 
+    img_url = http + i.find('img').get('src') 
     img_name = i.find('img').get('alt')
-    #print(img_url)
-   # print(img_name+'.jpg')
+    print(img_url)
+    print(img_name+'.jpg')
     
     #파일로 저장 
-    urllib.request.urlretrieve(img_url,'Gimg/' + str(num) + '.jpg')
+    #urllib.request.urlretrieve(img_url,'Gimg/' + str(num) + '.jpg')
     num = num +1
+
+resp = requests.get(img_link2,headers = headers)
+soup = BeautifulSoup(resp.text, 'html.parser')
 
 num = 51
 
 for i in soup.find_all('a',class_='cover'):
-    img_url = img_link1 +i.find('img').get('src')
+    img_url = http +i.find('img').get('src')
     img_name = i.find('img').get('alt')
-        #print(img_url)
-        #print(img_name+'.jpg')
+    print(img_url)
+    print(img_name+'.jpg')
 
     #파일로 저장
-    urllib.request.urlretrieve(img_url,'Gimg/' + str(num) + '.jpg')
+    #urllib.request.urlretrieve(img_url,'Gimg/' + str(num) + '.jpg')
     num = num +1
 
 
