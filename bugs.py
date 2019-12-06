@@ -15,7 +15,7 @@ f_song = open("bugs_song.txt","w") #노래 차트 텍스트 파일
 f_singer = open("bugs_singer.txt","w") #가수 차트 텍스트 파일
 
 title = [None]*100
-rank_list = [[0 for col in range(4)]for row in range(100)]   #100*4 리스트 생성
+rank_list = [[0 for col in range(3)]for row in range(100)]   #100*4 리스트 생성
 
 n = 0
 
@@ -54,6 +54,7 @@ for z in soup.find_all('p',class_='artist'):
 #for i in range(0,100):
 #    print("%d위 : %s - %s" %(i+1,title[i],singer2[i]))
 
+m = 0
 #가사 크롤링(코딩할 땐 웬만하면 주석처리.. 오래걸려요)
 #for i in soup.find_all('a', class_='trackInfo'):
 #    lyrics_url = i.get('href')
@@ -62,6 +63,9 @@ for z in soup.find_all('p',class_='artist'):
 #    soup_lyrics = BeautifulSoup(html2,'html.parser')
 #    j = soup_lyrics.find('div',class_='lyricsContainer')
 #    lyrics = j.find('xmp')
+#   lyrics2 = "%s\n" % lyrics.text
+#    rank_list[m][3] = lyrics2
+#    m = m+1
     #print(lyrics.text)
 
 #앨범 사진 크롤링
@@ -102,7 +106,7 @@ print(m)
 
 excel_data = pd.DataFrame(rank_list)    
 #크롤링 결과 2차원 배열을 excel_data 변수에 저장
-excel_data.columns = ['title','singer','album','img']
+excel_data.columns = ['title','singer','album']
 #엑셀 각 열의 이름 정하기
 excel_data.to_csv('bugs_list.csv',encoding='utf-8')
 #csv파일로 저장
