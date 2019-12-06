@@ -76,6 +76,14 @@ for i in soup.find_all('a',class_='thumbnail'):
     num = num+1
     #urllib.requests.urlretrieve(img_url,i.find('img').get('alt')+'.jpg')
 
+m = 0
+#앨범 이름 크롤링
+for i in soup.find_all('a',class_='album'):
+    data_album = "%s\n" % i.text
+    rank_list[m][2] = data_album #2차원 배열에 앨범이름 저장
+    print(rank_list[m][2])
+
+
 #수록곡 크롤링
 #for i in soup.find_all('a', class_='album'):
 #    list_url = i.get('href')
@@ -91,7 +99,7 @@ for i in soup.find_all('a',class_='thumbnail'):
 
 excel_data = pd.DataFrame(rank_list)    
 #크롤링 결과 2차원 배열을 excel_data 변수에 저장
-excel_data.columns = ['title','singer','album','lyrics']
+excel_data.columns = ['title','singer','album','img']
 #엑셀 각 열의 이름 정하기
 excel_data.to_csv('bugs_list.csv',encoding='utf-8')
 #csv파일로 저장
