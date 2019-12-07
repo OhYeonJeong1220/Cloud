@@ -41,7 +41,7 @@ for i in range(0,100):
     M_matrix[i][1] = singer[i]
     M_matrix[i][2] = album[i]
     M_matrix[i][3] = 45
-    M_matrix[i][4] = i+1
+    M_matrix[i][4] = 100-i
 
 if(__name__ == "__main__"):    
     for i in range(0,100):

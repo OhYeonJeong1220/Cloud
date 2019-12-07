@@ -102,7 +102,7 @@ for i in soup.find_all('a', class_='album'):
 
 for i in range(0,100):
     B_matrix[i][3]=25
-    B_matrix[i][4]=i+1
+    B_matrix[i][4]=100-i
 if(__name__ == "__main__"):
     for i in range(0,100):
             print(B_matrix[i])
