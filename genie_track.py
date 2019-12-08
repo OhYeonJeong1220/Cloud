@@ -3,16 +3,38 @@ from bs4 import BeautifulSoup
 from urllib.request import urlopen
 import urllib
 import re
+from datetime import datetime
+from urllib.parse import urlparse, parse_qsl, urlencode, urlunparse
+
 
 headers = {'User-Agent':'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.3'}#user info
 
-url = 'https://www.genie.co.kr/chart/top200?ditc=D&ymd=20191128&hh=18&rtm=Y&pg={}'#page move
+today = datetime.today().strftime("%Y%m%d")#오늘 날짜
+
+
+parts = urlparse('https://www.genie.co.kr/chart/top200?ditc=D&ymd=20191206&hh=19&rtm=Y&pg=1')
+#요소 분리
+qs = dict(parse_qsl(parts.query))
+#parse_sql의 결과를 딕셔너리로 캐스팅
+qs['ymd'] = today
+#수정
+parts = parts._replace(query=urlencode(qs))
+new_url = urlunparse(parts)
+
 
 songid = []#songid
 
 #앨범  번호 크롤링
 for n in range(1,3):
-    link = url.format(n)
+    #요소 분리
+    parts_ = urlparse('https://www.genie.co.kr/chart/top200?ditc=D&ymd=20191206&hh=19&rtm=Y&pg=1')
+    #parse_sql의 결과를 딕셔너리로 캐스팅
+    qs_ = dict(parse_qsl(parts_.query))
+    #수정
+    qs_['pg'] = n
+    parts_ = parts_._replace(query=urlencode(qs_))
+    link = urlunparse(parts_)
+
     resp = requests.get(link,headers = headers)
     soup = BeautifulSoup(resp.text, 'html.parser')
     songs = soup.select('#body-content > div.newest-list > div > table > tbody > tr')
