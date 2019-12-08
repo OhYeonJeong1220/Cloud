@@ -104,8 +104,10 @@ for i in range(0,100):
     B_matrix[i][3]=25
     B_matrix[i][4]=100-i
 if(__name__ == "__main__"):
-    for i in range(0,100):
-            print(B_matrix[i])
+    del B_matrix[0]
+
+    for i in range(0,99):
+        print(i+1,'위:',B_matrix[i])
 
 #수록곡 크롤링
 #for i in soup.find_all('a', class_='album'):

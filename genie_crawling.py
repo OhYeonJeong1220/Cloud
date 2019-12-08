@@ -71,7 +71,7 @@ for n in range(1,3):
         G_matrix[col][3]=30#지분율
         G_matrix[col][4]= 100-col#순위
         col = col +1
-
+        #print('col:',col)
         #sql  = "INSERT INTO  song (title,singer,albumName) VALUES (%s,%s,%s)"
         #sql = 'select * from song'
         #curs.execute(sql,('test2','test2','test2'))        
