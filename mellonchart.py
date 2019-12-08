@@ -20,7 +20,7 @@ alt=[]
 name=[]
 album=[]
 
-M_matrix = [[0 for x in range(5)] for y in range(100)]#100*3 리스트 생성
+M_matrix = [[0 for x in range(6)] for y in range(100)]#100*3 리스트 생성
 col = 0
 
 for t in titles:
@@ -41,7 +41,7 @@ for i in range(0,100):
     M_matrix[i][1] = singer[i]
     M_matrix[i][2] = album[i]
     M_matrix[i][3] = 45
-    M_matrix[i][4] = i+1
+    M_matrix[i][4] = 100-i
 
 if(__name__ == "__main__"):    
     for i in range(0,100):

@@ -17,7 +17,7 @@ f_singer = open("bugs_singer.txt","w") #가수 차트 텍스트 파일
 title = [None]*100
 rank_list = [[0 for col in range(3)]for row in range(100)]   #100*4 리스트 생성
 
-B_matrix = [[0 for x in range(5)]for y in range(100)]
+B_matrix = [[0 for x in range(6)]for y in range(100)]
 
 n = 0
 
@@ -62,16 +62,17 @@ for z in soup.find_all('p',class_='artist'):
 
 m = 0
 #가사 크롤링(코딩할 땐 웬만하면 주석처리.. 오래걸려요)
-#for i in soup.find_all('a', class_='trackInfo'):
-#    lyrics_url = i.get('href')
-#    req2 = requests.get(lyrics_url) #가사 url 요청
-#    html2 = req2.text
-#    soup_lyrics = BeautifulSoup(html2,'html.parser')
-#    j = soup_lyrics.find('div',class_='lyricsContainer')
-#    lyrics = j.find('xmp')
-#   lyrics2 = "%s\n" % lyrics.text
+for i in soup.find_all('a', class_='trackInfo'):
+    lyrics_url = i.get('href')
+    req2 = requests.get(lyrics_url) #가사 url 요청
+    html2 = req2.text
+    soup_lyrics = BeautifulSoup(html2,'html.parser')
+    j = soup_lyrics.find('div',class_='lyricsContainer')
+    lyrics = j.find('xmp')
+    lyrics2 = "%s\n" % lyrics.text
+    B_matrix[m][5] = lyrics2.strip()
 #    rank_list[m][3] = lyrics2
-#    m = m+1
+    m = m+1
     #print(lyrics.text)
 
 #앨범 사진 크롤링
@@ -102,10 +103,12 @@ for i in soup.find_all('a', class_='album'):
 
 for i in range(0,100):
     B_matrix[i][3]=25
-    B_matrix[i][4]=i+1
+    B_matrix[i][4]=100-i
 if(__name__ == "__main__"):
-    for i in range(0,100):
-            print(B_matrix[i])
+    del B_matrix[0]
+
+    for i in range(0,99):
+        print(i+1,'위:',B_matrix[i])
 
 #수록곡 크롤링
 #for i in soup.find_all('a', class_='album'):
