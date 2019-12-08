@@ -1,9 +1,10 @@
-from  genie_crawling import G_matrix 
-from  mellonchart import M_matrix
+from mellonlyrics import M_matrix
+from genie_lyrics import G_matrix
 from bugs import B_matrix
 from operator import itemgetter
 
 I_matrix = [[0  for locix in range(5)] for y in range(300)]
+
 num = 0
 index = 0
 I_index = 0
@@ -12,15 +13,19 @@ song1 = ''
 song2 = ''
 singer1=''
 singer2=''
+
 loc1=0
 loc2=0
+
 loc31=0
 loc32=0
 loc33=0
+
 loc41=0
 loc42=0
 loc43=0
 f= True
+
 #Melon을 기준으로 Bugs와 비교
 for i in range(0,100):
     for j in range(0,len(B_matrix)):
@@ -61,6 +66,7 @@ for i in range(0,100):
         loc41=B_matrix[j][1].find('(')
         loc42=B_matrix[j][1].find('&')
         loc43=B_matrix[j][1].find(',')
+        
         if(loc2 > 0):
             original =  B_matrix[j][0]
             song2 = original[:loc2]
@@ -111,6 +117,7 @@ for i in range(0,100):
             I_matrix[i][3] = M_matrix[i][3] + M_matrix[i][4] + B_matrix[j][3]+B_matrix[j][4]#가중치와 순위를 곱해서 저장i
             #print('dvd:',I_matrix[i][3])
             #print('j:',j)
+            #I_matrix[i][3] = (M_matrix[i][3]*M_matrix[i][4]) + (B_matrix[j][3]*B_matrix[j][4])#가중치와 순위를 곱해서 저장i
             index = j
             num = num + 1
         
@@ -121,7 +128,7 @@ for i in range(0,100):
         I_matrix[i][1] = M_matrix[i][1]
         I_matrix[i][2] = M_matrix[i][2]
         I_matrix[i][3] = M_matrix[i][3] + M_matrix[i][4]
-    
+
     else:
         #print(index)
         #print(B_matrix[index])
@@ -191,6 +198,7 @@ for i in range(0,I_index):
                 singer1=original[:loc32]
         else:
             singer1= I_matrix[i][1]
+        
         loc2 = G_matrix[j][0].find('(')
         loc41=G_matrix[j][1].find('(')
         loc42=G_matrix[j][1].find('&')

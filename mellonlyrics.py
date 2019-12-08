@@ -2,6 +2,8 @@ import requests
 from bs4 import BeautifulSoup
 import urllib.parse
 import urllib.request
+import re
+from mellonchart import M_matrix
 
 headers = {
             "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit 537.36 (KHTML, like Gecko) Chrome",
@@ -17,14 +19,16 @@ lric2=[]
 lic2=[]
 lyrics=soup.find_all('tr',{'class':'lst50'})
 lyrics2=soup.find_all('tr',{'class':'lst100'})
-
+a=0
 for tr in lyrics:
     lyrics_url='https://www.melon.com/song/detail.htm?songId={}'
     lyrics_add=lyrics_url.format(tr.get('data-song-no'))
     manylyrics=requests.get(lyrics_add,headers=headers)
     lyrics_soup=BeautifulSoup(manylyrics.text,'html.parser')
-    lyric=lyrics_soup.find('div',{'id':'d_video_summary'})
-    lric.append(lyric.text)
+    lyric=str(lyrics_soup.find('div',{'id':'d_video_summary'}))
+    lic = lyric.strip('<div class="lyric" id="d_video_summary"><!-- height:auto; 로 변경시, 확장됨 -->\r\n\t\t\t\t\t\t\t')
+    M_matrix[a][5]=lic.strip('</div>')
+    a = a + 1
 
 tr2=50
 for tr2 in lyrics2:
@@ -32,9 +36,13 @@ for tr2 in lyrics2:
     lyrics2_add=lyrics2_url.format(tr2.get('data-song-no'))
     manylyrics2=requests.get(lyrics2_add,headers=headers)
     lyrics_soup2=BeautifulSoup(manylyrics2.text,'html.parser')
-    lyric2=lyrics_soup2.find('div',{'id':'d_video_summary'})
-    lric.append(lyric2.text)
+    lyric2=str(lyrics_soup2.find('div',{'id':'d_video_summary'}))
+    lic2= lyric2.strip('<div class="lyric" id="d_video_summary"><!-- height:auto; 로 변경시, 확장됨 -->\r\n\t\t\t\t\t\t\t')
+    M_matrix[a][5] = lic2.strip('</div>')
+    a=a+1
 
-for t in range(RANK):
-    print('%d %s'%(t,lric[t].strip()))
+i=0
+if(__name__=="__main__"):
+    for i in range(0,100):
+        print(M_matrix[i])
 

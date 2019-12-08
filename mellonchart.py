@@ -20,7 +20,7 @@ alt=[]
 name=[]
 album=[]
 
-M_matrix = [[0 for x in range(5)] for y in range(100)]#100*3 리스트 생성
+M_matrix = [[0 for x in range(6)] for y in range(100)]#100*3 리스트 생성
 col = 0
 
 for t in titles:

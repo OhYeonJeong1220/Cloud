@@ -21,7 +21,7 @@ curs = conn.cursor()
 
 headers = {'User-Agent':'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.3'}#user info
 
-G_matrix = [[0 for x in range(5)] for y in range(100)]#100*4리스트 생성
+G_matrix = [[0 for x in range(6)] for y in range(100)]#100*4리스트 생성
 
 today = datetime.today().strftime("%Y%m%d")#오늘 날짜
 
