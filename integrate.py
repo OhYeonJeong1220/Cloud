@@ -1,6 +1,7 @@
 from  genie_crawling import G_matrix 
 from  mellonchart import M_matrix
 from bugs import B_matrix
+import pandas as pd
 
 
 I_matrix = [[99999  for x in range(5)] for y in range(300)]
@@ -30,14 +31,14 @@ for i in range(0,100):
     else:
         del B_matrix[index]#mwllon과 같은 노래면 벅스 차트에서 노래 삭제
     num = 0
-for i in range(0,100):
-    print(I_matrix[i])
+#for i in range(0,100):
+#    print(I_matrix[i])
 
-print("====================================================")
+#print("====================================================")
 
-for i in range(len(B_matrix)):
-    print(B_matrix[i])
-print("====================================================")
+#for i in range(len(B_matrix)):
+#    print(B_matrix[i])
+#print("====================================================")
 #mellon 노래와 겹치는 노래 빼고 bugs 노래 저장
 for i in range(100,100+len(B_matrix)):
     I_matrix[i][0] = B_matrix[i-100][0]
@@ -68,8 +69,8 @@ for i in range(0,I_index):
         del G_matrix[index]
     num = 0
 
-for i in range(len(G_matrix)):
-    print(G_matrix[i])
+#for i in range(len(G_matrix)):
+#    print(G_matrix[i])
 #통합차트와  겹치는 노래 빼고 ginie 노래 저장
 for i in range(0,len(G_matrix)):
     I_matrix[I_index][0] = G_matrix[i][0]
@@ -85,9 +86,17 @@ I_matrix.sort(key = lambda x: x[3])#3번째 원소로 정렬
 print('I_index' , I_index)
 
 #print(I_matrix[0])
-#for i in range(0,100):
-    #print(i+1,'위 : ',I_matrix[i])
+for i in range(0,100):
+    print(i+1,'위 : ',I_matrix[i])
 
 #I_matrx 전체  출력
 #for x,y,z,r,b in I_matrix:
     #print(x,y,z,r,b)
+
+excel_data = pd.DataFrame(I_matrix)
+#크롤링 결과 2차원 배열을 excel_data 변수에 저장
+excel_data.columns = ['title','singer','albumName','x','y']
+#엑셀 각 열의 이름 정하기
+excel_data.to_csv('integrate_excel.csv',encoding='utf-8')
+#csv파일로 저장
+
