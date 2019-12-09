@@ -316,12 +316,13 @@ ggg =1
 for i in range(0,100):
     print(i+1,'위 : ',I_matrix[i])
     alb_name = I_matrix[i][2]+'.jpg'
-
+    print('alb_name:',alb_name)
     
     for item in list:
         if item.find(alb_name) is not -1:
             path = './intgrate_img/'+I_matrix[i][2]+'.jpg'
             origin_file ='./final_img/'+ I_matrix[i][2]+'.jpg'
+            print('origin_file',origin_file)
             file_name = './final_img/'+str(ggg)+'.jpg'
             print('file_name:',file_name)
             shutil.copy(path,'./final_img')

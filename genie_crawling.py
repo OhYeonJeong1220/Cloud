@@ -26,7 +26,7 @@ G_matrix = [[0 for x in range(6)] for y in range(100)]#100*4리스트 생성
 today = datetime.today().strftime("%Y%m%d")#오늘 날짜
 
 
-parts = urlparse('https://www.genie.co.kr/chart/top200?ditc=D&ymd=20191206&hh=19&rtm=Y&pg=1')
+parts = urlparse('https://www.genie.co.kr/chart/top200?ditc=D&ymd=20191209&hh=19&rtm=Y&pg=1')
 #요소 분리
 qs = dict(parse_qsl(parts.query))
 #parse_sql의 결과를 딕셔너리로 캐스팅
