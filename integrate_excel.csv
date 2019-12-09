@@ -1,301 +1,3102 @@
-,title,singer,albumName,x,y
-0,"Into the Unknown (From ""Frozen 2""/Soundtrack Version)","Idina Menzel, Aurora",Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),90,2
-1,아마두 (Feat. 우원재 & 김효은 & 넉살 & Huckleberry P),염따 & 딥플로우 & 팔로알토 (Paloalto) & The Quiett & 사이먼 도미닉,Dingo X DAMOIM (Part 2),90,99999
-2,Blueming,아이유,Love poem,190,1
-3,Into the Unknown,Idina Menzel(이디나 멘젤),Frozen 2 (겨울왕국 2 OST),260,101
-4,십이월 이십오일의 고백,정승환,십이월 이십오일의 고백,265,3
-5,흔들리는 꽃들 속에서 네 샴푸향이 느껴진거야,장범준,멜로가 체질 OST Part 3 (JTBC 금토 드라마),300,99999
-6,나의 오랜 연인에게,다비치,나의 오랜 연인에게,360,5
-7,조금 취했어 (Prod. by 2soo),임재현,조금 취했어,480,99999
-8,늦은 밤 너의 집 앞 골목길에서,노을,늦은 밤 너의 집 앞 골목길에서,485,4
-9,"아마두 (feat.우원재, 김효은, 넉살, Huckleberry P)","염따, 딥플로우, 팔로알토 (Paloalto), The Quiett, 사이먼 도미닉",Dingo X DAMOIM (Part 2),490,7
-10,"Show Yourself (From ""Frozen 2""/Soundtrack Version)","Idina Menzel, Evan Rachel Wood",Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),540,12
-11,인기 (Feat. 송가인 & 챈슬러),MC몽,CHANNEL 8,540,99999
-12,Show Yourself,Idina Menzel(이디나 멘젤),Frozen 2 (겨울왕국 2 OST),590,102
-13,All I Want for Christmas Is You,Mariah Carey(머라이어 캐리),Merry Christmas [Deluxe Anniversary Edition],625,105
-14,Trouble,EXO,OBSESSION - The 6th Album,630,14
-15,안녕,폴킴,호텔 델루나 OST Part.10 (tvN 토일드라마),630,99999
-16,제목없음,황치열,제목없음,650,106
-17,"숨겨진 세상 (Into the Unknown End Credit Version) (""겨울왕국 2"")",태연 (TAEYEON),겨울왕국 2 [한국어 버전],675,107
-18,춤 (Groove),EXO,OBSESSION - The 6th Album,720,16
-19,HIP,마마무(Mamamoo),reality in BLACK,750,10
-20,Into the Unknown (Panic! At The Disco Version),Panic! At The Disco(패닉 앳 더 디스코),Frozen 2 (겨울왕국 2 OST),775,108
-21,지킬 (Jekyll),EXO,OBSESSION - The 6th Album,810,18
-22,FEVER (Feat. 수퍼비 & BIBI),박진영,FEVER,810,99999
-23,Snowman,Sia(시아),Everyday Is Christmas [Deluxe],850,110
-24,나비효과 (Butterfly Effect),EXO,OBSESSION - The 6th Album,855,19
-25,헤어진 우리가 지켜야 할 것들,"김나영, 양다일",헤어진 우리가 지켜야 할 것들,900,8
-26,Love poem,아이유,Love poem,900,9
-27,Ya Ya Ya,EXO,OBSESSION - The 6th Album,900,20
-28,Memories,Maroon 5(마룬 파이브),Memories,900,111
-29,Baby You Are,EXO,OBSESSION - The 6th Album,945,21
-30,오늘도 (Day After Day),EXO,OBSESSION - The 6th Album,1035,23
-31,Non Stop,EXO,OBSESSION - The 6th Album,1080,24
-32,"모든 날, 모든 순간 (Every day, Every Moment)",폴킴,'키스 먼저 할까요?' OST Part. 3 (SBS 월화드라마),1080,99999
-33,기억해줘요 내 모든 날과 그때를,거미 (Gummy),호텔 델루나 OST Part.7 (tvN 토일드라마),1110,99999
-34,숨겨진 세상 (Into the Unknown End Credit Ver.) (겨울왕국 2),태연 (TAEYEON),겨울왕국 2 (한국어 버전),1140,99999
-35,Don't Start Now,Dua Lipa(두아 리파),Don't Start Now,1175,114
-36,흔들리는 꽃들 속에서 네 샴푸향이 느껴진거야,장범준,멜로가 체질 OST Part 3,1200,15
-37,운명이 내게 말해요,헤이즈(Heize),동백꽃 필 무렵 (KBS2 수목드라마) OST - Part.9,1200,115
-38,사랑에 연습이 있었다면 (Prod. by 2soo),임재현,사랑에 연습이 있었다면,1200,99999
-39,"인기 (Feat. 송가인, 챈슬러)",MC몽,CHANNEL 8,1215,27
-40,"모든 날, 모든 순간 (Every day, Every Moment)",폴킴(Paul Kim),'키스 먼저 할까요?' OST Part.3,1225,116
-41,LION,(여자)아이들,퀸덤 ＜FINAL 컴백 싱글＞,1230,99999
-42,작은 것들을 위한 시 (Boy With Luv) (feat. Halsey),방탄소년단,MAP OF THE SOUL : PERSONA,1300,117
-43,"어떻게 이별까지 사랑하겠어, 널 사랑하는 거지",AKMU (악동뮤지션),항해,1315,13
-44,작은 것들을 위한 시 (Boy With Luv) (Feat. Halsey),방탄소년단,MAP OF THE SOUL : PERSONA,1320,99999
-45,Senorita,Camila Cabello & Shawn Mendes,Senorita,1410,99999
-46,The Next Right Thing,Kristen Bell(크리스틴 벨),Frozen 2 (겨울왕국 2 OST),1425,119
-47,All I Want For Christmas Is You,Mariah Carey,Merry Christmas (Deluxe Anniversary Edition),1485,33
-48,+DONE161201+,CL,사랑의 이름으로,1500,120
-49,겨울이 오면,김필(Kim Feel),동백꽃 필 무렵 (KBS2 수목드라마) OST - Part.8,1525,121
-50,"인기 (feat. 송가인, 챈슬러)",MC몽,CHANNEL 8,1575,122
-51,2002,Anne-Marie(앤 마리),Speak Your Mind [Deluxe],1600,123
-52,그대라는 시,태연 (TAEYEON),호텔 델루나 OST Part.3 (tvN 토일드라마),1620,99999
-53,Gravity,태연 (TAEYEON),Purpose - The 2nd Album,1650,125
-54,"숨겨진 세상 (Into the Unknown End Credit Version) (""겨울왕국 2"")",태연 (TAEYEON),겨울왕국 2 (한국어 버전),1665,37
-55,ROXANNE,Arizona Zervas,ROXANNE,1675,126
-56,Obsession,EXO,OBSESSION - The 6th Album,1705,6
-57,작은 것들을 위한 시 (Boy With Luv) feat. Halsey,방탄소년단,MAP OF THE SOUL : PERSONA,1710,38
-58,이 번호로 전화해줘,바이브,이 번호로 전화해줘,1715,11
-59,시간의 바깥,아이유,Love poem,1715,22
-60,FLOWER SHOWER,현아,FLOWER SHOWER,1725,128
-61,미리 메리 크리스마스 (feat. 천둥 Of MBLAQ),아이유(IU),Real,1775,130
-62,빌었어,창모(CHANGMO),Boyhood,1800,131
-63,차가워진 이 바람엔 우리가 써있어 (Bad Love),HYNN (박혜원),차가워진 이 바람엔 우리가 써있어 (Bad Love),1830,99999
-64,조금 취했어 (Prod. 2soo),임재현,조금 취했어,1840,17
-65,All I Want for Christmas Is You,Mariah Carey,Merry Christmas (Deluxe Anniversary Edition),1890,99999
-66,내 생애 가장 행복한 시간 Part.2 (Feat. 양다일),MC몽,CHANNEL 8,1920,99999
-67,When I Am Older,Josh Gad(조쉬 개드),Frozen 2 (겨울왕국 2 OST),1925,133
-68,Lose You To Love Me,Selena Gomez(셀레나 고메즈),Lose You To Love Me,1975,134
-69,嗜 (Obsession),EXO,OBSESSION - The 6th Album,1980,44
-70,헤어지자 (Prod. by 정키 (Jung Key)),휘인 (Whee In),soar,2010,99999
-71,미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ),아이유,Real,2070,46
-72,눈치,폴킴(Paul Kim),유플래쉬,2100,135
-73,노래방에서,장범준,장범준 3집,2190,99999
-74,안녕,폴킴,호텔 델루나 OST Part.10,2225,30
-75,성탄절 장미 (Feat.이바다),오반,성탄절 장미 (Feat.이바다),2250,50
-76,Some Things Never Change,Kristen Bell(크리스틴 벨),Frozen 2 (겨울왕국 2 OST),2285,103
-77,SUGA's Interlude,Halsey(할시),SUGA's Interlude,2300,127
-78,그때가 좋았어,케이시 (Kassy),그때가 좋았어,2310,99999
-79,미리 메리 크리스마스 (Feat. 천둥 of MBLAQ),아이유 (IU),REAL,2340,99999
-80,밤 끝없는 밤,AKMU (악동뮤지션),항해,2350,137
-81,All Falls Down (Feat. Noah Cyrus & Digital Farm Animals),Alan Walker,Different World,2370,99999
-82,이상한 사람,존 박(John Park),동백꽃 필 무렵 (KBS2 수목드라마) OST - Part.1,2375,138
-83,Speechless (Full),Naomi Scott,알라딘 (Aladdin) OST,2400,139
-84,On My Way,Alan Walker & Sabrina Carpenter & Farruko,On My Way,2460,99999
-85,"Some Things Never Change (From ""Frozen 2""/Soundtrack Version)","Kristen Bell, Idina Menzel, Josh Gad, Jonathan Groff, Cast of Frozen 2",Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),2475,55
-86,Painkiller,Ruel(루엘),Painkiller,2475,140
-87,METEOR,창모 (CHANGMO),Boyhood,2500,28
-88,레인보우(Feat.YDG) (Prod.iDeal),뱃사공,Dingo X 뱃사공,2500,141
-89,티격태격 (Feat. DPR LIVE),Crush,From Midnight To Sunrise,2505,112
-90,나의 어깨에 기대어요,10cm,호텔 델루나 OST Part.2 (tvN 토일드라마),2580,99999
-91,"모든 날, 모든 순간 (Every day, Every Moment)",폴킴,`키스 먼저 할까요?` OST Part.3,2655,59
-92,Way Back Home,숀 (SHAUN),Take,2670,99999
-93,새 사랑,송하예,새 사랑,2730,26
-94,내 목소리 들리니,벤,호텔 델루나 OST Part.9 (tvN 토일드라마),2730,99999
-95,차가워진 이 바람엔 우리가 써있어(Bad Love),HYNN (박혜원),차가워진 이 바람엔 우리가 써있어(Bad Love),2770,41
-96,나만 아픈 일,이해리 (다비치),나만 아픈 일,2790,99999
-97,사랑이란 멜로는 없어,전상근,사랑이란 멜로는 없어,2840,25
-98,비,폴킴,비,2850,99999
-99,Done For Me,펀치 (Punch),호텔 델루나 OST Part.12 (tvN 토일드라마),2880,99999
-100,unlucky,아이유,Love poem,2895,40
-101,Believer,Imagine Dragons,Believer,2910,99999
-102,2002,Anne-Marie,Speak Your Mind (Deluxe),2925,45
-103,헤어지자 (Prod. 정키),휘인 (Whee In),soar,2970,66
-104,가끔 이러다,펀치 (Punch),가끔 이러다,2970,99999
-105,오늘도 빛나는 너에게 (To You My Light) (Feat.이라온),마크툽 (MAKTUB),Red Moon : To You My Light,2975,29
-106,All Is Found,Evan Rachel Wood(이반 레이첼 우드),Frozen 2 (겨울왕국 2 OST),2975,104
-107,옥탑방 (Rooftop),엔플라잉 (N.Flying),FLY HIGH PROJECT #2 '옥탑방',3000,99999
-108,불티 (Spark),태연 (TAEYEON),Purpose - The 2nd Album,3025,35
-109,봄날,방탄소년단,YOU NEVER WALK ALONE,3060,68
-110,맵고짜고단거 (Feat. 페노메코),다이나믹듀오,OFF DUTY,3165,113
-111,5월의 밤,Zion.T,5월의 밤,3175,118
-112,우리 어떻게 할까요,첸 (CHEN),사랑하는 그대에게 - The 2nd Mini Album,3240,72
-113,LION,(여자)아이들,퀸덤 <FINAL 컴백 싱글>,3360,58
-114,Wake Up (Feat. DEAN),Crush,From Midnight To Sunrise,3375,132
-115,우리 왜 헤어져야 해,신예영,우리 왜 헤어져야 해,3510,78
-116,있어줘요,장덕철,있어줘요,3560,31
-117,시든 꽃에 물을 주듯,HYNN (박혜원),시든 꽃에 물을 주듯,3640,36
-118,Lost in the Woods,Jonathan Groff(조나단 그로프),Frozen 2 (겨울왕국 2 OST),3645,109
-119,"All Is Found (From ""Frozen 2""/Soundtrack Version)",Evan Rachel Wood,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),3690,82
-120,안녕이라는 말,송이한,안녕이라는 말,3735,83
-121,Santa Tell Me,Ariana Grande,Santa Tell Me,3770,34
-122,"FEVER (Feat. 수퍼비, BIBI)",박진영,FEVER,3780,74
-123,"안녕, 겨울",정승환,십이월 이십오일의 고백,3820,129
-124,잘자 (Feat. Zion.T),Crush,From Midnight To Sunrise,3845,124
-125,넌 나의 전부 (I can`t take my eyes off you),임한별,넌 나의 전부/고백하러 가는 길,3870,86
-126,이별행동,이우,이별행동,3915,87
-127,IDOL,방탄소년단,LOVE YOURSELF 結 `Answer`,3960,88
-128,Alone,Crush,From Midnight To Sunrise,4130,61
-129,그 사람,아이유,Love poem,4150,54
-130,이별은 늘 그렇게 (Duet. 정은지),허각,이별은 늘 그렇게,4185,93
-131,With You,Crush,From Midnight To Sunrise,4265,79
-132,포장마차,황인욱,포장마차,4325,39
-133,사랑에 연습이 있었다면 (Prod. 2soo),임재현,사랑에 연습이 있었다면,4355,49
-134,"천둥벌거숭이 (Feat. Jvcki Wai, 염따)",지코 (ZICO),THINKING Part.1,4455,99
-135,이별주,황인욱,이별주,4470,32
-136,Snowman,Sia,Everyday Is Christmas (Deluxe),4470,52
-137,기억해줘요 내 모든 날과 그때를,거미,호텔 델루나 OST Part.7,4470,56
-138,소우주 (Mikrokosmos),방탄소년단,MAP OF THE SOUL : PERSONA,4500,100
-139,자장가,아이유,Love poem,4515,57
-140,잘 살고 있다,V.O.S,잘 살고 있다,4545,51
-141,워커홀릭,볼빨간사춘기,Two Five,4565,47
-142,Señorita,"Shawn Mendes, Camila Cabello",Señorita,4840,62
-143,니 소식,송하예,니 소식,4865,43
-144,샤넬 (Feat. 박봄),MC몽,CHANNEL 8,4875,65
-145,밤편지,아이유(IU),밤편지,4885,136
-146,그대라는 시,태연 (TAEYEON),호텔 델루나 OST Part.3,4895,76
-147,크리스마스니까,"성시경, 박효신, 이석훈, 서인국, VIXX (빅스)",Jelly Christmas 2012 HEART PROJECT,4930,69
-148,날 보러 와요 (Come See Me),AOA,NEW MOON,4960,75
-149,마음,폴킴,마음,5005,89
-150,허전해,폴킴,"정규 2집 '마음, 하나'",5240,60
-151,다시 만날까 봐,V.O.S,다시 만날까 봐,5495,42
-152,"어쩌면, 널 잊을 수 있을까",길구봉구,"어쩌면, 널 잊을 수 있을까",5520,77
-153,사랑이 식었다고 말해도 돼,먼데이 키즈 (Monday Kiz),사랑이 식었다고 말해도 돼,5625,48
-154,벗,닐로(Nilo),벗,5760,84
-155,꿈속에 너 (Feat. 전상근),에이치코드 (H:CODE),두 번째 이야기,5820,64
-156,나의 어깨에 기대어요,10cm,호텔 델루나 OST Part.2,6265,97
-157,Feel Special,TWICE (트와이스),Feel Special,6295,71
-158,너에게 못했던 내 마지막 말은,다비치,너에게 못했던 내 마지막 말은,6510,94
-159,Speechless (Full),Naomi Scott,Aladdin (Original Motion Picture Soundtrack),6630,92
-160,bad guy,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",6685,67
-161,BAND,"창모 (CHANGMO), Hash Swan, ASH ISLAND, 김효은",BAND,6810,53
-162,헤어져줘서 고마워,벤,헤어져줘서 고마워,6840,96
-163,너를 만나,폴킴,너를 만나,6845,73
-164,가을밤 떠난 너,케이시 (Kassy),Rewind,6875,63
-165,솔직하게 말해서 나,김나영,솔직하게 말해서 나,6960,98
-166,술이 문제야,"장혜진, 윤민수(바이브)",술이 문제야,6985,70
-167,영화 속에 나오는 주인공처럼,펀치 (Punch),동백꽃 필 무렵 (KBS2 수목드라마) OST - Part.6,7190,80
-168,사계 (Four Seasons),태연 (TAEYEON),사계 (Four Seasons),7940,91
-169,Paris In The Rain,Lauv,I met you when I was 18. (the playlist),7980,81
-170,제설,기리보이,치명적인 앨범 Ⅲ,8825,85
-171,떨어지는 낙엽까지도,헤이즈 (Heize),만추,8955,95
-172,주저하는 연인들을 위해,잔나비,전설,9085,90
-173,99999,99999,99999,99999,99999
-174,99999,99999,99999,99999,99999
-175,99999,99999,99999,99999,99999
-176,99999,99999,99999,99999,99999
-177,99999,99999,99999,99999,99999
-178,99999,99999,99999,99999,99999
-179,99999,99999,99999,99999,99999
-180,99999,99999,99999,99999,99999
-181,99999,99999,99999,99999,99999
-182,99999,99999,99999,99999,99999
-183,99999,99999,99999,99999,99999
-184,99999,99999,99999,99999,99999
-185,99999,99999,99999,99999,99999
-186,99999,99999,99999,99999,99999
-187,99999,99999,99999,99999,99999
-188,99999,99999,99999,99999,99999
-189,99999,99999,99999,99999,99999
-190,99999,99999,99999,99999,99999
-191,99999,99999,99999,99999,99999
-192,99999,99999,99999,99999,99999
-193,99999,99999,99999,99999,99999
-194,99999,99999,99999,99999,99999
-195,99999,99999,99999,99999,99999
-196,99999,99999,99999,99999,99999
-197,99999,99999,99999,99999,99999
-198,99999,99999,99999,99999,99999
-199,99999,99999,99999,99999,99999
-200,99999,99999,99999,99999,99999
-201,99999,99999,99999,99999,99999
-202,99999,99999,99999,99999,99999
-203,99999,99999,99999,99999,99999
-204,99999,99999,99999,99999,99999
-205,99999,99999,99999,99999,99999
-206,99999,99999,99999,99999,99999
-207,99999,99999,99999,99999,99999
-208,99999,99999,99999,99999,99999
-209,99999,99999,99999,99999,99999
-210,99999,99999,99999,99999,99999
-211,99999,99999,99999,99999,99999
-212,99999,99999,99999,99999,99999
-213,99999,99999,99999,99999,99999
-214,99999,99999,99999,99999,99999
-215,99999,99999,99999,99999,99999
-216,99999,99999,99999,99999,99999
-217,99999,99999,99999,99999,99999
-218,99999,99999,99999,99999,99999
-219,99999,99999,99999,99999,99999
-220,99999,99999,99999,99999,99999
-221,99999,99999,99999,99999,99999
-222,99999,99999,99999,99999,99999
-223,99999,99999,99999,99999,99999
-224,99999,99999,99999,99999,99999
-225,99999,99999,99999,99999,99999
-226,99999,99999,99999,99999,99999
-227,99999,99999,99999,99999,99999
-228,99999,99999,99999,99999,99999
-229,99999,99999,99999,99999,99999
-230,99999,99999,99999,99999,99999
-231,99999,99999,99999,99999,99999
-232,99999,99999,99999,99999,99999
-233,99999,99999,99999,99999,99999
-234,99999,99999,99999,99999,99999
-235,99999,99999,99999,99999,99999
-236,99999,99999,99999,99999,99999
-237,99999,99999,99999,99999,99999
-238,99999,99999,99999,99999,99999
-239,99999,99999,99999,99999,99999
-240,99999,99999,99999,99999,99999
-241,99999,99999,99999,99999,99999
-242,99999,99999,99999,99999,99999
-243,99999,99999,99999,99999,99999
-244,99999,99999,99999,99999,99999
-245,99999,99999,99999,99999,99999
-246,99999,99999,99999,99999,99999
-247,99999,99999,99999,99999,99999
-248,99999,99999,99999,99999,99999
-249,99999,99999,99999,99999,99999
-250,99999,99999,99999,99999,99999
-251,99999,99999,99999,99999,99999
-252,99999,99999,99999,99999,99999
-253,99999,99999,99999,99999,99999
-254,99999,99999,99999,99999,99999
-255,99999,99999,99999,99999,99999
-256,99999,99999,99999,99999,99999
-257,99999,99999,99999,99999,99999
-258,99999,99999,99999,99999,99999
-259,99999,99999,99999,99999,99999
-260,99999,99999,99999,99999,99999
-261,99999,99999,99999,99999,99999
-262,99999,99999,99999,99999,99999
-263,99999,99999,99999,99999,99999
-264,99999,99999,99999,99999,99999
-265,99999,99999,99999,99999,99999
-266,99999,99999,99999,99999,99999
-267,99999,99999,99999,99999,99999
-268,99999,99999,99999,99999,99999
-269,99999,99999,99999,99999,99999
-270,99999,99999,99999,99999,99999
-271,99999,99999,99999,99999,99999
-272,99999,99999,99999,99999,99999
-273,99999,99999,99999,99999,99999
-274,99999,99999,99999,99999,99999
-275,99999,99999,99999,99999,99999
-276,99999,99999,99999,99999,99999
-277,99999,99999,99999,99999,99999
-278,99999,99999,99999,99999,99999
-279,99999,99999,99999,99999,99999
-280,99999,99999,99999,99999,99999
-281,99999,99999,99999,99999,99999
-282,99999,99999,99999,99999,99999
-283,99999,99999,99999,99999,99999
-284,99999,99999,99999,99999,99999
-285,99999,99999,99999,99999,99999
-286,99999,99999,99999,99999,99999
-287,99999,99999,99999,99999,99999
-288,99999,99999,99999,99999,99999
-289,99999,99999,99999,99999,99999
-290,99999,99999,99999,99999,99999
-291,99999,99999,99999,99999,99999
-292,99999,99999,99999,99999,99999
-293,99999,99999,99999,99999,99999
-294,99999,99999,99999,99999,99999
-295,99999,99999,99999,99999,99999
-296,99999,99999,99999,99999,99999
-297,99999,99999,99999,99999,99999
-298,99999,99999,99999,99999,99999
-299,99999,99999,99999,99999,99999
+,title,singer,albumName,score,lyrics,youtube
+0,나의 오랜 연인에게,다비치,나의 오랜 연인에게,397,"까만 밤 빛이 없는 하루에 <br/>혼자 서있는 듯 <br/>어떤 말도 반갑지 않은 날에<br/>그래 넌 항상 거기 있지 <br/>그게 난 너무 편했나 봐 <br/>좋았나 봐 자꾸 두려울 만큼 <br/>멀리 걷고 있는 사람들 속 <br/>너만 참 빛나 보여 <br/>그저 힘들던 하루가<br/>날 아껴주는 네가 있어서 감사해<br/>가끔씩 난 뒤 돌아보면 <br/>철없이 온 세상에 우리 둘밖에 없었던 <br/>지난날 그때 또 그립겠지만 <br/>처음 같은 설레임보다 <br/>서로를 따뜻하게 바라봐주는 <br/>지금 이대로의 모습이 소중해<br/>이렇게 오랫동안 <br/>우리가 함께 웃게 될 줄 몰랐어 <br/>난 아마 너도 그렇지<br/>때론 알 수 없는 불안함에 <br/>아픈 날도 있었어 <br/>버거운 다툼 속에서<br/>어느새 훌쩍 커버린 마음 알잖아<br/>가끔씩 난 뒤 돌아보면 <br/>철없이 온 세상에 우리 둘밖에 없었던 <br/>지난날 그때 또 그립겠지만<br/>처음 같은 설레임보다 <br/>서로를 따뜻하게 바라봐주는 <br/>그런 사이가 행복일 테니까 <br/>사랑하니까 같은 꿈을 꾸게 돼 <br/>너라서 선명하지 않은 먼 길도 함께 갈게<br/>
+",https://www.youtube.com/results?search_query=%EB%82%98%EC%9D%98+%EC%98%A4%EB%9E%9C+%EC%97%B0%EC%9D%B8%EC%97%90%EA%B2%8C
+1,Blueming,아이유,Love poem,396,"‘뭐해?‘라는 두 글자에<br/>‘네가 보고 싶어’ 나의 속마음을 담아 우<br/>이모티콘 하나하나 속에<br/>달라지는 내 미묘한 심리를 알까 우<br/><br/>아니 바쁘지 않아 nothing no no <br/>잠들어 있지 않아 insomnia nia nia<br/>지금 다른 사람과 함께이지 않아<br/>응, 나도 너를 생각 중<br/><br/>우리의 네모 칸은 bloom<br/>엄지손가락으로 장미꽃을 피워 <br/>향기에 취할 것 같아 우<br/>오직 둘만의 비밀의 정원<br/><br/>I feel bloom I feel bloom I feel bloom<br/>너에게 한 송이를 더 보내<br/><br/>밤샘 작업으로 업데이트<br/>흥미로운 이 작품의 지은이 that’s me 우<br/>어쩜 이 관계의 클라이맥스<br/>2막으로 넘어가기엔 지금이 good timing 우<br/><br/>같은 맘인 걸 알아 realize la lize<br/>말을 고르지 말아 just reply la la ly<br/>조금 장난스러운 나의 은유에<br/>네 해석이 궁금해 <br/><br/>우리의 색은 gray and blue <br/>엄지손가락으로 말풍선을 띄워<br/>금세 터질 것 같아 우<br/>호흡이 가빠져 어지러워<br/><br/>I feel blue. I feel blue. I feel blue.<br/>너에게 가득히 채워 <br/><br/>띄어쓰기없이보낼게사랑인것같애<br/>백만송이장미꽃을, 나랑피워볼래?<br/>꽃잎의 색은 우리 마음 가는 대로 칠해<br/>시들 때도 예쁘게<br/><br/>우리의 네모 칸은 bloom<br/>엄지손가락으로 장미꽃을 피워 <br/>향기에 취할 것 같아 우<br/>오직 둘만의 비밀의 정원<br/><br/>I feel bloom I feel bloom I feel bloom<br/>너에게 한 송이를 더 보내<br/>
+",https://www.youtube.com/results?search_query=Blueming
+2,십이월 이십오일의 고백,정승환,십이월 이십오일의 고백,395,"입김처럼 하얀 목소리<br/>닿을 듯하다 사라지고<br/>못내 아쉬운 마음처럼<br/>천천히 걷는 두 사람<br/>넌 기다려 왔다가도<br/>움츠러들게 되는 겨울 같아<br/>걸음을 서둘러<br/>이 신호에 건너게 된다면<br/>서둘러 도착한 버스에<br/>우리 나란히 앉아 간다면<br/>십이월 이십오일의 고백을<br/>서둘러 오늘 할 텐데<br/>시큰 하고 시리다가도<br/>포근한 이 겨울이<br/>내겐 너 같아<br/>걸음을 서둘러<br/>이 신호에 건너게 된다면<br/>서둘러 도착한 버스에<br/>우리 나란히 앉아 간다면<br/>십이월 이십오일의 용기를<br/>서둘러 내어볼 텐데<br/>눈이 내리지 않아도<br/>충분히 아름다운 순간이야<br/>다를 거 없는 보통의 하루라<br/>더 기억해두고 싶은 밤이야<br/>서둘러 이 어두운 골목을 지나면<br/>어느새 도착한 너의 집 앞<br/>가로등이 우릴 비추면<br/>십이월 이십오일의 진심을<br/>지금 너에게 말할게<br/>나의 겨울아 내 모든 계절이 되어 줘<br/>
+",https://www.youtube.com/results?search_query=%EC%8B%AD%EC%9D%B4%EC%9B%94+%EC%9D%B4%EC%8B%AD%EC%98%A4%EC%9D%BC%EC%9D%98+%EA%B3%A0%EB%B0%B1
+3,"Into the Unknown (From ""Frozen 2""/Soundtrack Version)","Idina Menzel, Aurora",Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),389,"THE VOICE<br/>Ah-ah-ah-ah<br/>Ah-ah-ah-ah<br/>Ah-ah-ah-ahh--ah-ah<br/><br/>ELSA<br/>I can hear you <br/>But I won’t.<br/>Some look for trouble <br/>While others don’t.<br/>There’s a thousand reasons I should go about my day <br/>And ignore your whispers<br/>Which I wish would go away… <br/>Oh-oh<br/><br/>THE VOICE<br/>Ah-ah-ah-ah<br/><br/>ELSA<br/>Oh-oh<br/><br/>THE VOICE<br/>Ah-ah-ah-ahh--ah-ah<br/><br/>ELSA<br/>You’re not a voice.<br/>You’re just a ringing in my ear <br/>And if I heard you (which I don’t) <br/>I’m spoken for, I fear.<br/>Everyone I’ve ever loved is here within these walls <br/>I’m sorry, secret siren, but I’m blocking out your calls.<br/><br/>I’ve had my adventure<br/>I don’t need something new!<br/>I’m afraid of what I’m risking if I follow you<br/><br/>Into the unknown…<br/>Into the unknown…<br/>Into the unknown!<br/><br/>THE VOICE <br/>Ah-ah-ah-ah<br/><br/>ELSA<br/><sigh><br/><br/>THE VOICE <br/>Ah-ah-ah-ahh--ah-ah<br/><br/>ELSA<br/>What do you want?<br/>’Cause you’ve been keeping me awake<br/>Are you here to distract me<br/>So I make a big mistake?<br/>Or are you someone out there who’s a little bit like me?<br/>Who knows deep down I’m not where I’m meant to be?<br/><br/>Every day’s a little harder as I feel my power grow!<br/>Don’t you know there’s part of me that longs to go…<br/>Into the unknown?<br/>Into the unknown!<br/>Into the unknown!!<br/><br/>THE VOICE <br/>Ah-ah-ah-ah<br/>Ah-ah-ah-ah<br/><br/>ELSA<br/>Oh-oh-oh<br/>Are you out there?<br/>Do you know me?<br/>Can you feel me?<br/>Can you show me?<br/>Ah-ah-ah-ah!<br/><br/>THE VOICE <br/>Ah-ah-ah-ah<br/><br/>ELSA<br/>Ah-ah-ah-ah!<br/><br/>THE VOICE <br/>Ah-ah-ah-ah<br/><br/>ELSA AND THE VOICE<br/>Ah-ah-ah- ah<br/>Ah-ah-ah- ah<br/>Ah-ah-ah- ah!<br/>Ah-ah-ah- ah!<br/><br/>ELSA<br/>Where are you going?<br/>Don’t leave me alone!<br/><br/>THE VOICE<br/>Ah– ah–<br/><br/>ELSA<br/>How do I follow you<br/>Into the unknown?<br/><br/>THE VOICE<br/>Ah-ah-ah!<br/>
+</sigh",https://www.youtube.com/results?search_query=Into+the+Unknown+%28From+%22Frozen+2%22%2FSoundtrack+Version%29
+4,늦은 밤 너의 집 앞 골목길에서,노을,늦은 밤 너의 집 앞 골목길에서,385,"오래되었어 그때 너의 웃음<br/>너의 목소리 잊혀진거 같아<br/>시간의 위로 그 말의 의미를 이젠 알아<br/>아픈 니 얘기도 적당히 할 수 있어<br/>그런데 이게 뭐랄까 난 난 술 한잔하면서<br/>괜찮은 듯 얘기하며 널 털어냈는데<br/>집으로 돌아오면서 <br/>한 번 더 떠오른 기억에<br/>걸음을 멈춰 서서 이렇게 울고 있어 <br/>자연스럽게 발걸음을 돌려<br/>나 바래다주던 익숙한 길을 가<br/>밤이 깊어져서 아무것도 보이지 않아도<br/>손을 흔들면서 인사하던 널 봤어 <br/>그런데 이게 뭐랄까 난 난 술 한잔하면서<br/>괜찮은 듯 얘기하며 널 털어냈는데<br/>집으로 돌아오면서 <br/>한 번 더 떠오른 기억에<br/>걸음을 멈춰 서서 이렇게 울고 있어<br/>아무도 없어서 참 다행이야<br/>나 이렇게 편안히 너를 부를 수 있는 걸<br/>외로운 위로겠지만 <br/>그래서 이젠 뭘 할까 난 난 널 생각했어도<br/>괜찮은 듯 얘기하며 다 지워냈는데<br/>집으로 돌아오면서 <br/>한 번 더 떠오른 추억에<br/>걸음을 멈춰 서서 또다시 울고 있어<br/>
+",https://www.youtube.com/results?search_query=%EB%8A%A6%EC%9D%80+%EB%B0%A4+%EB%84%88%EC%9D%98+%EC%A7%91+%EC%95%9E+%EA%B3%A8%EB%AA%A9%EA%B8%B8%EC%97%90%EC%84%9C
+5,HIP,마마무(Mamamoo),reality in BLACK,385,"All I wanna be is 멋짐<br/>내 마음대로 골라 kick it<br/>머리 어깨 무릎 다 HIP 해<br/>Do it do it like me do it<br/>나를 따라 해 kick it<br/>Clapping clapping 모두 같이 HIP<br/>I love you 네가 뭐라든 간에<br/>Respect you 네가 뭘 하든 간에<br/>늘 따끈따끈해 그 관심이 따끔따끔해<br/>또 힐끔 힐끔 힐끔<br/>이젠 모든 일이 가뿐해 veteran<br/>성공을 썰어 먹어 마치 michelin<br/>누구보다 빠른 걸음을 걸었네 비시즌<br/>잊은 지도 오래야 뒷걸음<br/>All I wanna be is 멋짐<br/>내 멋대로 골라 kick it<br/>머리 어깨 무릎 다 HIP<br/>삐삐삐 논란이 돼 my fashion<br/>별로 신경 안 써 그저 action<br/>자꾸 click me click me<br/>홀린 듯이 zoom<br/>Close up close up close up<br/>HIP 해 HIP HIP<br/>머리 어깨 무릎 HIP<br/>HIP HIP HIP HIP HIP HIP 해 HIP HIP<br/>머리 어깨 무릎 HIP<br/>HIP HIP HIP HIP 해 HIP<br/>Attention 어딜 가든 넌<br/>Reflection 빛날 수 있어<br/>세상에 넌 하나뿐인 걸<br/>근데 왜이래 네 얼굴에 침 뱉니 칵투<br/>날 자극한 여러분 감사<br/>거기서 멈춘 찌질이 반사<br/>덕분에 나의 멘탈은 단단해<br/>난 다음 앨범 만들러 갈게<br/>All you wanna be is trendy<br/>어그로 끌기 gimmick 때찌<br/>그런 애들 끼리끼리 HIP<br/>삐삐삐 논란이 돼 my fashion<br/>별로 신경 안 써 그저 action<br/>자꾸 click me click me<br/>홀린 듯이 zoom<br/>Close up close up close up<br/>HIP 해 HIP HIP<br/>머리 어깨 무릎 HIP<br/>HIP HIP HIP HIP HIP HIP 해 HIP HIP<br/>머리 어깨 무릎 HIP<br/>HIP HIP HIP HIP 해 HIP<br/>코 묻은 티<br/>삐져나온 입<br/>떡진 머리<br/>난 상관없지<br/>코 묻은 티<br/>삐져나온 입<br/>떡진 머리<br/>내가 하면 HIP<br/>코 묻은 티<br/>삐져나온 팬티<br/>떡진 머리<br/>난 상관없지<br/>코 묻은 티<br/>삐져나온 팬티<br/>떡진 머리<br/>내가 하면 HIP<br/>삐삐삐 논란이 돼 my fashion<br/>별로 신경 안 써 그저 action<br/>자꾸 click me click me<br/>홀린 듯이 zoom<br/>Close up close up close up<br/>HIP 해 HIP HIP<br/>머리 어깨 무릎 HIP<br/>HIP HIP HIP HIP HIP HIP 해 HIP HIP<br/>머리 어깨 무릎 HIP<br/>HIP HIP HIP HIP 해 HIP<br/>
+",https://www.youtube.com/results?search_query=HIP
+6,Love poem,아이유,Love poem,380,"누구를 위해 누군가 <br/>기도하고 있나 봐<br/><br/>숨죽여 쓴 사랑시가<br/>낮게 들리는 듯해<br/><br/>너에게로 선명히 날아가<br/>늦지 않게 자리에 닿기를<br/><br/>I’ll be there 홀로 걷는 너의 뒤에<br/>Singing till the end 그치지 않을 이 노래<br/>아주 잠시만 귀 기울여 봐<br/>유난히 긴 밤을 걷는 널 위해 부를게<br/><br/>또 한 번 너의 세상에<br/>별이 지고 있나 봐 <br/><br/>숨죽여 삼킨 눈물이<br/>여기 흐르는 듯해<br/><br/>할 말을 잃어 고요한 마음에<br/>기억처럼 들려오는 목소리<br/><br/>I’ll be there 홀로 걷는 너의 뒤에<br/>Singing till the end 그치지 않을 이 노래<br/>아주 커다란 숨을 쉬어 봐<br/>소리 내 우는 법을 잊은 널 위해 부를게<br/><br/>(다시 걸어갈 수 있도록) <br/>부를게<br/>(다시 사랑할 수 있도록)<br/><br/>Here i am 지켜봐 나를, 난 절대<br/>Singing till the end 멈추지 않아 이 노래 <br/>너의 긴 밤이 끝나는 그날 <br/>고개를 들어 바라본 그곳에 있을게
+					",https://www.youtube.com/results?search_query=Love+poem
+7,헤어진 우리가 지켜야 할 것들,"김나영, 양다일",헤어진 우리가 지켜야 할 것들,377,"여기 내 머릿속에<br/>스위치 같은<br/>그런 게 있음 좋겠어<br/>눈을 감듯 널 꺼놓게<br/>매일 숨을 쉬듯이<br/>널 사랑했던<br/>나쁜 버릇은 어떡해야<br/>고쳐질까<br/>알아 쉽진 않겠지<br/>한동안 생각날 테고<br/>행여나 울더라도<br/>흔들리진 말자<br/>혹시 내 전화를 기다리거나<br/>취해서 집 앞을 찾아오는 일 안 돼<br/>실수로라도 내 생각 따윈 절대 안 돼<br/>안 돼 안 돼<br/>너 혹시 내 사진을 찾아보거나<br/>나 몰래 내 소식을<br/>검색하는 일 안 돼<br/>이젠 안 돼 우린 안 돼 너와 나<br/>더는 해선 안 되는 일<br/>우릴 알던 누군가 너를 만나<br/>스치듯 나의 안불 묻더라도<br/>웃음으로 웃음으로<br/>받아줄 수 있길<br/>혹시 내 전화를 기다리거나<br/>취해서 집 앞을 찾아오는 일 안 돼<br/>실수로라도 내 생각 따윈 절대 안 돼<br/>안 돼 안 돼<br/>너 혹시 내 사진을 찾아보거나<br/>나 몰래 내 소식을<br/>검색하는 일 안 돼<br/>이젠 안 돼 우린 안 돼 너와 나<br/>잘 한 건진 모르지만<br/>후회할지 모르지만<br/>소리 없이 흐르는 눈물을 잡고 안녕<br/>우리들의 수많은 기념일과<br/>서로의 이름 목소리까지도<br/>자고 나면 모두 다 잊는 거야<br/>모든 걸 잊고 떠나는 거야<br/>널 사랑했지만<br/>보고 싶겠지만<br/>오늘 이후로 우린 없는 거야<br/>아무 일도 아닌 듯이<br/>아무 일도 없던 듯이<br/>
+",https://www.youtube.com/results?search_query=%ED%97%A4%EC%96%B4%EC%A7%84+%EC%9A%B0%EB%A6%AC%EA%B0%80+%EC%A7%80%EC%BC%9C%EC%95%BC+%ED%95%A0+%EA%B2%83%EB%93%A4
+8,"Show Yourself (From ""Frozen 2""/Soundtrack Version)","Idina Menzel, Evan Rachel Wood",Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),367,"ELSA<br/>Every inch of me is trembling<br/>But not from the cold<br/>Something is familiar<br/>Like a dream I can reach<br/>But not quite hold<br/><br/>I can sense you there<br/>Like a friend I’ve always known<br/>I’m arriving<br/>And it feels like I am home<br/><br/>I have always been a fortress<br/>Cold secrets deep inside<br/>You have secrets too<br/>But you don’t have to hide<br/><br/>Show yourself<br/>I’m dying to meet you<br/>Show yourself<br/>Now it’s your turn<br/><br/>Are you the one I’ve been looking for all of my life?<br/>Show yourself<br/>I’m ready to learn...<br/><br/>Ah-ah-ah-ah<br/><br/>THE VOICE<br/>Ah-ah-ah-ah-ah<br/><br/>ELSA<br/>I’ve never felt so certain<br/>All my life I’ve been torn<br/>But I’m here for a reason<br/>Could it be the reason I was born?<br/><br/>I have always been so different<br/>Normal rules did not apply<br/>Is this the day<br/>Are you the way<br/>I finally find out why!!?<br/><br/>Show yourself!<br/>I’m no longer trembling!<br/><br/>Here I am, I’ve come so far!<br/>You are the answer I’ve waited for all of my life!<br/>Oh, show yourself<br/>Let me see who you are…<br/><br/>Come to me now<br/>Open your door<br/>Don’t make me wait<br/>One moment more!<br/><br/>Oh, come to me now<br/>Open your door<br/>Don’t make me wait<br/>One moment more!<br/><br/>CHORUS<br/>Where the Northwind meets the sea<br/><br/>THE VOICE <br/>Ah-ah-ah-ah <br/><br/>CHORUS <br/>There’s a river <br/><br/>THE VOICE <br/>Ah-ah-ah-ah <br/><br/>CHORUS <br/>Full of memory<br/><br/>MEMORY IDUNA<br/>Come my darling, homeward bound<br/><br/>ELSA<br/>I am found!<br/><br/>ELSA AND MEMORY IDUNA<br/>Show yourself!<br/><br/>CHORUS<br/>Ah-ah<br/><br/>ELSA AND MEMORY IDUNA<br/>Step into your power<br/>Grow yourself into something new<br/><br/>MEMORY IDUNA AND CHORUS<br/>You are the one you’ve been waiting for<br/><br/>ELSA<br/>All of my life<br/><br/>MEMORY IDUNA AND CHORUS<br/>All of your life<br/><br/>ELSA<br/>Oh, show yourself<br/><br/>MEMORY IDUNA AND CHORUS<br/>You<br/><br/>ELSA<br/>Ah-ah-ah-ah!<br/><br/>CHORUS<br/>Ah-ah-ah-ah<br/><br/>ELSA<br/>Ah-ah-ah-ah!<br/><br/>CHORUS<br/>Ah-ah-ah-ah<br/><br/>ELSA<br/>Ah-ah-ah-ah!!!<br/>
+",https://www.youtube.com/results?search_query=Show+Yourself+%28From+%22Frozen+2%22%2FSoundtrack+Version%29
+9,"어떻게 이별까지 사랑하겠어, 널 사랑하는 거지",AKMU (악동뮤지션),항해,363,"일부러 몇 발자국 물러나<br/>내가 없이 혼자 걷는 널 바라본다<br/>옆자리 허전한 너의 풍경<br/>흑백 거리 가운데 넌 뒤돌아본다<br/>그때 알게 되었어<br/>난 널 떠날 수 없단 걸<br/>우리 사이에 그 어떤 힘든 일도<br/>이별보단 버틸 수 있는 것들이었죠<br/>어떻게 이별까지 사랑하겠어<br/>널 사랑하는 거지<br/>사랑이라는 이유로<br/>서로를 포기하고<br/>찢어질 것같이 아파할 수 없어 난<br/>두세 번 더 길을 돌아갈까<br/>적막 짙은 도로 위에 걸음을 포갠다<br/>아무 말 없는 대화 나누며<br/>주마등이 길을 비춘 먼 곳을 본다<br/>그때 알게 되었어<br/>난 더 갈 수 없단 걸<br/>한 발 한 발 이별에 가까워질수록<br/>너와 맞잡은 손이 사라지는 것 같죠<br/>어떻게 이별까지 사랑하겠어<br/>널 사랑하는 거지<br/>사랑이라는 이유로<br/>서로를 포기하고<br/>찢어질 것같이 아파할 수 없어 난<br/>어떻게 내가 어떻게 너를<br/>이후에 우리 바다처럼 깊은 사랑이<br/>다 마를 때까지<br/>기다리는 게 이별일 텐데<br/>어떻게 내가 어떻게 너를<br/>이후에 우리 바다처럼 깊은 사랑이<br/>다 마를 때까지<br/>기다리는 게 이별일 텐데<br/>
+",https://www.youtube.com/results?search_query=%EC%96%B4%EB%96%BB%EA%B2%8C+%EC%9D%B4%EB%B3%84%EA%B9%8C%EC%A7%80+%EC%82%AC%EB%9E%91%ED%95%98%EA%B2%A0%EC%96%B4%2C+%EB%84%90+%EC%82%AC%EB%9E%91%ED%95%98%EB%8A%94+%EA%B1%B0%EC%A7%80
+10,시간의 바깥,아이유,Love poem,363,"서로를 닮아 기울어진 삶<br/>소원을 담아 차오르는 달<br/>하려다 만 괄호 속의 말<br/>이제야 음 음 음<br/><br/>어디도 닿지 않는 나의 닻<br/>넌 영원히 도착할 수 없는 섬 같아<br/>헤매던 날 <br/>이제야 음 음 음<br/><br/>기록하지 않아도 <br/>내가 널 전부 기억할 테니까<br/><br/>기다려 <br/>기어이 우리가 만나면,<br/>시간의 테두리 바깥에서 <br/>과거를 밟지 않고 선다면 <br/>숨이 차게 춤을 추겠어 <br/><br/>낮에도 밝지 않은 나의 밖<br/>끝없는 밤 남겨진 반<br/>넌 어떨까 나와 같을까<br/>알 수 없음에 아파지던 맘<br/><br/>더 멀리 자유 그 위로 가자<br/>내일이 우릴 찾지 못할 <br/>곳에서 기쁘게 만나<br/>이제야 한눈에 찾지 못해도 돼<br/>내가 널 알아볼 테니까<br/><br/>기다려 <br/>기어이 우리가 만나면,<br/>시간의 테두리 바깥에서<br/>과거를 밟지 않고 선다면<br/>숨이 차게 춤을 추겠어<br/><br/>드디어<br/>기다림의 이유를 만나러<br/>꿈결에도 잊지 않았던<br/>잠결에도 잊을 수 없었던<br/>너의 이름을 불러 줄게<br/><br/>기다려 <br/>잃어버렸던 널 되찾으러<br/>엉키었던 시간을 견디어<br/>미래를 쫓지 않을 두 발로 <br/>숨이 차게 달려가겠어<br/><br/>긴긴 서사를 거쳐<br/>비로소 첫 줄로 적혀<br/>나 두려움 따윈 없어 <br/><br/>서로를 감아 포개어진 삶<br/>그들을 가만 내려보는 달<br/>여전히 많아 하고 싶은 말<br/>우리 좀 봐 꼭 하나 같아<br/>
+",https://www.youtube.com/results?search_query=%EC%8B%9C%EA%B0%84%EC%9D%98+%EB%B0%94%EA%B9%A5
+11,흔들리는 꽃들 속에서 네 샴푸향이 느껴진거야,장범준,멜로가 체질 OST Part 3,361,"흔들리는 꽃들 속에서<br/>네 샴푸향이 느껴진거야<br/>스쳐지나간건가 뒤돌아보지만<br/>그냥 사람들만 보이는거야<br/>다와가는 집근처에서<br/>괜히 핸드폰만 만지는거야<br/>한번 연락해 볼까 용기내 보지만<br/>그냥 내 마음만 아쉬운 거야<br/>걷다가 보면 항상 이렇게 너를<br/>바라만 보던 너를<br/>기다린다고 말할까<br/>지금 집앞에 계속 이렇게 너를<br/>아쉬워 하다 너를 연락했다 할까<br/>지나치는 꽃들 속에서<br/>네 샴푸향만 보이는거야<br/>스쳐지나간건가 뒤 돌아보지만<br/>그냥 내 마음만 바빠진거야<br/>걷다가 보면 항상 이렇게 너를<br/>바라만 보던 너를<br/>기다린다고 말할까<br/>지금 집앞에 계속 이렇게 너를<br/>아쉬워 하다 너를 연락했다 할까<br/>어떤 계절이 너를<br/>우연히라도 너를 마주치게 할까<br/>난 이대로 아쉬워하다<br/>너를 바라만 보던 너를<br/>기다리면서 아무말 못하고<br/>그리워만 할까<br/>걷다가 보면 항상 이렇게 너를<br/>바라만 보던 너를<br/>생각한다고 말할까<br/>지금 집앞에 기다리고<br/>때론 지나치고 다시 기다리는<br/>꽃이 피는 거리에 보고파라 이밤에<br/>걷다가 보면 항상 이렇게 너를<br/>아쉬워 하다 너를<br/>기다린다고 말할까<br/>지금 집앞에 계속 이렇게 너를<br/>아쉬워 하다 너를 연락했다 할까<br/>
+",https://www.youtube.com/results?search_query=%ED%9D%94%EB%93%A4%EB%A6%AC%EB%8A%94+%EA%BD%83%EB%93%A4+%EC%86%8D%EC%97%90%EC%84%9C+%EB%84%A4+%EC%83%B4%ED%91%B8%ED%96%A5%EC%9D%B4+%EB%8A%90%EA%BB%B4%EC%A7%84%EA%B1%B0%EC%95%BC
+12,Obsession,EXO,OBSESSION - The 6th Album,341,"제발 이제 그만<br/><br/>밤이 눈을 멀게 끔 하니<br/>넌 또 몰래 숨어들었지<br/>잠든 귓가 쓱 핥다 쳐다보다<br/>할퀴곤 웃어대<br/><br/>끝도 없이 속삭이는 목소리<br/>Oh you’re the bad dream kill<br/>나를 홀려 자꾸 불러<br/>너 있는 곳 그래 네게 오라고<br/><br/>날 안다고? (I don’t think so)<br/>뭔데 내게 파고들어 (I don’t think so)<br/>넌 내 눈을 가려 (I don’t think so)<br/>진실들을 덮어 (I don’t think so)<br/>헛된 꿈 버려 (I don’t think so)<br/>독을 뱉게 하지 마 (I don’t think so)<br/>넌 날 다신 못 가져 (I don’t think so)<br/>Shut up and go away<br/><br/>Thousand nights 지겹도록 말했어<br/>쫓고 쫓는 악몽 이젠 끝낼게<br/>불이 꺼진 exit light<br/>이제 그만 꺼져 줄래 내게서<br/><br/>지겨워<br/> <br/>Ha! 그만해 둬<br/>내 귓속에 쏟아대는 소리 Imma let it blow<br/>오감은 그것으로 쏠리고 곤두서고<br/>들어온 너는 제멋대로 휘저어<br/>한눈을 뜬 채로 잠들면 <br/>소리 없이 스며드는 the phantom<br/>I’m so sick and tired of it<br/>불이 켜지면 네가 사라져 있길<br/><br/>날 위한다고? (I don’t think so)<br/>뭔데 내게 파고들어 (I don’t think so)<br/>깊게 스며들어 (I don’t think so)<br/>혼란스러워 (I don’t think so)<br/>Take whatever (I don’t think so)<br/>보이지도 마라 (I don’t think so)<br/>넌 날 다신 못 가져 (I don’t think so)<br/>집착하지 좀 마<br/><br/>Thousand nights 지겹도록 말했어<br/>쫓고 쫓는 악몽 이젠 끝낼게<br/>불이 꺼진 exit light<br/>이제 그만 꺼져 줄래 내게서<br/><br/>Blacken my heart,<br/>Creepin’ dark night, <br/>Stainin’ my soul<br/>잠든 듯 눈을 뜨면 거친 소름과<br/>선명한 그것의 흔적과<br/>주인 없는 names on the ground<br/>불러내 춤을 춰 tonight <br/>Say it what you like<br/><br/>그래 너와 행복했었던 <br/>시간들을 알아<br/>이젠 끝내야 한다는 걸<br/>Forget everything yeah<br/><br/>날 안다고? (I don’t think so)<br/>뭔데 내게 파고들어 (I don’t think so)<br/>넌 내 눈을 가려 (I don’t think so)<br/>진실들을 덮어 (I don’t think so)<br/>헛된 꿈 버려 (I don’t think so)<br/>독을 뱉게 하지 마 (I don’t think so)<br/>넌 날 다신 못 가져 (I don’t think so)<br/>Shut up and go away<br/><br/>Thousand nights 지겹도록 말했어<br/>쫓고 쫓는 악몽 이젠 끝낼게<br/>불이 꺼진 exit light<br/>이제 그만 꺼져 줄래 내게서<br/><br/>One night 어둠 속에 보인 건 <br/>나를 쫓던 기묘했던 그림자<br/>불이 켜진 exit light <br/>거울 속의 나를 보고 있는 나<br/><br/>내게서 사라져<br/>꺼져<br/>내게서 사라져<br/>
+",https://www.youtube.com/results?search_query=Obsession
+13,이 번호로 전화해줘,바이브,이 번호로 전화해줘,340,"010 5236 3219<br/>지금 이 번호로 전화해줘<br/>같았던 우리의 뒷번호처럼<br/>내 맘 그대로야 전화해줘<br/>어느 늦은 밤 모르는 번호에<br/>밤새 잠 못 이뤄 뒤척이며<br/>혹시 너일까 하는 내 마음에<br/>눈물로 꾹꾹 눌러보지만<br/>Call me back Call me back<br/>지금 이 번호로 전화해줘<br/>Call me back Call me back<br/>내 맘 그대로야 전화해줘<br/>아직 사랑한다고 많이 보고 싶다고<br/>너의 전화를 기다리는 내게<br/>Call me back Baby Call me back<br/>네가 보냈던 마지막 문자에<br/>밤새 몇 번이고 후회하며<br/>그땐 너에게 미안한 마음에<br/>눈물로 꾹꾹 눌러보지만<br/>Call me back Call me back<br/>지금 이 번호로 전화해줘<br/>Call me back Call me back<br/>내 맘 그대로야 전화해줘<br/>아직 사랑한다고 많이 보고 싶다고<br/>너의 전화를 기다리는 내게<br/>Call me back Baby Call me back<br/>너와 내 추억이 울릴 때마다<br/>다시 내 맘을 울려<br/>아직 사랑한다고 사랑한다고<br/>단 하루도 잊지 못한 내게<br/>아직 너만 기다리는 내게<br/>Call me back Call me back<br/>지금 이 번호로 전화해줘<br/>Baby Call me back Call me back<br/>제발 잊지 말고 전화해줘<br/>Baby Call me back<br/>Call me back<br/>지금 이 번호로 전화해줘<br/>
+",https://www.youtube.com/results?search_query=%EC%9D%B4+%EB%B2%88%ED%98%B8%EB%A1%9C+%EC%A0%84%ED%99%94%ED%95%B4%EC%A4%98
+14,"인기 (Feat. 송가인, 챈슬러)",MC몽,CHANNEL 8,330,"우선 캐릭터는 분명<br/>해야 해요 X 같은 XX<br/>철부지같이 굴면<br/>Fail 해요 Next 바로 Next Next<br/>맥주 거품 같은 인기<br/>까닥 실수하면 미끼<br/>겸손해 후배 내 꼴 나기 전에<br/>Thank your Swag Thank your Flex<br/>인생은 힙합보다 트로트 같은 거<br/>먼지 쌓인 트로피보다 흥이 나는 거<br/>에헤라디야 에헤라디야<br/>내 Scene은 훨씬<br/>바람 불어 신나게 Sing Sing<br/>Just me myself and I<br/>Believe in me myself and I<br/>끝없는 유혹 속에<br/>부딪히며 살어<br/>말할 수 없는<br/>위험한 거래를 하듯이<br/>인기는 중독이 돼<br/>네 죄의식 안에서<br/>주문을 걸어줘<br/>위기 패기 다시 인기<br/>Boom xhakalaka<br/>먼저 폭죽을 터트릴까<br/>Boom xhakalaka<br/>맛이 가 맛이 가 맛이 가 맛이 가<br/>Boom xhakalaka<br/>먼저 폭죽을 터트릴까<br/>Boom xhakalaka<br/>맛이 가 맛이 가 맛이 가 Oh my god<br/>Even when love is falling down<br/>There's a fire in my heart<br/>still burning new<br/>Now I’m feeling so hypnotized<br/>Wake me up<br/>Cause it’s killing me inside<br/>존대를 모르는 꼰대<br/>얌마 약 따윈 안 하니까 딴 데 팔어<br/>겸손을 모르면 지옥 불도 깊대<br/>인생 짧으니까 형 말 들어<br/>낄끼빠빠 똑똑한 인기<br/>오락가락하지 Like a slinky<br/>Don't stop believing<br/>Keep on following<br/>what you’re dreaming<br/>난 숨은 게 아니라 품은 거야<br/>무는 게 아니라 묻는 거야<br/>뼛속까지 딴따라라라라서<br/>그래도 웃으며 난 부를 거야<br/>인기란 새콤달콤 한 순간<br/>감성과 함성의 미칠 각<br/>왜 자극적인 것만 원할까<br/>떡 상 떡 낙은 네 몫이야<br/>끝없는 유혹 속에<br/>부딪히며 살어<br/>말할 수 없는<br/>위험한 거래를 하듯이<br/>인기는 중독이 돼<br/>네 죄의식 안에서<br/>주문을 걸어줘<br/>위기 패기 다시 인기<br/>Boom xhakalaka<br/>먼저 폭죽을 터트릴까<br/>Boom xhakalaka<br/>맛이 가 맛이 가 맛이 가 맛이 가<br/>Boom xhakalaka<br/>먼저 폭죽을 터트릴까<br/>Boom xhakalaka<br/>맛이 가 맛이 가 맛이 가 Oh my god<br/>에헤라디야 에헤라디야<br/>에헤라디야 에헤라디야<br/>에헤라디야 에헤라디야<br/>에헤라디야 에헤라디야<br/>위기 패기 다시 인기<br/>Boom xhakalaka<br/>먼저 폭죽을 터트릴까<br/>Boom xhakalaka<br/>맛이 가 맛이 가 맛이 가 맛이 가<br/>Boom xhakalaka<br/>먼저 폭죽을 터트릴까<br/>Boom xhakalaka<br/>맛이 가 맛이 가 맛이 가 Oh my god<br/>이 어리석은 놈아<br/>아직도 모르느냐<br/>이놈의 썩을 놈아<br/>넌 낙원을 원했느냐<br/>아이고 아이고 아이고<br/>
+",https://www.youtube.com/results?search_query=%EC%9D%B8%EA%B8%B0+%28Feat.+%EC%86%A1%EA%B0%80%EC%9D%B8%2C+%EC%B1%88%EC%8A%AC%EB%9F%AC%29
+15,오늘도 빛나는 너에게 (To You My Light) (Feat.이라온),마크툽 (MAKTUB),Red Moon : To You My Light,330,"별빛이 내린 밤<br/>그 풍경 속 너와 나<br/>날 새롭게 하는<br/>따뜻하게 만드는<br/>니 눈빛 니 미소<br/>영원히 담아둘게<br/>너로 가득한 맘<br/>널 닮아가는 나<br/>날 위한 선물<br/>꿈보다 더 아름다운<br/>서로의 품에서<br/>끝 없는 밤을 걷자<br/>나의 모든 날들을 다 주고싶어<br/>내 이 맘을 모두 전하고 싶어<br/>잠들지 못한<br/>푸른 바람들<br/>이렇게 밝게 이 밤을 비춰<br/>너와 작은 일상을 함께 하는게<br/>내 가장 큰 기쁨인걸 넌 알까<br/>내 세상 속에<br/>넌 빛이 되어<br/>지금 모습 그대로 내 곁에만<br/>행복이 짙은 날<br/>어둠이 없는 밤<br/>같은 맘 속에<br/>같은 꿈이 피어난 건<br/>우리의 정해진<br/>운명이 맞닿은거야<br/>나의 모든 날들을 다 주고싶어<br/>내 이 맘을 모두 전하고 싶어<br/>잠들지 못한<br/>푸른 바람들<br/>이렇게 밝게 이 밤을 비춰<br/>너와 작은 일상을 함께 하는게<br/>내 가장 큰 기쁨인걸 넌 알까<br/>내 세상 속에<br/>넌 빛이 되어<br/>지금 모습 그대로 내 곁에만<br/>내게 온 너란 빛이 눈 부셔도<br/>네 앞에서 한 순간도 눈 감지 않아<br/>다가올 시간도<br/>계절의 바람도<br/>널 데려가지 못하게<br/>내가 더 좋은 사람이 되고 싶어<br/>더 아름답게 널 안을 수 있게<br/>잠들지 못한<br/>잠들 수 없는<br/>바람들이 널 부르고 있어<br/>언제까지나 너와 함께 할거야<br/>내 마지막 숨결도 너일거야<br/>내 세상 속에<br/>넌 빛이 되어<br/>지금 모습 그대로 내 곁에만<br/>이렇게 밝게 이 밤을 비춰<br/>
+",https://www.youtube.com/results?search_query=%EC%98%A4%EB%8A%98%EB%8F%84+%EB%B9%9B%EB%82%98%EB%8A%94+%EB%84%88%EC%97%90%EA%B2%8C+%28To+You+My+Light%29+%28Feat.%EC%9D%B4%EB%9D%BC%EC%98%A8%29
+16,METEOR,창모 (CHANGMO),Boyhood,330,"Yeah ha<br/>Yeah ha<br/>Yeah ha<br/>Yeah ha<br/>Yeah ha<br/>Yeah ha<br/>Yeah ha<br/>Yeah ha<br/>Yeah ha<br/>Yeah ha<br/>Yeah ha<br/>Yeah ha<br/>모두 그에게 말해 또 왔네<br/>새꺄 whut<br/>죽지 않고 왔다 이렇게<br/>새꺄 뭐<br/>Snacky chan의<br/>라인을 빌릴래<br/>했어 예수처럼 이렇게 부활을<br/>031 팔 안쪽의<br/>tatt freaky woah<br/>어젠 시장님이 만나쟤 motown<br/>어수룩해 엄마 속에 걱정<br/>한 톤만큼 쌓고<br/>스물한살에 독립했던 얘는<br/>여섯이 되었고<br/>발견했지 우연히 5년 전의 노트<br/>정말 스타 되고 싶어<br/>그럴려면 가서 만나면 돼 악마<br/>노트를 덮고<br/>거울에 비춰진 남자를 보니 와<br/>저 손목이 너무 부러워<br/>저 금 daydate rollie<br/>넘을걸 천백은 더<br/>전국<br/>사람들이 외치네<br/>저 괴물체는 뭘까<br/>Meteor<br/>거대 Meteor<br/>난 네게 처박힐 Meteor야<br/>별빛이 내려오지 마구<br/>내려오지<br/>경고<br/>경고<br/>그래도 처박힐 Meteor야<br/>motown의 1번 노랠<br/>기억해 니들<br/>뭐였지 뭐였나 음 음<br/>i’m the man in the mirror<br/>그러니 light me up<br/>1절의 그 별이 2절의 그 별이<br/>그래 모두 나였지<br/>실화가 된 동화이지<br/>힘들 때면 홀로<br/>쓴 노래를 불러<br/>환상들을 보던<br/>성냥팔이 소년이였던 나날들이<br/>365 24 730 24에 7<br/>1095 아 그만 세자<br/>1400이 되니 oh<br/>그 애랑도 하고 돔페리뇽이 만든<br/>숙취 땜에 넋을 놓은 나를 향해<br/>몇천 명이 와 해<br/>본 적은 없지만 때론<br/>어떤 존재가<br/>내 인생을 왔다 간 듯해<br/>그냥 그런 느낌이 들지<br/>상관없어 환상이던 현실이던지<br/>hands up high<br/>전국<br/>사람들이 외치네<br/>저 괴물체는 뭘까<br/>Meteor<br/>거대 Meteor<br/>난 네게 처박힐 Meteor야<br/>별빛이 내려오지 마구<br/>내려오지<br/>경고<br/>경고<br/>그래도 처박힐 Meteor야<br/>영 영 영원히<br/>약속해 영원하기로<br/>어둠 가득한 저 뒤로<br/>돌려보내지 말아요 제발 제발<br/>영 영 영원히<br/>난 영원할 거라 믿어<br/>흥분으로 가득차<br/>이 도시에 나 외칠 꺼야<br/>드디어 내가 여 왔다<br/>
+",https://www.youtube.com/results?search_query=METEOR
+17,안녕,폴킴,호텔 델루나 OST Part.10,328,"안녕 이라는 말을해<br/>짧은 시간을 뒤로 한채로<br/>여전히 아프겠지만<br/>하룻밤 자고 나면 사라지는 꿈처럼<br/>너를 oh 잊게될까 두려워져<br/>무심히 널 떠올리게 되면<br/>불안해지는 맘 어떻게 해야하니<br/>안녕 이제는 안녕<br/>이 말 도저히 할 수가 없어<br/>너로 가득찬 내 마음<br/>겨우 내가 할 수 있는 일<br/>너를 사랑하는 거<br/>다시 널 만날 수 있길<br/>아주 오래 전부터 정해진 연일지도 <br/>너밖에 모를 내가 되었던 그때가 <br/>두려워져 널 안고 있으면<br/>자꾸 욕심이나 어쩔 수 없는걸<br/>안녕 이제는 안녕<br/>이 말 도저히 할 수가 없어<br/>너로 가득찬 내 마음<br/>겨우 내가 할 수 있는 일<br/>너를 사랑하는 거<br/>다시 널 만날 수 있길<br/>굳게 닫힌 저 문이 열리면<br/>그때는 널 다시 볼 수 있을까<br/>잠시 스치듯 만나<br/>운명처럼 날 꽃 피우게 해<br/>매일 널 꿈꾸겠지만<br/>가득 채울 그리움만큼<br/>바라는 건 단 하나<br/>계속 내 곁에 있어줘<br/>
+",https://www.youtube.com/results?search_query=%EC%95%88%EB%85%95
+18,조금 취했어 (Prod. 2soo),임재현,조금 취했어,324,"내가 망가지면 니가 나를 볼까 봐<br/>나를 혹시나 걱정해줄까 봐<br/>몸에 안 좋은 거 하러 왔어<br/>시끄럽고 졸립다<br/>그래 이제 집에 가야지<br/>지금 뭐 해<br/>밤에는 바람이 점점 차가운데<br/>따뜻이 좀 입고 다녀 멋 부리지 말고<br/>지금 이 순간<br/>하고 싶은 말이 많은데<br/>내가 가진 언어로 표현 못 해 알잖아<br/>내가 좀 서툴지<br/>술 한잔했어 너무 보고 싶어서<br/>니가 싫어하는<br/>담배도 피고 술도 했어<br/>술이 깨면 내가 또 미워질까 봐<br/>마시다 보니 조금 취했어<br/>어디야 지금 뭐 해 빨리 와<br/>너 올 것 같아 여기서 나 기다리는데<br/>Xiyehn아<br/>오늘따라 니가 보고 싶어서<br/>그래 내가 좀 못났지 미안해<br/>지금 뭐 해<br/>의식은 점점 희미해가는데<br/>니 얼굴은 더 또렷하게 생각이 나네<br/>지금 이 순간 하고 싶은 말이 많은데<br/>나란 놈이 그렇지 뭐 또<br/>못해 말도 못 하는 내가 싫어<br/>술 한잔했어 너무 보고 싶어서<br/>니가 싫어하는<br/>담배도 피고 술도 했어<br/>술이 깨면 내가 또 미워질까 봐<br/>마시다 보니 조금 취했어<br/>어디야 지금 뭐 해 빨리 와<br/>너 올 것 같아 여기서 나 기다리는데<br/>Xiyehn아<br/>오늘따라 니가 보고 싶구나<br/>또 보고 싶어서 미안해<br/>
+",https://www.youtube.com/results?search_query=%EC%A1%B0%EA%B8%88+%EC%B7%A8%ED%96%88%EC%96%B4+%28Prod.+2soo%29
+19,unlucky,아이유,Love poem,324,"기를 쓰고 사랑해야 하는 건 아냐<br/>하루 정도는 행복하지 않아도 괜찮아<br/>그럼에도 역시 완벽하군 나의 여인 um<br/><br/>여전히 무수한 빈칸들이 있지<br/>끝없이 헤맬 듯해<br/>풀리지 않는 얄미운 숙제들 사이로<br/><br/>마치 하루하루가 <br/>잘 짜여진 장난 같아 <br/>달릴수록 내게서 달아나 <br/><br/>Just life, we’re still good without luck<br/>길을 잃어도 계속 또각또각 또 가볍게 걸어<br/>(Take your time)<br/>There’s no right 실은 모두가 울고 싶을지 몰라<br/>슬퍼지고 싶지 않아서<br/>화내는지도 몰라<br/><br/>여전히 무수한 질문들이 있지<br/>이번에도 틀린 듯해<br/>아주 사소한 토씨 하나의 차이로 <br/><br/>마치 하루하루가 <br/>삐뚤은 동그라미 같아<br/>도망쳐도 여기로 돌아와<br/><br/>Just life we’re still good without luck<br/>비틀거려도 계속 또박또박 똑바르게 걸어<br/>(Take your time)<br/>There’s no right 때론 모두가 외로운지도 몰라<br/>지워지고 싶지 않아서 <br/>악쓰는지도 몰라 <br/><br/>(Lalalala la la i love ma days)<br/>I know that life is sometimes so mean<br/>(Lalalala la la i love ma days)<br/>It is true. So I’m trying<br/><br/>난 나의 보폭으로 갈게 <br/>불안해 돌아보면서도 <br/>별 큰일 없이 지나온 언제나처럼 <br/>이번에도 그래 볼게 음 <br/><br/>Just life we’re still cool without luck<br/>길을 잃어도 계속 또각또각 또 가볍게 걸어<br/>There’s no right 실은 모두가 모르는지도 몰라<br/>어쩌면 나름대로 더디게 느림보 같은<br/>지금 이대로 괜찮은지도 몰라<br/>
+",https://www.youtube.com/results?search_query=unlucky
+20,불티 (Spark),태연 (TAEYEON),Purpose - The 2nd Album,319,"불어 후후<br/>빨간 불티야<br/>내 마음도 너 같아<br/>타오를 듯 위험한<br/>살포시 널 눌러<br/>덮으려 해 봐도<br/>꺼지지 않는 너를<br/>어떻게 해야 하나<br/>여릴 줄만 알았던<br/>그 작은 온기 속<br/>뭐를 감추고 있었니<br/>내 안에 내가 많아<br/>온 밤이 소란한데<br/>혹시 내 말을 들었니<br/>이제 타이밍이야 눈 뜰 새벽이야<br/>불티를 깨워<br/>더 타올라라 후 후후후<br/>꺼지지 않게<br/>붉디붉은 채<br/>더 크게 번져 후 후후<br/>지금 가장 뜨거운<br/>내 안의 작고 작은<br/>불티야 불티야 꺼지지 말고 피어나<br/>불티야 불티야 새벽을 훨훨 날아가<br/>새 불티야 불티야 춤추듯 온몸을 살라<br/>새 불티야 불티야 꺼지지 말고 피어나<br/>이 까만 어둠을<br/>동그라니 밝혀<br/>내 앞을 비추는 너<br/>어디든 갈 수 있어<br/>세찬 바람을 타고<br/>떠올라 내려 보면<br/>우린 이 별의 여행자<br/>어제 길 위의 넌 꿈만 꾸고 있었지<br/>작은 새처럼 작은 새처럼<br/>이제 타이밍이야 너의 시간이야<br/>숨을 불어넣어 불티를 깨워<br/>타올라라 후 후후후<br/>꺼지지 않게<br/>붉디붉은 채<br/>더 크게 번져 후 후후<br/>지금 가장 뜨거운<br/>내 안의 작고 작은<br/>불티야 불티야 꺼지지 말고 피어나<br/>불티야 불티야 새벽을 훨훨 날아가<br/>새 불티야 불티야 춤추듯 온몸을 살라<br/>새 불티야 불티야 꺼지지 말고 피어나<br/>오랜 기다림 너의 시간을 믿어<br/>나를 닮은 너 불티를 깨워<br/>더 타올라라 후 후후후<br/>꺼지지 않게<br/>붉디붉은 채<br/>더 크게 번져 후 후후<br/>지금 가장 뜨거운<br/>더 타올라라 후 후후후<br/>꺼지지 않게<br/>붉디붉은 채<br/>더 크게 번져 후 후후<br/>지금 가장 뜨거운<br/>내 안의 작고 작은<br/>불티야<br/>
+",https://www.youtube.com/results?search_query=%EB%B6%88%ED%8B%B0+%28Spark%29
+21,새 사랑,송하예,새 사랑,314,"한참을 내 옆에서 지켜주던<br/>무던한 사람<br/>가끔 네 욕을 해도 내 편이 돼주는 <br/>착한 사람<br/>새 사랑을 시작하는 게<br/>아직 겁나는데<br/>이런 나라도 좋대<br/>오늘 고백하는 그 남잘 보고<br/>난 니가 생각나서 눈물을 참다가<br/>내 답을 기다리는 그 눈에<br/>괜히 죄를 짓는 것 같아서<br/>아무 말도 못했어<br/>이젠 나도 행복해도 돼<br/>듣지 못할 답을<br/>왜 너에게 묻는건지<br/>오늘 고백하는 그 남잘 보고<br/>난 니가 생각나서 눈물을 참다가<br/>내 답을 기다리는 그 눈에<br/>괜히 죄를 짓는 것 같아서<br/>고개만 끄덕였어<br/>나 괜찮은거지<br/>사랑해도 되지<br/>니가 못해준<br/>그때보다 더 예쁜사랑<br/>전부 해 줄 사람을 만났어<br/>오늘같이 기뻐해야 하는날<br/>왜 혼자 미안하고 눈물이 나야해<br/>말 없이 나를 안아주는 그품에<br/>이제 너를 보내야 할까봐<br/>미안해 이제 안녕<br/>미안해 정말 안녕<br/>
+",https://www.youtube.com/results?search_query=%EC%83%88+%EC%82%AC%EB%9E%91
+22,사랑이란 멜로는 없어,전상근,사랑이란 멜로는 없어,301,"다 끝이라고<br/>우리 다신 마주하지 말자<br/>내게 모질게도<br/>대했던 그대에게<br/>처음으로 내뱉은 말<br/>아직 사랑하는데<br/>더는 내 곁에 없단 걸 알아<br/>너 먼저 떠나고<br/>혼자 남겨진 나는<br/>오늘도 한숨만 내쉬며 걷는다<br/>사랑이란 멜로는 없어<br/>그렇게 사랑했던 우리가 남이 되는 게<br/>돌아오지 않을 네 뒷모습을 보며<br/>아직 너를 사랑한다고<br/>말하지 못했어<br/>사랑이란 멜로는 없어<br/>혹시 네가 다시 돌아오면<br/>고백할게<br/>거짓말이라고 보고 싶었다고<br/>우연히라도 마주치길<br/>바래왔었다고<br/>오늘 하루가 참 길어<br/>우리 그렇게 헤어지던 날<br/>애써 웃음을 지었던<br/>내가 참 바보 같죠<br/>그때 널 잡았었다면<br/>지금 달라졌을까<br/>사랑이란 멜로는 없어<br/>그렇게 사랑했던 우리가 남이 되는 게<br/>돌아오지 않을 네 뒷모습을 보며<br/>아직 너를 사랑한다고<br/>말하지 못했어<br/>하루 종일 네 사진을 보고 있으면<br/>다시 돌아가고 싶어<br/>너를 품에 안고 싶어<br/>그날 그대를 놓치지 않았다면<br/>어땠을까<br/>사랑이란 멜로는 없어<br/>사랑이란 멜로는 없어<br/>그렇게 사랑했던 우리가 남이 되는 게<br/>돌아오지 않을 네 뒷모습을 보며<br/>아직 너를 사랑한다고<br/>말하지 못했어<br/>사랑이란 멜로는 없어<br/>혹시 네가 다시 돌아오면<br/>고백할게<br/>거짓말이라고 보고 싶었다고<br/>우연히라도 마주치길<br/>바래왔었다고<br/>
+",https://www.youtube.com/results?search_query=%EC%82%AC%EB%9E%91%EC%9D%B4%EB%9E%80+%EB%A9%9C%EB%A1%9C%EB%8A%94+%EC%97%86%EC%96%B4
+23,"FEVER (Feat. 수퍼비, BIBI)",박진영,FEVER,301,"FEVER<br/>니가 내 모든 걸 엉망으로<br/>만들고 있다는 걸 아니<br/>너 땜에 아무것도 손에<br/>잡히지를 않는데 어쩌니<br/>집 밖을 나온 지가 언젠데<br/>왜 자꾸 집에 갈 생각만 하는데<br/>Oh 넌 도대체<br/>어디서 나타난 거니<br/>Fever like I've got the flu<br/>Love scene의 athlete<br/>넌 너무 선수<br/>쿠파왕보다 깨기<br/>어려워 필요해 전술<br/>유혹이 심해 너한테 취해<br/>Yeah I feel like a dummy<br/>이 곡 Hook 노랫말처럼<br/>어디서 나타난 거니 Huh<br/>너는 독주<br/>너는 독 What<br/>근데 끊지는 못하는 술<br/>완전히 중독이 됐잖아<br/>못 이겨 그 어떤<br/>Poison두<br/>온 집에 꿀을 발라놓은 것처럼<br/>밖을 못 나가<br/>네 품에 꼭 붙어버려 Fever<br/>니가 날 바라볼 때 FEVER<br/>눈과 눈이 맞을 때 FEVER<br/>달아올라 달아올라<br/>달아올라 달아올라<br/>옆집 아줌마가 다 알아 FEVER<br/>니 입술이 닿을 때 FEVER<br/>몸과 몸이 닿을 때 FEVER<br/>달아올라 달아올라<br/>달아올라 달아올라<br/>윗집 아저씨가 다 알아 FEVER<br/>집에 가자마자 왜<br/>내 몸이 니 몸에 붙는 거니<br/>N극과 S극처럼<br/>잡아당기는 건 왜니<br/>운동을 한 지가 벌써 언젠데<br/>왜 계속 살이 쭉쭉 빠지는데<br/>너는 알고 이러니<br/>모르고 이러는 거니<br/>Kiss on my wrist<br/>Baby I want more<br/>Keepin' up my lips<br/>Baby like muah muah<br/>번져버린 립스틱 위에 더 더<br/>뜨거운 그 입으로 남겨줘요<br/>All that marks<br/>And I'm woo ahh<br/>더워 더워<br/>And you heat me heating me<br/>뜨거 뜨거<br/>And I'm woo hot<br/>Hold up hold up<br/>뜨거운 불길로 다 태워줘<br/>My everything<br/>니가 날 바라볼 때 FEVER<br/>눈과 눈이 맞을 때 FEVER<br/>달아올라 달아올라<br/>달아올라 달아올라<br/>옆집 아줌마가 다 알아 FEVER<br/>니 입술이 닿을 때 FEVER<br/>몸과 몸이 닿을 때 FEVER<br/>달아올라 달아올라<br/>달아올라 달아올라<br/>윗집 아저씨가 다 알아 FEVER<br/>You give me fever<br/>All night &amp; day<br/>일어나려고 했다가 바로 다시 누워<br/>Oh fever 매일 밤 이래<br/>Oh fever fever<br/>니가 날 바라볼 때 FEVER<br/>눈과 눈이 맞을 때 FEVER<br/>달아올라 달아올라<br/>달아올라 달아올라<br/>옆집 아줌마가 다 알아 FEVER<br/>니 입술이 닿을 때 FEVER<br/>몸과 몸이 닿을 때 FEVER<br/>달아올라 달아올라<br/>달아올라 달아올라<br/>윗집 아저씨가 다 알아 FEVER<br/>You give me FEVER<br/>
+",https://www.youtube.com/results?search_query=FEVER+%28Feat.+%EC%88%98%ED%8D%BC%EB%B9%84%2C+BIBI%29
+24,Santa Tell Me,Ariana Grande,Santa Tell Me,298,"Santa tell me if you're really there<br/>Don't make me fall in love again<br/>If he won't be here next year<br/>Santa tell me if he really cares<br/>Cause I can't give it all away<br/>if he won't be here next year<br/>Feeling Christmas all around<br/>And I'm trying to play it cool<br/>But it's hard to focus<br/>when I see him<br/>walking 'cross the room<br/>Let it snow is blasting now<br/>But I won't get it in the mood<br/>I'm avoiding every mistletoe<br/>until I know it's true love<br/>That he thinks of<br/>So next Christmas<br/>I'm not all alone boy<br/>Santa tell me if you're really there<br/>Don't make me fall in love again<br/>If he won't be here next year<br/>Santa tell me if he really cares<br/>Cause I can't give it all away<br/>if he won't be here next year<br/>I've been down this road before<br/>Fell in love on Christmas night<br/>But I knew you say I woke up<br/>and you wasn't by my side<br/>Now I need someone to hold<br/>Be my fire in the cold<br/>But it's hard to tell if this is<br/>just a fling or if it's true love<br/>That he thinks of<br/>So next Christmas<br/>I'm not all alone boy<br/>Santa tell me if you're really there<br/>Don't make me fall in love again<br/>If he won't be here next year<br/>Santa tell me if he really cares<br/>Cause I can't give it all away<br/>if he won't be here next year<br/>Oh I wanna have him<br/>beside me like ooh<br/>On the 25th by the fireplace ooh<br/>But I don't want no broken heart<br/>This year I got to be smart<br/>Oh baby<br/>Santa tell me<br/>Santa tell me<br/>Santa tell me<br/>Santa tell me if you're really there<br/>Don't make me fall in love again<br/>If he won't be here next year<br/>Santa tell me if he really cares<br/>Cause I can't give it all away<br/>if he won't be here next year<br/>Santa tell me if you're really there<br/>Don't make me fall in love again<br/>If he won't be here next year<br/>Santa tell me if he really cares<br/>Cause I can't give it all away<br/>if he won't be here next year<br/>
+",https://www.youtube.com/results?search_query=Santa+Tell+Me
+25,With You,Crush,From Midnight To Sunrise,298,"It’s always good time with you<br/>spend my life time<br/>with you my love<br/>every time with you<br/>my love 너와 함께면 난<br/>always good time with you my love<br/>너의 아픔도 다 감싸 안을게<br/>불안정한 날 네 심장에 담아줬으니까<br/>약속해 꼭 잡은 손 절대 놓지 않아<br/>It’s always good time with you<br/>spend my life time<br/>with you my love<br/>아주 오래 오래 더 오래<br/>오래 오래 오래 오래 with you<br/>아픈 기억<br/>또 서툰 표현<br/>사랑받는 방법조차<br/>몰랐었던 내 삶에 들어와<br/>용기를 준 너로 인해 난<br/>두렵지 않아 너와 함께하는 이 순간<br/>너는 내 인생에 값진 선물<br/>Always good time with you<br/>It’s always good time with you<br/>spend my life time<br/>with you my love<br/>아주 오래 오래 더 오래<br/>오래 오래 오래 오래 with you<br/>매일 밤 너의 심장 소리에<br/>나 잠들고 싶어<br/>응어리진 나의 마음을 녹여줘<br/>눈물이 쏟아질 만큼<br/>따뜻하게 안아 줄게<br/>네 곁에 머물러 with you<br/>It’s always good time with you<br/>baby I can’t let you go<br/>아주 오래 오래 더 오래<br/>오래 오래 오래 오래 with you<br/>
+",https://www.youtube.com/results?search_query=With+You
+26,"숨겨진 세상 (Into the Unknown End Credit Version) (""겨울왕국 2"")",태연 (TAEYEON),겨울왕국 2 (한국어 버전),292,"아-아-아-아<br/>아-아-아-아-아-아<br/><br/>Into the unknown…<br/>Into the unknown…<br/>Into the unknown!<br/><br/>아-아-아-아<br/><br/>듣기 싫어<br/>저리 가<br/>제발 좀 나를<br/>내버려 둬<br/>지금 이 행복을 잃고 싶지 않은데<br/>자꾸 왜 맴돌며 <br/>나를 데려가려 해<br/>오-오<br/>오-오<br/><br/>귀를 막겠어<br/>스쳐갈 바람일 뿐이야<br/>뭐라 말해도 (그만해)<br/>못 들은척 할래<br/>소중한 내 사람들을 떠날 수 없어<br/>저 불안한 세상에 날 떠밀지 말아 줘<br/><br/>저 두렵고 낯선<br/>위험한 모험들<br/>비바람 몰아치듯 저 멀리서 날 불러<br/><br/>Into the unknown…<br/>Into the unknown…<br/>Into the unknown!<br/><br/>아-아-아-아<br/>아-아-아-아-아-아<br/><br/>뭘 원해 넌<br/>왜 자꾸 나를 부르니<br/>내가 위험해지는 거 <br/>그걸 바라는 거니<br/>어쩌면 알고 있니 마법 같은 내 비밀<br/>여긴 내가 있을 곳이 아닌걸<br/><br/>견디기에 버거워져 힘이 강해질수록<br/>잠들었던 내 마음이 깨어나<br/>Into the unknown<br/>Into the unknown!<br/>Into the unknown!!<br/><br/>아-아-아-아<br/>아-아-아-아<br/><br/><br/>오-오-오<br/>어디 있니?<br/>내가 보이니?<br/>느낀다면<br/>보여줘 널<br/><br/>아-아-아-아!<br/>아-아-아-아<br/>아-아-아-아!<br/>아-아-아-아<br/><br/>아-아-아-아<br/>아-아-아-아<br/>아-아-아-아!<br/>아-아-아-아!<br/><br/>어둡고 험한<br/>먼 길이라도<br/>그곳에 가겠어<br/>Into the unknown!<br/><br/>
+",https://www.youtube.com/results?search_query=%EC%88%A8%EA%B2%A8%EC%A7%84+%EC%84%B8%EC%83%81+%28Into+the+Unknown+End+Credit+Version%29+%28%22%EA%B2%A8%EC%9A%B8%EC%99%95%EA%B5%AD+2%22%29
+27,그 사람,아이유,Love poem,291,"그 사람 돌아보지 않아요 <br/>사랑에 약속하지 않고요<br/>매일을 춤추듯이 살아서<br/>한순간도 그에게 눈 뗄 수 없었나 봐요 <br/><br/>그 사람 부끄러워 않아요<br/>쉬운 농담에 쉬이 웃지 않고요<br/>그러다 한 번 웃어 주면<br/>아, 난 어쩌지 못하고 밤새 몸달아 했어요<br/><br/>오 날 살게 하던 총명한 말 마디마디<br/>겨우 미워해 봐도 잊혀지진 않네요 <br/><br/>발자국 하나 안 두고<br/>어디로 바삐 떠나셨나요 <br/><br/>Why do i still love you<br/>Why do i sing about you <br/>Why do i still wait for you <br/>Sing about you say love you<br/>Baby i love you<br/>Why i love you why you<br/><br/>오 날 덥게 하던 <br/>따뜻한 손 마디마디 <br/>애써 밀어내 봐도 떨쳐지지 않아요 <br/><br/>그림자 한 뼘 안 주고 <br/>어찌 숨 가삐 떠나셨나요 <br/><br/>그 사람 마주친 적 있나요<br/>여전히 그렇게 그 던가요<br/>지금쯤 어디서 어느 누구, 어떤 음악에<br/>고고히 춤추고 있을까요 <br/><br/>Why do i still love you<br/>Why do i sing about you<br/>Why do i still wait for you <br/>Sing about you Say love you <br/>Baby i love you<br/>why i love you why you<br/>
+",https://www.youtube.com/results?search_query=%EA%B7%B8+%EC%82%AC%EB%9E%8C
+28,Alone,Crush,From Midnight To Sunrise,288,"아무도 없는 깜깜한 안개 속에 갇혀<br/>남겨진 듯한 거울 속의 널 마주할 때<br/>참아내는 연습 뿐인<br/>하루가 또 지나가고<br/>눈물도 닿을 수 없는<br/>깊은 곳에 있을 때<br/>내가 널 꽉 안아 줄게<br/>혼자라고 느낄 때<br/>그 어떤 어둠이 우릴 삼켜도<br/>감싸 줄게 늘 그 자리에 서서<br/>너 외롭지 않게<br/>여기 있어 편히 울어도 돼<br/>너무도 거친 바람에 나 괴로워할 때<br/>그 작은 어깨가<br/>내겐 커다란 나무였어<br/>시간은 흘러 차가운 계절은<br/>또 다가왔고<br/>그 때의 나처럼 너<br/>흐리게 훌쩍거릴 때<br/>내가 안아 줄게<br/>혼자라고 느낄 때<br/>그 어떤 어둠이 우릴 삼켜도<br/>감싸 줄게 늘 그 자리에 서서<br/>너 외롭지 않게<br/>슬퍼할 일만 가득해도<br/>그곳에 우리 함께해<br/>내게 기대 같이 울어 줄게<br/>짙은 파도 몰려와<br/>너의 마음 부서져 내릴 때<br/>이제는 기대도 돼<br/>열 번의 겨울이 우릴 삼켜도<br/>감싸 줄게 살결이 닿아 있어<br/>너 외롭지 않게<br/>슬퍼할 일만 가득해도<br/>그곳에 함께해<br/>내게 기대 편히 울어도 돼<br/>
+",https://www.youtube.com/results?search_query=Alone
+29,"모든 날, 모든 순간 (Every day, Every Moment)",폴킴,`키스 먼저 할까요?` OST Part.3,283,"네가 없이 웃을 수 있을까<br/>생각만 해도 눈물이나<br/>힘든 시간 날 지켜준 사람<br/>이제는 내가 그댈 지킬 테니<br/>너의 품은 항상 따뜻했어<br/>고단했던 나의 하루에<br/>유일한 휴식처<br/>나는 너 하나로 충분해<br/>긴 말 안 해도 눈빛으로 다 아니깐<br/>한 송이의 꽃이 피고 지는<br/>모든 날 모든 순간 함께해<br/>햇살처럼 빛나고 있었지<br/>나를 보는 네 눈빛은<br/>꿈이라고 해도 좋을 만큼<br/>그 모든 순간은 눈부셨다<br/>불안했던 나의 고된 삶에<br/>한줄기 빛처럼 다가와<br/>날 웃게 해준 너<br/>나는 너 하나로 충분해<br/>긴 말 안 해도 눈빛으로 다 아니깐<br/>한 송이의 꽃이 피고 지는<br/>모든 날 모든 순간 함께해<br/>알 수 없는 미래지만<br/>네 품속에 있는 지금 순간 순간이<br/>영원 했으면 해<br/>갈게 바람이 좋은 날에<br/>햇살 눈부신 어떤 날에 너에게로<br/>처음 내게 왔던 그날처럼<br/>모든 날 모든 순간 함께해<br/>
+",https://www.youtube.com/results?search_query=%EB%AA%A8%EB%93%A0+%EB%82%A0%2C+%EB%AA%A8%EB%93%A0+%EC%88%9C%EA%B0%84+%28Every+day%2C+Every+Moment%29
+30,시든 꽃에 물을 주듯,HYNN (박혜원),시든 꽃에 물을 주듯,281,"아무말도 아무것도<br/>여전히 넌 여기 없고<br/>널 원하고 널 원해도 난 외롭고<br/>꽃이 피고 진 그 자리<br/>끝을 몰랐었던 맘이<br/>깨질 것만 같던 그때 우리 음<br/>시든 꽃에 물을 주듯<br/>싫은 표정조차 없는<br/>결국엔 부서진 여기 우리 음<br/>다 잊었니 말없이 다 잊었니<br/>사랑한단 말로 날 가둬둔 채로<br/>넌 잊었니 난 잊지 못하나봐<br/>바보처럼 기다려 난 오늘도<br/>어쩌다 이렇게 됐지<br/>너무 예뻤잖아 둘이<br/>매일 설레였지 그때 우린 음<br/>시든 꽃에 물을 주듯<br/>싫은 표정조차 없는<br/>결국엔 부서진 여기 우리<br/>다 잊었니 말없이 다 잊었니<br/>사랑한단 말로 날 가둬둔 채로<br/>넌 잊었니 난 잊지 못하나봐<br/>바보처럼 기다린<br/>바보처럼 빈 자릴 붙잡는 나<br/>차라리 다 끝났다고 말해줘<br/>이기적인 그 침묵에 또 나만<br/>바보처럼 미련한<br/>내가 미워<br/>아무말도 아무것도<br/>여전히 넌 여기 없고<br/>널 원하고 널 원해도 난 지쳐가<br/>
+",https://www.youtube.com/results?search_query=%EC%8B%9C%EB%93%A0+%EA%BD%83%EC%97%90+%EB%AC%BC%EC%9D%84+%EC%A3%BC%EB%93%AF
+31,자장가,아이유,Love poem,277,"기다리지 않기로 했잖아 <br/>울지 않을 거라고 그랬잖아 <br/>너무 늦은 밤이야 <br/>오 너무 긴 이별이야<br/><br/>잠시만 더 이렇게 있을까<br/>그래 잊혀져 버릴 꿈이지만<br/>눈을 감아 마지막<br/>잠을 재워 줄게 <br/><br/>My lullaby <br/>Baby sweet goodnight<br/>무서운 꿈은 없을 거야<br/>너의 끝나지 않는 긴긴 하루를<br/>이제는 그만 보내주렴 음<br/><br/>가만히 끌어안고 있을까<br/>어느 사이 끝나 가는 꿈이지만<br/>마음 놓아 마지막 노랠 불러 줄게<br/><br/>My lullaby baby<br/>Sweet good night<br/>무서운 꿈은 없을 거야<br/>너의 끝나지 않는 긴긴 슬픔을<br/>이제는 그만 보내 주렴<br/><br/>잠들지 못해<br/>지친 숨소리가 잦아들 때까지<br/>소란한 너의 밤을 지킬게<br/><br/>I’ll be nearby<br/>Baby sweet goodnight<br/>항상 네 곁에 있을 거야<br/>더 만날 수 없는 지난날들도<br/>이제는 그만 놓아 주렴<br/><br/>My edelweiss <br/>Baby sweet good bye<br/>모두 잊어도 돼<br/>다 괜찮아 괜찮아 놓아<br/>
+",https://www.youtube.com/results?search_query=%EC%9E%90%EC%9E%A5%EA%B0%80
+32,LION,(여자)아이들,퀸덤 <FINAL 컴백 싱글>,275,"Ooh I’m a lion I’m a queen<br/>아무도<br/>그래 Ooh<br/>날 가둘 수 없어 아픔도<br/>붉은 태양 아래 Fire<br/>파랗게 타는 Flower<br/>미지근한 너의 애를 태우게<br/>살짝 드러내는 Sharp claw<br/>달아오르는 상처<br/>발자국은 내 왕관을 맴돌게<br/>난 나의 눈을 가리고<br/>이 음악에 몸을 맡기고<br/>뻔한 리듬을 망치고<br/>사자의 춤을 바치고<br/>넌 나의 눈을 살피고<br/>이 음악에 몸이 말리고<br/>뜨거운 리듬에 갇히고<br/>사자에 춤을 바치고<br/>It looks like a lion<br/>I’m a queen like a lion<br/>It looks like a lion<br/>I’m a queen like a lion<br/>그 강인한 울음은<br/>너의 발을 내게 돌려<br/>이 넓은 황야 속 크고<br/>단단한 씨를 뿌려<br/>그 웅장한 부름은<br/>너의 맘을 내게 돌려<br/>이 깊은 바닷속까지<br/>거친 멜로딜 꽂아<br/>더 탐을 내지 말어<br/>자릴 지키는 Lion<br/>때로는 사나워 질지 모르니<br/>이제 환호의 음을 높여<br/>모두 고개를 올려<br/>어린 사자의 왕관을 씌우니<br/>난 나의 눈을 가리고<br/>이 음악에 몸을 맡기고<br/>뻔한 리듬을 망치고<br/>사자의 춤을 바치고<br/>넌 나의 눈을 살피고<br/>이 음악에 몸이 말리고<br/>뜨거운 리듬에 갇히고<br/>사자에 춤을 바치고<br/>It looks like a lion<br/>I’m a queen like a lion<br/>It looks like a lion<br/>I’m a queen like a lion<br/>쓸데없는 예의 따윈 물어뜯어<br/>편견이란 답답한<br/>우리는 무너뜨려<br/>감히 또 누가 날 막고<br/>또 누가 날 조종해<br/>조심해 다듬지 못한 발톱으로<br/>아무도 가본 적이 없는 개척하는 길<br/>뻔해 빠진 꼰대들은 혀를 차던 짓<br/>그걸 해내고서야 받는 박수는<br/>더 짜릿한 맛이지<br/>그걸 맛봤고 이제 부정할 수 없어<br/>I’m a queen<br/>It looks like a lion<br/>I’m a queen like a lion<br/>It looks like a lion<br/>I’m a queen like a lion<br/>Ooh I’m a lion I’m a queen<br/>아무도<br/>그래 Ooh<br/>길들일 수 없어 사랑도<br/>
+",https://www.youtube.com/results?search_query=LION
+33,작은 것들을 위한 시 (Boy With Luv) feat. Halsey,방탄소년단,MAP OF THE SOUL : PERSONA,273,"모든 게 궁금해<br/>How’s your day<br/>Oh tell me<br/>뭐가 널 행복하게 하는지<br/>Oh text me<br/>Your every picture<br/>내 머리맡에 두고 싶어<br/>oh bae<br/>Come be my teacher<br/>네 모든 걸 다 가르쳐줘<br/>Your 1 your 2<br/>Listen my my baby 나는<br/>저 하늘을 높이 날고 있어<br/>그때 니가 내게 줬던 두 날개로<br/>이제 여긴 너무 높아<br/>난 내 눈에 널 맞추고 싶어<br/>Yeah you makin’ me a boy with luv<br/>Oh my my my oh my my my<br/>I've waited all my life<br/>네 전부를 함께하고 싶어<br/>Oh my my my oh my my my<br/>Looking for something right<br/>이제 조금은 나 알겠어<br/>I want something stronger<br/>Than a moment<br/>than a moment love<br/>I have waited longer<br/>For a boy with<br/>For a boy with luv<br/>널 알게 된 이후 ya<br/>내 삶은 온통 너 ya<br/>사소한 게 사소하지 않게<br/>만들어버린 너라는 별<br/>하나부터 열까지 모든 게 특별하지<br/>너의 관심사 걸음걸이 말투와<br/>사소한 작은 습관들까지<br/>다 말하지 너무 작던<br/>내가 영웅이 된 거라고<br/>Oh nah<br/>난 말하지 운명 따윈<br/>처음부터 내 게 아니었다고<br/>Oh nah<br/>세계의 평화<br/>No way<br/>거대한 질서<br/>No way<br/>그저 널 지킬 거야 난<br/>Boy with luv<br/>Listen my my baby 나는<br/>저 하늘을 높이 날고 있어<br/>그때 니가 내게 줬던 두 날개로<br/>이제 여긴 너무 높아<br/>난 내 눈에 널 맞추고 싶어<br/>Yeah you makin’ me a boy with luv<br/>Oh my my my oh my my my<br/>You got me high so fast<br/>네 전부를 함께하고 싶어<br/>Oh my my my oh my my my<br/>You got me fly so fast<br/>이제 조금은 나 알겠어<br/>Love is nothing stronger<br/>Than a boy with luv<br/>Love is nothing stronger<br/>Than a boy with luv<br/>툭 까놓고 말할게<br/>나도 모르게 힘이 들어가기도 했어<br/>높아버린 sky<br/>커져버린 hall<br/>때론 도망치게 해달라며 기도했어<br/>But 너의 상처는 나의 상처<br/>깨달았을 때 나 다짐했던 걸<br/>니가 준 이카루스의 날개로<br/>태양이 아닌 너에게로<br/>Let me fly<br/>Oh my my my oh my my my<br/>I've waited all my life<br/>네 전부를 함께하고 싶어<br/>Oh my my my oh my my my<br/>Looking for something right<br/>이제 조금은 나 알겠어<br/>I want something stronger<br/>Than a moment<br/>than a moment love<br/>Love is nothing stronger<br/>Than a boy with luv<br/>
+",https://www.youtube.com/results?search_query=%EC%9E%91%EC%9D%80+%EA%B2%83%EB%93%A4%EC%9D%84+%EC%9C%84%ED%95%9C+%EC%8B%9C+%28Boy+With+Luv%29+feat.+Halsey
+34,워커홀릭,볼빨간사춘기,Two Five,273,"머릴 질끈 묶고 안경을 벗어던져<br/>난 지금 화가 났음 짜증이 났음<br/>답장을 해주고 싶다가도<br/>쏘아대는 말투들이<br/>전혀 사랑스럽지 않아<br/>시원한 맥주를 한 캔 마시다 yeah<br/>문득 스쳐 지나가는 어제의 기억<br/>지금 생각해 보니까 내가 왜<br/>때려치웠어야 했는데<br/>모두 손을 들어 Beer Cheers 우<br/>아쉽지 않은 청춘답게 Face it<br/>웃음밖에 나오지 않는 모든 상황에<br/>눈 떠보니 벌써 아침이 왔음<br/>우우우우우우우우우우<br/>우우우우우우우우우우<br/>Everyday working 이러다가 죽겠네<br/>But I love this right<br/>이건 내게 맞지<br/>바라기만 했던 Up all night<br/>머리 아픈 일들만 가득해<br/>난 지금 과부하가 왔음<br/>시원한 맥주를 한 캔 마시다 yeah<br/>문득 스쳐 지나가는 어제의 기억<br/>지금 생각해 보니까 내가 왜<br/>때려치웠어야 했는데<br/>모두 손을 들어 Beer Cheers 우<br/>아쉽지 않은 청춘답게 Face it<br/>웃음밖에 나오지 않는 모든 상황에<br/>눈 떠보니 벌써 아침이 왔음<br/>지겹도록 같은 일상 속에<br/>오늘만 살아가고 싶어져<br/>겁먹지 마 Just face<br/>what you are doing yeah<br/>시간이 없음<br/>모두 소릴 질러 Feel this yeah<br/>두렵지 않은 청춘답게 Face it<br/>웃음조차 나오지 않는 모든 상황에<br/>눈 떠보니 벌써<br/>모두 손을 들어 Beer Cheers 우<br/>아쉽지 않은 청춘답게 Face it<br/>웃음밖에 나오지 않는 모든 상황에<br/>눈 떠보니 벌써 아침이 왔음<br/>우우우우우우우우우우<br/>우우우우우우우우우우<br/>아침이 왔음<br/>
+",https://www.youtube.com/results?search_query=%EC%9B%8C%EC%BB%A4%ED%99%80%EB%A6%AD
+35,있어줘요,장덕철,있어줘요,271,"나와 둘이 함께 늙어가자던<br/>습관처럼 뱉던 말 아직 여전하니<br/>뭐든 나와 함께 한다면<br/>그저 좋다던 예쁜 얼굴 생각나는 밤<br/>나에게 늘 맞춰주던 너<br/>익숙함이 커 지키지 못했어 그땐<br/>내 얘기에 귀 기울이던 너의<br/>앳된 표정이 아직도 선명해<br/>다시금 날 봐줘요<br/>그대의 기나긴 투정도<br/>모두 들어드릴게요<br/>아직도 지키지 못한<br/>약속을 기다린다면<br/>그대여 다시금 내 곁에 있어줘요<br/>머물러요<br/>질투 어린 술주정에도<br/>미안하다며 계속 나를 달랬던 그대<br/>따듯한 그 말들을 무시했던<br/>그때의 내가 원망스럽네요<br/>다시금 날 봐줘요<br/>그대의 기나긴 투정도<br/>모두 들어드릴게요<br/>아직도 지키지 못한<br/>약속을 기다린다면<br/>그대여 다시금 내 곁에 있어줘요<br/>그대가 돌아오면<br/>멍청한 내 어린 습관도<br/>전부 다 고칠게요<br/>사랑은 처음이라서<br/>그대를 아프게 해서<br/>미안해요<br/>
+",https://www.youtube.com/results?search_query=%EC%9E%88%EC%96%B4%EC%A4%98%EC%9A%94
+36,니 소식,송하예,니 소식,267,"그때의 우리 사랑<br/>뜨겁고 치열했는데<br/>끝나보니 남는건 미움뿐<br/>몇번의 계절을 더<br/>보내야 괜찮아 질까<br/>미련이 듬뿍 남은 하루를 보내<br/>친구들과 통화에<br/>우연히 들은 니 소식<br/>다른 사랑을 시작해<br/>잘 지낸다고<br/>한땐 소중했었고<br/>많이 사랑했었던<br/>우리둘은 이젠 남이 됐고<br/>모르는 사람이야<br/>넌 완벽히 잊었나봐<br/>이렇게 넌 잘사는데<br/>괜한 걱정을 했나봐<br/>나만 힘든가봐<br/>너도 내 소식을<br/>전해 들었으면 좋겠어<br/>아직은 좀 힘들어 한다는<br/>미안한 마음갖고<br/>가끔씩 날 생각해줘<br/>그래야 내 맘이 좀<br/>편할거 같아<br/>니옆에 다른 사람<br/>있다는게 참 낯설어<br/>뭔지 모를 서운함은<br/>이기적인 거니<br/>한땐 소중했었고<br/>많이 사랑했었던<br/>우리둘은 이젠 남이 됐고<br/>모르는 사람이야<br/>넌 완벽히 잊었나봐<br/>이렇게 넌 잘사는데<br/>나만 끝을 미뤘나봐<br/>나만 그랬나봐<br/>솔직한 맘을 말하면<br/>좋은 사랑 안했으면 해<br/>가슴아프게 지내길 바랬어<br/>너는 행복하겠지<br/>많이 설레이겠지<br/>나 없이도 웃는 니 모습에<br/>이제야 실감이나<br/>넌 완벽히 떠났나봐<br/>확실히 날 떠났나봐<br/>난 니가 너무 미워져<br/>행복하지 말아줘<br/>잘지내지 말아줘<br/>좋은 사람 만나 다행이란<br/>말은 거짓말이야<br/>네 소식 들은 그날밤<br/>펑펑 울다가 밤을 샜어<br/>늦어버린걸 알지만<br/>어쩔수 없나봐<br/>
+",https://www.youtube.com/results?search_query=%EB%8B%88+%EC%86%8C%EC%8B%9D
+37,"아마두 (feat.우원재, 김효은, 넉살, Huckleberry P)","염따, 딥플로우, 팔로알토 (Paloalto), The Quiett, 사이먼 도미닉",Dingo X DAMOIM (Part 2),264,"어 그래 얘들아 <br/>사는게 개같지 <br/>내 얼굴도 개같지 뭐얌 <br/>근데도 부자가 됐다 <br/>세상은 공평한 법 <br/>열심히 하는 자에겐 <br/>성공이 올 것이다 빠끄 <br/>내년엔 잘될거야 아마두 <br/>택배가 도착할걸 아마두 <br/>여친이 생길거야 아마두 <br/>민수도 잘될거야 아마두 <br/>동갑인 차살거야 아마두 <br/>팔로는 애낳을거야 아마두 <br/>머리가 자랄거야 상구두 <br/>기석인 모르겠어 하나두 <br/>나도 진짜 모르겠어 <br/>뭐할지 당장에 오늘도 내일도 <br/>매해 목표는 무조건 새 앨범 <br/>설레발은 놉 그 놈의 앨범 모드 <br/>하나만 더 내고 단콘에 월드 투어 <br/>계획만 짜다 드러눕는 버릇도 <br/>고치고 싶다 주둥이만 터는 놈 <br/>잠을 더 자려면 돈을 덜 버는 것뿐 <br/>엄마 결혼은 기대도 마 <br/>나는 즐기면서 살고 있고 <br/>건강 검진 혼자 받는 건 싫은데 <br/>같이 갈 다모임 손 <br/>골프나 치러 댕길래 <br/>우리 그게 첫번째 위시리스트 <br/>받은 사랑을 제대로 베풀고 싶어 <br/>officially <br/>I got that guap 바뀐 내 겨울 잠바 <br/>미안해 이제 사과해 <br/>그전에 죽인 산타는 <br/>어릴 적 들은 good times과 <br/>콰형의 1 life 2 live <br/>상구형의 양화 그리고 기석형 <br/>믹스테입 그때의 파마 <br/>강동에 살아 <br/>스케이트보드 타러 간 지하 <br/>주차장에서 쫓겨났어 <br/>가방엔 <br/>필카 두 개 라카 두어 개 <br/>홍대는 내 도화지 <br/>Uh 많이 변했네 <br/>더 좋을 거야 아마두 <br/>새 캘린더 꺼내 올해도 가네 <br/>내 또래 84 rappers 참 오래도 가네 <br/>다음엔 광수 상수 껴 다들 바쁘지만 <br/>내 안 고독방 셔터는 <br/>2년째 안 내려가네 yeah <br/>자 노를 저어 강물 따라 이젠 바닷물 <br/>난 깨고 있어 <br/>내 인생의 미션 하나 둘 <br/>반지하에서 35평 한강 뷰 <br/>반지도 샀어 장가가겠지 아마두 <br/>다가올 내일을 향해 smile <br/>멈추기엔 시간이 아까워 <br/>DAMOIM comin to town <br/>내년에는 보다 나은 <br/>우리가 돼있기를 빌어 <br/>너희도 잘될거야 get em yea <br/>지나간 날은 뒤로 <br/>어깰 펴고 고갤 위로 <br/>what's up noisemaster <br/>세상에 사랑을 나누기 위해서 <br/>모인 이 masters <br/>받은 만큼돌려 주는 게 <br/>이 남자들의 finessin <br/>shoutout to dingo 헉피 넉살 <br/>우원재 효은이 thank yall <br/>내년엔 다들 더 잘될거야 <br/>아마두 <br/>택배가 도착할걸 아마두 <br/>여친이 생길거야 아마두 <br/>민수도 잘될거야 아마두 <br/>동갑인 차살거야 아마두 <br/>팔로는 애낳을거야 아마두 <br/>머리가 자랄거야 상구두 <br/>기석이는 모르겠어 하나두 <br/>너를 사랑할 것 같아 아마두 <br/>너가 나를 떠나버릴지도 버릴지도 <br/>돌아오지 않아 너라는 눈은 <br/>계절이 한 번 더 변해도 내후년도 <br/>우 우 우 우 <br/>자기야 이 순간 <br/>너를 위해 부르잖아 워 워 <br/>망가져 버려도 좋아 <br/>타 버리자 이대로 <br/>빨간불은 파란불로 바뀌어 <br/>웃어 하하호호 <br/>걱정해봤자 뭐 답 없어 <br/>잃지 말자 낭만을 <br/>Positive vibe 전파 <br/>올해 꼬였대도 no prob <br/>성장한 거야 <br/>뒤돌아보면 안줏거리고 영웅담 <br/>태어난 건 내 선택 <br/>아니었지만 삶은 내꺼지 <br/>뭐 어쩔 건데 누가 뭐래도 <br/>첫 번째 내 행복이 <br/>이걸 나눌 수 있단 사실이 <br/>내면을 부자로 만들지 <br/>날씬 추워도 마음은 따뜻해 <br/>멋진 친구가 많으니 <br/>돈 Call Me 잘 될 줄 알았음 <br/>염따형 앨범 featuring <br/>할걸 그랬어 할머니는 <br/>천국에 잘 계셔 <br/>크리스마스 크리스마스 <br/>feels like love <br/>이 모든 게 우연일까 <br/>26일이 기일인 이유도 oh oh <br/>33번째 겨울 따뜻하니 <br/>돈 좀 벌었다고 no <br/>사람들이 있어 <br/>이건 주머니에 넣지 못한다고 <br/>오늘이 가면 1월이지 <br/>내년엔 어떤 모습 희망이 기다리지 <br/>믿음이 있길 이끼는 <br/>끼지 않게 구르는 돈이 되길 <br/>저 애들을 봐 <br/>온 동네 구경이라도 난 듯 <br/>이 노래를 기다리네 <br/>이제 안 해도 될 것 같네 작두 <br/>나 빼고 가서 좋았니 <br/>물론 좋았겠지 대만 <br/>딩고 놈들은 또 날 불러 <br/>지들 필요할 때만 <br/>여튼 12월에도 연말 느낌은 없지 <br/>왜냠 올림픽홀에서 하는 <br/>분신 준비 때문이지 <br/>이 기분을 아는 사람은 박재범뿐이지 <br/>돈 많이 벌어서 <br/>나도 벤틀리 한 번 뿌시리 <br/>아마두 <br/>택배가 도착할걸 아마두 <br/>여친이 생길거야 아마두 <br/>민수도 잘될거야 아마두 <br/>동갑인 차살거야 아마두 <br/>팔로는 애낳을거야 아마두 <br/>머리가 자랄거야 상구두 <br/>기석인 모르겠어 하나두 <br/>효은이는 웃을거야 아마두 <br/>산타는 없대 원재가 그랬음 <br/>넉살아 술좀그만 말아주 <br/>헉피는 행복할걸 아마두 <br/>딩고도 고생했어 아마두 <br/>해식인 영화감독 아마두 <br/>일등을 할것같아 아마두 <br/>안되면 쨀것같아 아마두 <br/>우 우 우 우 <br/>야 우리 그냥 쨸래<br/>
+",https://www.youtube.com/results?search_query=%EC%95%84%EB%A7%88%EB%91%90+%28feat.%EC%9A%B0%EC%9B%90%EC%9E%AC%2C+%EA%B9%80%ED%9A%A8%EC%9D%80%2C+%EB%84%89%EC%82%B4%2C+Huckleberry+P%29
+38,차가워진 이 바람엔 우리가 써있어(Bad Love),HYNN (박혜원),차가워진 이 바람엔 우리가 써있어(Bad Love),263,"넌 한숨만 또 한숨만<br/>긴 침묵이 흐르고<br/>차가워진 이 바람엔<br/>우리가 써있어<br/>먼 계절을 견뎌낸 사랑이 <br/>이젠 지쳐 멈추나봐<br/>네 마음도 결국엔 지나 봐<br/>이렇게 우린 끝인가 봐<br/>Bad Love Bad Love Bad Love<br/>날 바라보던 그 눈에 살았는데<br/>날 안아주던 그 맘에 살았는데<br/>우리가 왜 우리가 어떻게 왜 <br/>헤어지니 No Way<br/>너의 고백 둘만의 작은 약속 먼지처럼<br/>찬 바람에 흩어져가<br/>Bad Love<br/>얼어붙은 네 눈빛은<br/>아프게 날 부수고<br/>차가워진 이 바람은<br/>널 데려가는데<br/>먼 계절을 견뎌낸 사랑이 <br/>이젠 지쳐 멈추나봐<br/>네 마음도 결국엔 지나 봐<br/>이렇게 우린 끝인가 봐<br/>Bad Love Bad Love Bad Love<br/>날 바라보던 그 눈에 살았는데<br/>날 안아주던 그 맘에 살았는데<br/>우리가 왜 우리가 어떻게 왜 <br/>헤어지니 No Way<br/>너의 고백 둘만의 작은 약속 먼지처럼<br/>찬 바람에 흩어져가<br/>멀어지는 니 모습 흐려져<br/>나 지금 우나봐 <br/>우리 남이 되나봐 끝인가봐<br/>No No No No<br/>No No No No Bad Love<br/>나는 다르다며 내가 사랑이라며<br/>아니잖아 사랑이 아니잖아 <br/>떠나잖아 넌 왜<br/>너의 기억 너의 향기 두고서 넌 가잖아 <br/>결국 여기까진가 봐<br/>Bad Love<br/>
+",https://www.youtube.com/results?search_query=%EC%B0%A8%EA%B0%80%EC%9B%8C%EC%A7%84+%EC%9D%B4+%EB%B0%94%EB%9E%8C%EC%97%94+%EC%9A%B0%EB%A6%AC%EA%B0%80+%EC%8D%A8%EC%9E%88%EC%96%B4%28Bad+Love%29
+39,포장마차,황인욱,포장마차,262,"그대와 자주 가던 그 술집에<br/>혼자 널 생각하며 소주 한잔해<br/>그대가 좋아하던 김치찌개를<br/>가만히 바라보다 눈물 한잔해<br/>그 사람 왔었나요<br/>아니 소식이라도<br/>그녀에게 전해줘요<br/>늘 지금처럼 기다린다고<br/>포장마차 그때 그 자리에서<br/>네가 있던 그곳에 서서<br/>날 사랑한다 말했잖아<br/>영원할 거라고 말했잖아<br/>포장마차 그때 그 자리에서<br/>돌아오라는 말을 다시<br/>되뇌이고 되뇌어도<br/>네가 돌아오지 않을 걸 알잖아<br/>그 사람 왔었다면<br/>혹시 혼자였나요<br/>그녀에게 전해줘요<br/>나 그때처럼 기다린다고<br/>포장마차 그때 그 자리에서<br/>네가 있던 그곳에 서서<br/>날 사랑한다 말했잖아<br/>영원할 거라고 말했잖아<br/>포장마차 그때 그 자리에서<br/>돌아오라는 말을 다시<br/>되뇌이고 되뇌어도<br/>네가 돌아오지 않을 걸 알잖아<br/>다 잊으려고 노력해봐도<br/>그게 잘 안되나봐<br/>습관처럼 아니 예전처럼 우리<br/>두 번 다시 돌아갈 수 없나요<br/>내가 싫은 건가요<br/>날 사랑한다 말했잖아<br/>영원할 거라고 말했잖아<br/>포장마차 그때 그 자리에서<br/>네가 있던 그곳에 서서<br/>날 사랑한다 말했잖아<br/>영원할 거라고 말했잖아<br/>그댈 다시 부르고 또 불러도<br/>아무 말 없는 너를 다시<br/>되뇌이고 되뇌어도<br/>네가 돌아오지 않을 걸 알잖아<br/>
+",https://www.youtube.com/results?search_query=%ED%8F%AC%EC%9E%A5%EB%A7%88%EC%B0%A8
+40,Snowman,Sia,Everyday Is Christmas (Deluxe),259,"Don't cry snowman<br/>not in front of me<br/>Who will catch your tears<br/>if you can't catch me darling<br/>If you can't catch me darling<br/>Don't cry snowman<br/>don't leave me this way<br/>A puddle of water<br/>can't hold me close baby<br/>Can't hold me close baby<br/>I want you to know<br/>that I'm never leaving<br/>Cause I'm Mrs. Snow<br/>'till death we'll be freezing<br/>Yeah you are my home<br/>my home for all seasons<br/>So come on let's go<br/>Let go below zero<br/>And hide from the sun<br/>I love you forever<br/>Well we'll have some fun<br/>Yes let's hit the North Pole<br/>And live happily<br/>Please don't cry no tears now<br/>It's Christmas baby<br/>My snowman and me yeah<br/>My snowman and me baby<br/>Don't cry snowman<br/>don't you fear the sun<br/>Who'll carry me<br/>without legs to run honey<br/>Without legs to run honey<br/>Don't cry snowman<br/>don't you shed a tear<br/>Who'll hear my secrets<br/>if you don't have ears baby<br/>If you don't have ears baby<br/>I want you to know<br/>that I'm never leaving<br/>Cause I'm Mrs. Snow<br/>'till death we'll be freezing<br/>Yeah you are my home<br/>my home for all seasons<br/>So come on let's go<br/>Let's go below zero<br/>And hide from the sun<br/>I love you forever<br/>Well we'll have some fun<br/>Yes let's hit the North Pole<br/>And live happily<br/>Please don't cry no tears now<br/>It's Christmas baby<br/>My snowman and me yeah<br/>My snowman and me baby<br/>
+",https://www.youtube.com/results?search_query=Snowman
+41,허전해,폴킴,"정규 2집 '마음, 하나'",256,"마음이 허전해<br/>널 만나고부터<br/>잠시 나와줄래<br/>널 만나야겠어<br/>어두운 밤 부서지는 기억<br/>별이 되어 비추고<br/>보이지 않던 오랜 방황들이<br/>나은 내일을 꿈꾸게 해<br/>마음이 허전한 게 <br/>자꾸 네가 생각나서일까<br/>네 이름 부르면 <br/>언제라도 날 찾아줄 것 같아<br/>두 눈을 감으면 <br/>그날 그대로 널 그릴 수 있어<br/>그날이 그리워 그리워 나는<br/>너를 만나는 게<br/>내게 큰 힘이 돼<br/>이젠 당연하게<br/>널 기다려 My Love<br/>차가운 맘 모진 바람들이<br/>나를 초라하게 만든대도<br/>따스한 너의 그 한마디가<br/>나의 모든 걸 숨 쉬게 해<br/>마음이 허전한 게 <br/>자꾸 네가 생각나서일까<br/>숨이 턱 막힌 듯 <br/>아무 일도 난 할 수가 없잖아<br/>한참을 떠들며 <br/>마시던 술이 달지가 않은데<br/>네가 더 그리워 그리워 다시<br/>마음이 허전한 게 <br/>자꾸 네가 생각나서일까<br/>네 이름 부르면 <br/>한걸음에 날 찾아올 걸 알아<br/>두 눈을 감으면 <br/>내 곁에 있는 널 느낄 수 있어<br/>네가 참 그리워 그리워 다시<br/>네가 더 그리워 그리워<br/>
+",https://www.youtube.com/results?search_query=%ED%97%88%EC%A0%84%ED%95%B4
+42,사랑에 연습이 있었다면 (Prod. 2soo),임재현,사랑에 연습이 있었다면,245,"사랑에 연습이 있었다면 <br/>우리는 달라졌을까 <br/>내가 널 만난 시간 혹은 그 장소 <br/>상황이 달랐었다면 <br/>우린 맺어졌을까 <br/>하필 넌 <br/>왜 내가 그렇게 철없던 시절에 <br/>나타나서 그렇게 예뻤니 <br/>너처럼 좋은 여자가 <br/>왜 날 만나서 그런 <br/>과분한 사랑 내게 줬는지<br/>우리 다시 그때로 돌아가자는게 <br/>그게 미친말인가 <br/>정신나간 소린가 <br/>나는 더 잘 할 수 있고 <br/>다신 울리지 않을 <br/>자신있는데 그게 왜 말이 안돼 <br/>시간이 너무 흘러 알게되었는데 <br/>너를 울리지 않고 아껴주는법 <br/>세월은 왜 철없는 날 <br/>기다려주지 않고 <br/>흘러갔는지 야속해 <br/>지금 너 만나는 그에게도 <br/>내게 그랬던 것처럼 <br/>예쁘게 웃어주니 <br/>너처럼 좋은 여자의 <br/>사랑 받는 그 남자 너무 부러워 <br/>넌 행복하니<br/>니옆에 지금 그 남자가 있는게 <br/>우리 다시 맺어질수가 없는 이윤가 <br/>나는 더 잘 할 수 있고<br/>다신 울리지 않을<br/>자신있는데 그게 왜 말이 안돼<br/>시간이 너무 흘러 알게 되었는데<br/>너를 울리지 않고 아껴주는 법<br/>세월은 왜 널 잊는 법을<br/>알려주지 않고 흘러갔는지<br/>
+",https://www.youtube.com/results?search_query=%EC%82%AC%EB%9E%91%EC%97%90+%EC%97%B0%EC%8A%B5%EC%9D%B4+%EC%9E%88%EC%97%88%EB%8B%A4%EB%A9%B4+%28Prod.+2soo%29
+43,bad guy,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",240,"White shirt now red<br/>my bloody nose<br/>Sleepin'<br/>you're on your tippy toes<br/>Creepin' around<br/>like no one knows<br/>Think you're so criminal<br/>Bruises on<br/>both my knees for you<br/>Don't say thank you or please<br/>I do what I want<br/>when I'm wanting to<br/>My soul so cynical<br/>So you're a tough guy<br/>Like it really rough guy<br/>Just can't get enough guy<br/>Chest always so puffed guy<br/>I'm that bad type<br/>Make your mama sad type<br/>Make your girlfriend mad tight<br/>Might seduce your dad type<br/>I'm the bad guy duh<br/>I'm the bad guy<br/>I like it when you take control<br/>Even if you know that you don't<br/>Own me<br/>I'll let you play the role<br/>I'll be your animal<br/>My mommy likes to<br/>sing along with me<br/>But she won't sing this song<br/>If she reads all the lyrics<br/>She'll pity the men I know<br/>So you're a tough guy<br/>Like it really rough guy<br/>Just can't get enough guy<br/>Chest always so puffed guy<br/>I'm that bad type<br/>Make your mama sad type<br/>Make your girlfriend mad tight<br/>Might seduce your dad type<br/>I'm the bad guy duh<br/>I'm the bad guy duh<br/>I'm only good at bein' bad bad<br/>I like when you get mad<br/>I guess I'm pretty glad<br/>that you're alone<br/>You said she's scared of me<br/>I mean<br/>I don't see what she sees<br/>But maybe it's 'cause I'm<br/>wearing your cologne<br/>I'm a bad guy<br/>I'm a bad guy<br/>Bad guy bad guy<br/>I'm a bad<br/>
+",https://www.youtube.com/results?search_query=bad+guy
+44,"Some Things Never Change (From ""Frozen 2""/Soundtrack Version)","Kristen Bell, Idina Menzel, Josh Gad, Jonathan Groff, Cast of Frozen 2",Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),239,"ANNA<br/>Yes, the wind blows a little bit colder<br/>And we’re all getting older<br/>And the clouds are moving on with every autumn breeze.<br/>Peter pumpkin just became fertilizer<br/><br/>OLAF<br/>And my leaf’s a little sadder and wiser<br/><br/>ANNA<br/>That’s why I rely on certain certainties…<br/>Yes<br/>Some things never change<br/>Like the feel of your hand in mine<br/>Some things stay the same<br/><br/>ANNA AND OLAF<br/>Like how we get along just fine<br/><br/>ANNA<br/>Like an old stone wall<br/>That’ll never fall<br/>Some things are always true!<br/>Some things never change<br/>Like how I’m holding on tight to you.<br/><br/>KRISTOFF<br/>The leaves are already falling<br/>Sven, it feels like the future is calling!<br/><br/>KRISTOFF (AS SVEN)<br/>Are you telling me tonight you’re going to get down on one knee?<br/><br/>KRISTOFF<br/>Yeah, but I’m really bad at planning these things out<br/>Like candlelight and pulling of rings out<br/><br/>KRISTOFF (AS SVEN)<br/>Maybe you should leave all the romantic stuff to me<br/><br/>KRISTOFF<br/>Yeah, some things never change<br/>Like the love that I feel for her<br/>Some things stay the same<br/>Like how reindeers are easier<br/>But if I commit<br/>And I go for it<br/>I’ll know what to say and do!<br/>Right?<br/><br/>KRISTOFF (AS SVEN)<br/>Some things never change…<br/><br/>KRISTOFF<br/>Sven, the pressure is all on you<br/><br/>ELSA<br/>The winds are restless<br/>Could that be why I’m hearing this call?<br/>Is something coming?<br/>I’m not sure I want things to change at all<br/>These days are precious, can’t let them slip away…<br/>I can’t freeze this moment<br/>But I can still go out and seize this day!!<br/><br/>ARENDELLE<br/>Ah-ah-ah-ah-ah-ah<br/>The wind blows a little bit colder<br/><br/>OLAF<br/>And you all look a little bit older!<br/><br/>ANNA<br/>It’s time to count our blessings<br/><br/>KRISTOFF AND ANNA<br/>Beneath an autumn sky!<br/><br/>ARENDELLE<br/>We’ll always live in a kingdom of plenty<br/>That stands for the good of the many!<br/><br/>ELSA<br/>And I promise you the flag of Arendelle will always fly!!<br/><br/>ANNA<br/>Our flag will always fly!<br/><br/>ARENDELLE<br/>Our flag will always fly!<br/><br/>ALL<br/>Some things never change<br/>Turn around and the time has flown<br/>Some things stay the same<br/>Though the future remains unknown<br/>May our good luck last<br/>May our past be past<br/>Time’s moving fast, it’s true!<br/><br/>ELSA/ANNA/KRISTOFF/OLAF<br/>Some things never change<br/><br/>ANNA<br/>And I’m holdin’ on tight to you…<br/><br/>ELSA<br/>Holdin’ on tight to you…<br/><br/>OLAF<br/>Holdin’ on tight to you…<br/><br/>KRISTOFF<br/>Holdin’ on tight to you…<br/><br/>ANNA<br/>I’m holdin’ on tight to you.<br/>
+",https://www.youtube.com/results?search_query=Some+Things+Never+Change+%28From+%22Frozen+2%22%2FSoundtrack+Version%29
+45,기억해줘요 내 모든 날과 그때를,거미,호텔 델루나 OST Part.7,238,"듣고있나요 나의 이 모든 얘기를<br/>그댈 향한 내 깊은 진심을<br/>매일 그리움 속에 그대를 불러보지만<br/>닿을 수 없는 마음을<br/>나도 이젠 알 것 같아요<br/>내 안의 그대를 놓을 수 없네요<br/>애써도 그게 잘 안돼요<br/>마음과 반대로 밀어내려 할수록<br/>이토록 더 아파지네요<br/>기억하나요 나의 이 모든 얘기를<br/>그댈 향한 내 깊은 진심을<br/>매일 그리움 속에 그대를 불러보지만<br/>닿을 수 없는 마음을<br/>나도 이젠 알 것 같아요<br/>스쳐가는 이 계절을 지나<br/>언젠가는 멀어질 걸 아니까<br/>더 모질게 그댈 밀어냈어요 너무<br/>가슴이 미칠 듯 아파도<br/>듣고 있나요 나의 이 모든 얘기를<br/>그댈 향한 내 깊은 진심을<br/>매일 그리움 속에 그대를 불러보지만<br/>닿을 수 없는 마음을<br/>나도 이젠 알 것 같아요<br/>아무 이유 없이 눈물 나는 날에는<br/>그댈 찾아가고 있네요 이렇게<br/>기억해줘요 내 모든 날과 그때를<br/>지울수록 선명해지니까<br/>가슴 아프겠지만 그대를 보내야 해요<br/>나를 기억해주세요 나 그대만<br/>사랑했음을<br/>
+",https://www.youtube.com/results?search_query=%EA%B8%B0%EC%96%B5%ED%95%B4%EC%A4%98%EC%9A%94+%EB%82%B4+%EB%AA%A8%EB%93%A0+%EB%82%A0%EA%B3%BC+%EA%B7%B8%EB%95%8C%EB%A5%BC
+46,미리 메리 크리스마스 (Feat. 천둥 Of MBLAQ),아이유,Real,235,"하얀 눈이 내려올 때면<br/>온 세상이 물들을 때면<br/>눈꽃이 피어나 또 빛이 나<br/>눈이 부신 너처럼<br/>Yeah girl<br/>you should know that<br/>That my heartbeats like<br/>Huh Huh Huh Huh<br/>From the bottom of my heart<br/>I thank god I found you<br/>쿵쿵 가슴이 왜 이렇게 가쁘니 yeah<br/>꾹꾹 참아도<br/>자꾸 네 생각이 나잖아 oh<br/>You You I love you<br/>and I know you love me too<br/>네가 내게 불러 준<br/>You're my boo<br/>You 아직 꿈만 같아<br/>And you 마치 선물 같아<br/>For you 네 품에 안겨도<br/>늘 불안불안 해 꿈처럼 깰까 봐<br/>You 꼭 안아 줘야만 해<br/>And you 아껴 줘야만 해<br/>For you 큰 맘 먹고 네 꺼 돼준 걸<br/>하늘에게 감사해<br/>하얀 눈이 내려올 때면<br/>온 세상이 물들을 때면<br/>눈꽃이 피어나 또 빛이 나<br/>눈이 부신 너처럼<br/>사랑할 수 밖에 없어서<br/>사랑한 네 손 잡고서<br/>첫 눈 위를 걸어 발자국을 새겨<br/>이 길 끝까지 걸어 갈 거야<br/>With you<br/>You 혹시 알고 있니<br/>And you 느낄 수가 있니<br/>For you 늘 자랑하고픈<br/>네 여자친구가 되고만 싶은 걸<br/>You 전부 다 주고 싶어<br/>And you 잘 해주고 싶어<br/>For you 다음 그 다음 해 겨울도<br/>너의 곁에 있을게<br/>하얀 눈이 내려올 때면<br/>온 세상이 물들을 때면<br/>눈꽃이 피어나 또 빛이 나<br/>눈이 부신 너처럼<br/>사랑할 수 밖에 없어서<br/>사랑한 네 손 잡고서<br/>첫 눈 위를 걸어 발자국을 새겨<br/>이 길 끝까지 걸어 갈 거야<br/>With you<br/>매일 매일 너 때문에 행복해<br/>다른 누구 아닌 나를<br/>모두 가질 너만이 My love<br/>나도 믿기지 않아<br/>지금 네가 내 옆에<br/>이렇게 손 꼭 잡은 채 걷는다는 게<br/>하얀 눈보다 더 뽀얀 네 볼에<br/>키스해줄게 Baby<br/>빨갛게 물들게 Baby<br/>다가오는 크리스마스에는<br/>기다리는 그 날만큼은<br/>네 곁에 있을래<br/>하루 종일 미리 미리 약속해<br/>사랑할 수 밖에 없어서<br/>사랑한 네 손 잡고서<br/>첫 눈 위를 걸어 발자국을 새겨<br/>이 길 끝까지 걸어 갈 거야<br/>With you<br/>Girl you know<br/>I can't even think without you<br/>in my life<br/>Yeah Yeah I know that you know<br/>That's my baby<br/>
+",https://www.youtube.com/results?search_query=%EB%AF%B8%EB%A6%AC+%EB%A9%94%EB%A6%AC+%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4+%28Feat.+%EC%B2%9C%EB%91%A5+Of+MBLAQ%29
+47,Feel Special,TWICE (트와이스),Feel Special,230,"그런 날이 있어 <br/>갑자기 혼자인 것만 같은 날 <br/>어딜 가도 내 자리가 아닌 것만 같고 <br/>고갠 떨궈지는 날 <br/>그럴 때마다 내게 <br/>얼마나 내가 소중한지 <br/>말해주는 너의 그 한마디에 <br/>Everything's alright <br/>초라한 Nobody에서 <br/>다시 Somebody <br/>특별한 나로 변해 <br/>You make me feel special <br/>세상이 아무리 날 주저앉혀도 <br/>아프고 아픈 말들이 날 찔러도 <br/>네가 있어 난 다시 웃어 <br/>That's what you do <br/>Again I feel special <br/>아무것도 아닌 존재 같다가도 <br/>사라져도 모를 사람 같다가도 <br/>날 부르는 네 목소리에 <br/>I feel loved I feel so special <br/>자꾸 숨고만 싶어서 <br/>마주 하기가 싫어서 <br/>모든 게 의미를 잃은 듯이 <br/>내가 의미를 잃은 듯이 <br/>가만히 주저앉아 있을 때 <br/>그때 내 앞에 나타난 너의 <br/>따뜻한 미소와 손길에 <br/>Everything's alright <br/>초라한 Nobody에서 <br/>다시 Somebody <br/>특별한 나로 변해 <br/>You make me feel special <br/>세상이 아무리 날 주저앉혀도 <br/>아프고 아픈 말들이 날 찔러도 <br/>네가 있어 난 다시 웃어 <br/>That's what you do <br/>Again I feel special <br/>아무것도 아닌 존재 같다가도 <br/>사라져도 모를 사람 같다가도 <br/>날 부르는 네 목소리에 <br/>I feel loved I feel so special <br/>You make everything alright <br/>구름이 쫙 낀 햇살 한 줌 없는 날 <br/>네가 바로 나의 Shining light <br/>That's what you do <br/>아무리 어두운 밤도 다시 낮 <br/>I owe it to you <br/>Because you make me feel <br/>You make me feel special<br/>세상이 아무리 날 주저앉혀도<br/>아프고 아픈 말들이 날 찔러도<br/>네가 있어 난 다시 웃어<br/>That's what you do<br/>Again I feel special<br/>아무것도 아닌 존재 같다가도<br/>사라져도 모를 사람 같다가도<br/>날 부르는 네 목소리에<br/>I feel loved I feel so special<br/>
+",https://www.youtube.com/results?search_query=Feel+Special
+48,사랑이 식었다고 말해도 돼,먼데이 키즈 (Monday Kiz),사랑이 식었다고 말해도 돼,227,"어떻게 보면 참<br/>전쟁 같았다 우리<br/>행복한 나날의<br/>수만큼 아프게 했던<br/>날들도 많았고<br/>울렸던 날도 많았어<br/>길었던 시간을 지켜줬던<br/>너야<br/>너를 너무 사랑해서<br/>그게 멀어지게 한 걸까<br/>어리숙한 내 잘못인가<br/>사랑이 식었다고<br/>솔직히 말해도 돼<br/>가슴 뛰는 설렘이<br/>네게<br/>온 거라고 나보다<br/>좋은 사람이<br/>너에게 생긴 거라고<br/>다른 핑계겠지<br/>우린 안 맞는다고<br/>질리게 들었어<br/>네 맘이 떠나간 후로<br/>혹시나 우리가<br/>괜찮은 시절에 만나<br/>잘해줬다면은<br/>우리 조금은 다를까<br/>너를 너무 사랑해서<br/>그게 멀어지게 한 걸까<br/>철이 없는 내 욕심인가<br/>사랑이 식었다고<br/>솔직히 말해도 돼<br/>가슴 뛰는 설렘이<br/>네게<br/>온 거라고 나보다<br/>좋은 사람이<br/>너에게 생긴 거라고<br/>아침이 까맣도록 취해<br/>잊으려 날 망가뜨려도<br/>남아 있는 너<br/>나보다 더 어디 가<br/>좋아서 떠난 거니<br/>인정하려 해봐도<br/>미워<br/>내가 좀 더 잘나서<br/>성공할 때쯤<br/>네 앞에 서 볼게<br/>그때 넌 홀로이기를<br/>
+",https://www.youtube.com/results?search_query=%EC%82%AC%EB%9E%91%EC%9D%B4+%EC%8B%9D%EC%97%88%EB%8B%A4%EA%B3%A0+%EB%A7%90%ED%95%B4%EB%8F%84+%EB%8F%BC
+49,이별주,황인욱,이별주,222,"오늘이 지나면 널 지워야겠지<br/>흔들리는 이 술잔이<br/>너의 마음 같아서<br/>아무 말 안 해도 난 알 수가 있어<br/>오늘 넌 이별을 말할 것 같아<br/>하필 왜 이 포장마차니<br/>우리 처음 만났던 이 자리에서<br/>왜 눈물 나게 해<br/>이 술잔을 마시고 나면<br/>넌 이별을 말할 것만 같아<br/>제발 이러지 마 나를 떠나지 마<br/>다 소용없는 거잖아<br/>이 술잔을 마시고 나면<br/>너 혼자만 끝인 거잖아 우리가<br/>왜 헤어져야 해<br/>이 술잔을 비우지 마 제발<br/>하필 왜 이 포장마차니<br/>우리 매일 만났던 그 자리에서<br/>왜 눈물 나게 해<br/>이 술잔을 마시고 나면<br/>넌 이별을 말할 것만 같아<br/>제발 이러지 마 나를 떠나지 마<br/>다 소용없는 거잖아<br/>이 술잔을 마시고 나면<br/>너 혼자만 끝인 거잖아 우리가<br/>왜 헤어져야 해<br/>이 술잔을 비우지 마 제발<br/>이 한잔의 술잔을 마시면 난<br/>너 없이 살아갈 수 있을까<br/>이제 우린 남이 되겠지<br/>이 술잔을 마시고 나면<br/>이 한잔에 끝낼 거라면<br/>넌 사랑을 말하면 안 되잖아<br/>그때 왜 그랬어 날 왜 사랑했어<br/>어차피 남이 될 거잖아<br/>이 술잔을 마시고 나면<br/>너 혼자만 끝인 거잖아 우리가<br/>왜 헤어져야 해<br/>이 술잔을 비우지 마 제발<br/>
+",https://www.youtube.com/results?search_query=%EC%9D%B4%EB%B3%84%EC%A3%BC
+50,"어쩌면, 널 잊을 수 있을까",길구봉구,"어쩌면, 널 잊을 수 있을까",218,"특별할 것도 없던 하루 지나고<br/>언제 떴는지도 모를 해가 지면<br/>나도 모르게 어느새 또 걷고 있어<br/>너와 함께 걷던 그 길<br/>넌 벌써 다 지웠나 봐<br/>아무렇지 않나 봐<br/>나만 그리운 것만 같아<br/>생각이 날 때마다 아무리 잘라내도<br/>어느새 다시 이어져<br/>내 마음이 더 아파와<br/>널 만난 만큼의 시간들이 지나간다면<br/>그땐 널 잊을 수 있을까<br/>어쩌면 널 잊을 수 없을까<br/>넌 벌써 다 지웠나 봐<br/>아무렇지 않나 봐<br/>나만 그리운 것만 같아<br/>생각이 날 때마다 아무리 잘라내도<br/>어느새 다시 이어져<br/>내 마음이 더 아파와<br/>널 만난 만큼의 시간들이 지나간다면<br/>그땐 널 잊을 수 있을까<br/>어쩌면 널 잊을 수 없을까<br/>너를 있는 힘껏 미워해 봐도<br/>언제 그랬냔듯이<br/>보고 싶어<br/>생각이 날 때마다 아무리 잘라내도<br/>어느새 다시 이어져<br/>내 마음이 더 아파와<br/>널 만난 만큼의 시간들이 지나간대도<br/>너를 잊을 수 없을 거야<br/>결국 널 잊지 못할 거야<br/>널 그리워할 거야<br/>
+",https://www.youtube.com/results?search_query=%EC%96%B4%EC%A9%8C%EB%A9%B4%2C+%EB%84%90+%EC%9E%8A%EC%9D%84+%EC%88%98+%EC%9E%88%EC%9D%84%EA%B9%8C
+51,영화 속에 나오는 주인공처럼,펀치 (Punch),동백꽃 필 무렵 (KBS2 수목드라마) OST - Part.6,214,"영화 속에 나온 주인공처럼<br/>예쁜 단장하고 있어요 <br/>창가에 가득 꽃들을 채우면서<br/>그댈 맞이할게요<br/>음 저기 들리는 그대 발자국<br/>나를 깨우며 미소 짓게 해<br/>오늘 하루도 난 주인공 되어<br/>그대라는 멋진 사랑을 만나<br/>Wish you Need you With you<br/>지금 이 순간 나는 너무 행복해<br/>이른 아침에 눈 뜨기 싫어도<br/>그대 생각에 웃죠<br/>오늘은 어떤 일들이 생겨날까<br/>기대 기대하죠<br/>음 결말이 없는 이야기처럼<br/>끝나지 않을 나의 이야기<br/>오늘 하루도 난 주인공 되어<br/>그대라는 멋진 사랑을 만나 <br/>Wish you Need you With you <br/>지금 이 순간 나는 너무 행복해<br/>가끔 꿈인 것만 같아<br/>나의 모든 이 순간들이<br/>오늘 하루도 난 주인공 되어<br/>그대라는 멋진 사랑을 만나<br/>Wish you Need you With you <br/>나는 이 순간 정말 너무 행복해<br/>그댄 나를 꿈꾸게 만든 사람<br/>그댄 나를 미소 짓게 한 사람<br/>Wish you Need you With you <br/>지금 이 순간 나는 너무 행복해<br/>
+",https://www.youtube.com/results?search_query=%EC%98%81%ED%99%94+%EC%86%8D%EC%97%90+%EB%82%98%EC%98%A4%EB%8A%94+%EC%A3%BC%EC%9D%B8%EA%B3%B5%EC%B2%98%EB%9F%BC
+52,그대라는 시,태연 (TAEYEON),호텔 델루나 OST Part.3,213,"언제부터인지 그대를 보면<br/>운명이라고 느꼈던 걸까<br/>밤하늘의 별이 빛난 것처럼<br/>오랫동안 내 곁에 있어요<br/>그대라는 시가 난 떠오를 때마다<br/>외워두고 싶어 그댈 기억할 수 있게<br/>슬픈 밤이 오면 내가 그대를 지켜줄게<br/>내 마음 들려오나요<br/>잊지 말아요<br/>지나가는 계절 속에 내 마음은<br/>변하지 않는단 걸 아나요<br/>그저 바라보는 눈빛 그 하나로<br/>세상을 다 가진 것 같은데<br/>그대라는 시가 난 떠오를 때마다<br/>외워두고 싶어 그댈 기억할 수 있게<br/>슬픈 밤이 오면 내가 그대를 지켜줄게<br/>내 마음 들려오나요<br/>잊지 말아요<br/>꽃이 피고 지는 날이 와도<br/>이것 하나만 기억해줘요<br/>그댈 향한 마음을<br/>언젠가는 우리<br/>멀어질지 몰라도<br/>나는 그대라면 기다릴 수 있을 텐데<br/>시간이 흘러도 내가 이곳에 서 있을게<br/>그대 망설이지 말아요<br/>그때가 오면<br/>
+",https://www.youtube.com/results?search_query=%EA%B7%B8%EB%8C%80%EB%9D%BC%EB%8A%94+%EC%8B%9C
+53,너를 만나,폴킴,너를 만나,212,"너를 만난 그 이후로<br/>사소한 변화들에 행복해져<br/>눈이 부시게 빛 나는 아침<br/>너를 떠올리며 눈 뜨는 하루<br/>식탁 위에 마주 앉아<br/>너의 하루는 어땠는지 묻거나<br/>나의 하루도 썩 괜찮았어<br/>웃으며 대답해 주고 싶어<br/>별것 아닌 일에 맘이 통할 때면<br/>익숙해진 서로가 놀라웠어<br/>널 사랑해<br/>평온한 지금처럼만<br/>영원하고 싶다고<br/>너를 바라보다 생각했어<br/>너를 만나 참 행복했어<br/>나 이토록 사랑할 수 있었던 건<br/>아직 어리고 모자란 내 맘<br/>따뜻한 이해로 다 안아줘서<br/>무심한 말투에 서로 아플 때면<br/>차가워진 사이가<br/>견딜 수 없어 미안해<br/>불안한 지금이라도<br/>영원하고 싶다고<br/>너를 바라보다 생각했어<br/>너를 만나 참 행복했어<br/>나 이토록 사랑할 수 있었던 건<br/>아직 어리고 모자란 내 맘<br/>따뜻한 이해로 다 안아줘서<br/>뜨거웠던 여름 지나<br/>그리워질 빗소리에<br/>하나 둘 수줍어 또 얼굴 붉히면<br/>생각이 많아진<br/>너의 눈에 입 맞출 테니<br/>우리 함께 걸어가기로 해<br/>나를 만나 너도 행복하니<br/>못 해준 게 더 많아서 미안해<br/>이기적이고 불안한 내가<br/>너에게만은 잘하고 싶었어<br/>오랫동안 나 기다려온<br/>완벽한 사랑을 찾은 것 같아<br/>날 잡아줘서 힘이 돼줘서 <br/>소중한 배려로 날 안아줘서<br/>너를 만나<br/>
+",https://www.youtube.com/results?search_query=%EB%84%88%EB%A5%BC+%EB%A7%8C%EB%82%98
+54,사계 (Four Seasons),태연 (TAEYEON),사계 (Four Seasons),205,"사계절이 와 그리고 또 떠나<br/>내 겨울을 주고 또 여름도 주었던<br/>온 세상이던 널 보낼래<br/>정말 너를 사랑했을까<br/>언제야 봄이던가<br/>맞아 그땐 한참 서로가<br/>셰익스피어의 연극 같은<br/>마지막이 될 사랑 마주한 듯<br/>둘밖에 안 보였나 봐<br/>다른 걸 좀 보고파<br/>I gave you the world<br/>너만이 전부라<br/>내 겨울을 주고 또 여름도 주었지<br/>뜨겁고 차갑던 그 계절에<br/>정말 너를 사랑했을까<br/>내가 너를 사랑했을까<br/>서로를 그리워했고<br/>서로를 지겨워하지<br/>그 긴 낮과 밤들이<br/>낡아 녹슬기 전에<br/>우리 다시 반짝이자<br/>또 계절이 바뀌잖아<br/>I gave you the world<br/>너만이 전부라<br/>내 겨울을 주고 또 여름도 주었지<br/>뜨겁고 차갑던 그 계절에<br/>정말 너를 사랑했을까<br/>내가 너를 사랑했을까<br/>가도 돼 뒤돌아볼 때쯤엔 난 없어<br/>우리 꽤 괜찮았어<br/>그거면 된 거야 떠날 때<br/>사계절이 와 그리고 또 떠나<br/>내 겨울을 주고 또 여름도 주었던<br/>온 세상이던 널 보낼래<br/>정말 너를 사랑했을까<br/>내가 너를 사랑했을까<br/>내가 너를 사랑했을까<br/>
+",https://www.youtube.com/results?search_query=%EC%82%AC%EA%B3%84+%28Four+Seasons%29
+55,가을밤 떠난 너,케이시 (Kassy),Rewind,198,"가을밤 떠난 너<br/>그런 너를 기다리는 나<br/>그 계절은 다시 돌아<br/>너를 생각나게 해<br/>사랑한다고<br/>기다린다고<br/>전해달라고 이런 내 맘<br/>차가운 밤 향기에<br/>쓸쓸해지는 이 밤<br/>잘 지내고 있니 넌 바쁜 거 같더라<br/>가끔 니 소식을 들어 이젠<br/>아무렇지 않은 척 괜찮다 해도<br/>사실 혼자 많이 울었어<br/>음 니가 보고 싶은 밤<br/>울컥해지는 밤<br/>잠 못 이루는 밤<br/>시간만 더디게 가 <br/>가을밤 떠난 너<br/>그런 너를 기다리는 나<br/>그 계절은 다시 돌아<br/>너를 생각나게 해<br/>사랑한다고 기다린다고<br/>전해달라고 이런 내 맘<br/>차가운 밤 향기에<br/>쓸쓸해지는 이 밤<br/>미안해 이 말 한마디면 충분한데<br/>뭐가 그리 어렵던지 우리<br/>그때 내가 얼마나 못났었는지<br/>정말 지독하게 미웠어<br/>음 니가 보고 싶어져<br/>수없이 참아도<br/>걷잡을 수 없이<br/>부쩍 커버린 내 맘<br/>우리가 얼마나 행복하고 좋았었는데<br/>넌 이 모든 추억들을<br/>지우고 살 수 있니 <br/>사랑한다고 좋아한다고<br/>못다 한 말들이 많다고<br/>너에게 줄 마음이 아직 남아있다고<br/>여전히 나<br/>기다린다고 <br/>한 번만 돌아오라고<br/>지나간 시간 속에<br/>아직 멈춰있다고<br/>가을밤 떠난 너<br/>이제 홀로 서 있네<br/>
+",https://www.youtube.com/results?search_query=%EA%B0%80%EC%9D%84%EB%B0%A4+%EB%96%A0%EB%82%9C+%EB%84%88
+56,다시 만날까 봐,V.O.S,다시 만날까 봐,191,"인스타로 몰래 보는 너의 하루들<br/>누가 봐도 헤어진 티를 내<br/>팔로우 다 끊고서<br/>좋아요는 왜 눌렀니<br/>참 바보 같은 사람이야<br/>잘 먹지도 못하는 술은<br/>왜 매일 마시고<br/>늘 예쁜 얼굴 많이 야위었어<br/>혼자 있으면 나도 그래<br/>술이 없으면 못 자고<br/>많이 괴로워해<br/>이럴 거면 우리 미친 척하고<br/>다시 만날까 봐<br/>다시 시작할까 봐<br/>친구들 만나는 거<br/>그렇게 좋아하면서<br/>집에만 있니 더 우울하게<br/>혼자 있으면 나도 그래<br/>누구도 만나기 싫어<br/>숨고만 싶은데<br/>이럴 거면 우리 미친 척하고<br/>다시 만날까 봐<br/>다시 시작할까 봐<br/>못 잊을 거야<br/>너와 추억한 지난날들을<br/>난 아직까지도 너무나 선명해<br/>그렇게 선명한 만큼<br/>지키고픈 우리 기억들이<br/>잊혀지는 게 정말 많이 두려워<br/>혼자 있으면 나도 그래<br/>늘 혼자 센척했지만 많이 두려워해<br/>이럴 거면 우리 미친 척하고<br/>다시 만날까 봐<br/>다시 시작할까 봐<br/>우리 여기서 끝나면 안 돼<br/>
+",https://www.youtube.com/results?search_query=%EB%8B%A4%EC%8B%9C+%EB%A7%8C%EB%82%A0%EA%B9%8C+%EB%B4%90
+57,2002,Anne-Marie,Speak Your Mind (Deluxe),189,"I will always remember<br/>The day you kissed my lips<br/>Light as a feather<br/>And it went just like this<br/>No it's never been better<br/>Than the summer of 2002<br/>We were only eleven<br/>But acting like grown-ups<br/>Like we are in the present<br/>Drinking from plastic cups<br/>Singing love is forever and ever<br/>Well I guess that was true<br/>Dancing on the hood<br/>in the middle of the woods<br/>On an old Mustang <br/>where we sang<br/>Songs with all<br/>our childhood friends<br/>And it went like this say<br/>Oops I got 99 problems<br/>singing bye bye bye<br/>Hold up if you wanna go<br/>and take a ride with me<br/>Better hit me baby one more time<br/>Paint a picture for you and me<br/>On the days when we were young<br/>Singing at the top of both our lungs<br/>Now we're under the covers<br/>Fast forward to eighteen<br/>We are more than lovers<br/>Yeah we are all we need<br/>When we're holding each other<br/>I'm taken back to 2002<br/>Dancing on the hood<br/>in the middle of the woods<br/>On an old Mustang<br/>where we sang<br/>Songs with all<br/>our childhood friends<br/>And it went like this say<br/>Oops I got 99 problems<br/>singing bye bye bye<br/>Hold up if you wanna go<br/>and take a ride with me<br/>Better hit me baby<br/>one more time<br/>Paint a picture for you and me<br/>On the days when we were young<br/>Singing at the top<br/>of both our lungs<br/>On the day we fell in love<br/>On the day we fell in love<br/>Dancing on the hood<br/>in the middle of the woods<br/>On an old Mustang<br/>where we sang<br/>Songs with all<br/>our childhoods friends<br/>Oh now<br/>Oops I got 99 problems<br/>singing bye bye bye<br/>Hold up if you wanna go<br/>and take a ride with me<br/>Better hit me baby<br/>one more time<br/>Paint a picture for you and me<br/>On the days when we were young<br/>Singing at the top<br/>of both our lungs<br/>On the day we fell in love<br/>On the day we fell in love<br/>On the day we fell in love<br/>On the day we fell in love<br/>On the day we fell in love<br/>love love<br/>
+",https://www.youtube.com/results?search_query=2002
+58,"All Is Found (From ""Frozen 2""/Soundtrack Version)",Evan Rachel Wood,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),184,"QUEEN IDUNA<br/>Where the Northwind<br/>Meets the sea<br/>There’s a river<br/>Full of memory<br/>Sleep my darling<br/>Safe and sound<br/>For in this river all is found<br/><br/>In her waters<br/>Deep and true<br/>Lie the answers<br/>And a path for you<br/>Dive down deep<br/>Into her sound<br/>But not too far<br/>Or you’ll be drowned<br/><br/>Yes, she will sing to those who hear<br/>And in her song, all magic flows<br/>But can you brave what you most fear<br/>Can you face what the river knows?<br/><br/>Where the Northwind<br/>Meets the sea<br/>There’s a mother<br/>Full of memory<br/>Come my darling,<br/>Homeward bound<br/>When all is lost<br/>Then all is found<br/>
+",https://www.youtube.com/results?search_query=All+Is+Found+%28From+%22Frozen+2%22%2FSoundtrack+Version%29
+59,5월의 밤,Zion.T,5월의 밤,181,"5월의 밤 기억해요 <br/>우리 처음 만난 밤 그 자리<br/>안녕하세요 처음 봬요<br/>그러니까 반갑네요<br/>우린 잘 웃지도 않았어<br/>딱히 할 말도 없었어 <br/>그때부터였어<br/>사랑한다 그 말은<br/>아름답다 그 말은<br/>쉽게 꺼낼 수 없죠<br/>나 알고 있죠<br/>그래서 어려웠죠<br/>사랑은 쉽게 찾아오지 않아요<br/>그렇게 쉽게 얘기하면 안 돼요 <br/>그대 날 떠나가려 하는 순간에<br/>난 붙잡지 않아요 단지 이렇게 말해요<br/>좀 더 다퉜더라면<br/>부딪혔다면<br/>우린 아직 설렐까요<br/>괜한 말을 해<br/>진작 느꼈어야 했어<br/>그대 세 번째 손가락<br/>위로 옮겨진 반지를 보고<br/>변하지 않기로 그렇게 서로 바랐으면서<br/>변하지 않아서 이렇게 지루해져 버렸죠 <br/>어떻게 했더라도<br/>우린 지금일까요<br/>모든 게 말장난 같아요<br/>사랑은 쉽게 찾아오지 않아요<br/>그렇게 쉽게 얘기하면 안 돼요 <br/>그대 날 떠나가려 하는 순간에<br/>난 붙잡지 않아요 단지 이렇게 말해요<br/>이렇게 말해요<br/>진심이 아니었다고 말해요<br/>그게 제일 어렵겠지만<br/>나도 잘 안다고<br/>누가 나만큼 알까요<br/>지난 일처럼 말하지 마요<br/>사랑은 쉽게 찾아오지 않아요<br/>그렇게 쉽게 얘기하면 안 돼요 <br/>그대 날 떠나가려 하는 순간에<br/>난 붙잡지 않아요 단지 이렇게 말해요<br/>
+",https://www.youtube.com/results?search_query=5%EC%9B%94%EC%9D%98+%EB%B0%A4
+60,Paris In The Rain,Lauv,I met you when I was 18. (the playlist),178,"All I know is ooh-ooh-ooh<br/>We could go anywhere we could do<br/>Anything girl<br/>whatever the mood we're in<br/>All I know is ooh-ooh-ooh<br/>Getting lost late at night<br/>under stars<br/>Finding love standing right<br/>where we are your lips<br/>They pull me in the moment<br/>you and I alone and<br/>People may be watching<br/>I don't mind<br/>'Cause<br/>Anywhere with you feels right<br/>Anywhere with you feels like<br/>Paris in the rain<br/>Paris in the rain<br/>We don't need a fancy town<br/>Or bottles that we can't pronounce<br/>'Cause anywhere babe<br/>Is like Paris in the rain<br/>When I'm with you<br/>When I'm with you<br/>Paris in the rain<br/>Paris in the rain<br/>I look at you now<br/>and I want this forever<br/>I might not deserve it<br/>but there's nothing better<br/>Don't know how I ever did it<br/>all without you<br/>My heart is about to<br/>about to jump out of my chest<br/>Feelings they come and they go<br/>that they do<br/>Feelings they come and they go<br/>not with you<br/>The late nights<br/>and the street lights and the<br/>people<br/>Look at me girl<br/>and the whole world could stop<br/>Anywhere with you feels right<br/>Anywhere with you feels like<br/>Paris in the rain<br/>Paris in the rain<br/>We don't need a fancy town<br/>Or bottles that we can't pronounce<br/>'Cause anywhere babe<br/>Is like Paris in the rain<br/>When I'm with you<br/>When I'm with you<br/>Paris in the rain<br/>Paris in the rain oh<br/>Girl when I'm not with you<br/>All I do is miss you<br/>So come and set the mood right<br/>Underneath the moonlight<br/>Days in Paris nights in Paris<br/>Paint you with my eyes closed<br/>Wonder where the time goes<br/>Yeah isn't it obvious<br/>isn't it obvious<br/>Come and set the mood right<br/>Underneath the moonlight<br/>'Cause anywhere<br/>with you feel right<br/>Anywhere with you feels like<br/>Paris in the rain<br/>Paris in the rain<br/>Walking down an empty street<br/>Puddles underneath our feet<br/>
+",https://www.youtube.com/results?search_query=Paris+In+The+Rain
+61,All I Want for Christmas Is You,Mariah Carey(머라이어 캐리),Merry Christmas [Deluxe Anniversary Edition],174,"I don't want a lot for Christmas
+There's just one thing I need
+I don't care about the presents
+underneath the Christmas tree
+I just want you for my own
+More than you could ever know
+Make my wish come true
+All I want for Christmas Is you
+
+I don't want a lot for Christmas
+There is just one thing I need
+I don't care about the presents
+underneath the Christmas tree
+I don't need to hang my stocking
+There upon the fireplace
+Santa Claus won't make me happy
+With a toy on Christmas day
+I just want you for my own
+More than you could ever know
+Make my wish come true
+All I want for Christmas Is you
+You baby
+
+I won't ask for much this Christmas
+I won't even wish for snow
+I'm just gonna keep on waiting
+Underneath the mistletoe
+I won't make a list and send it
+To the North Pole for Saint Nick
+I won't even stay awake to
+Hear those magic reindeer click
+Cause I just want you here tonight
+Holding on to me so tight
+What more can I do
+Oh Baby all I want for Christmas is you
+You~ baby~
+
+All the lights are shining
+So brightly everywhere
+And the sound of children's
+Laughter fills the air
+And everyone is singing
+I hear those sleigh bells ringing
+Santa won't you bring me
+the one I really need Won't you
+please bring my baby to me
+
+Oh I don't want a lot for Christmas
+This is all I'm asking for
+I just want to see my baby
+Standing right outside my door
+Oh I just want him for my own
+More than you could ever know
+Make my wish come true
+Oh Baby all I want for Christmas is You
+You baby
+All I want for Christmas is you baby",https://www.youtube.com/results?search_query=All+I+Want+for+Christmas+Is+You
+62,BAND,"창모 (CHANGMO), Hash Swan, ASH ISLAND, 김효은",BAND,173,"나의 Ksubi 안에는<br/>BAND check BAND check BAND<br/>여잔 뿌려 페로몬<br/>아웃핏은 매일 마다 새로워<br/>미녀처럼 부자는 괴로워<br/>I ain’t brag brag brag brag brag<br/>해쉬는 이태원<br/>Ay<br/>창모는 건대 효은 강남<br/>형 어디야<br/>애쉬 아무 데나 와 누나들이 좋데<br/>BAND check BAND check BAND<br/>check BAND check<br/>천원 bands 만원 bands<br/>사임 벤자민 bands<br/>마오 bands 파운드 bands<br/>옌 bands 유로 Bands<br/>BAND check BAND check BAND<br/>check BAND check<br/>천원 bands 만원 bands<br/>사임 벤자민 bands<br/>마오 bands 파운드 bands<br/>옌 bands 유로 Bands<br/>유럽 가봤니<br/>안 가봤어도 난 환전하지<br/>다 사봤지<br/>그래서 난 돈으로 돈 사는 지경에<br/>이르렀다 리미티드 에디션<br/>미련 없다 무소유 gang<br/>건물은 왜 사 건물을 묶어논<br/>다이소에서 지른 두터운 밴드<br/>bition gang<br/>Underground rockstar here man<br/>소맥 약은 불법이야 난 잃을게 많네<br/>돈 두 댓<br/>새 Bentley<br/>포르쉐 타보니 여긴 경차가 짱<br/>티코<br/>새 AP<br/>파텍<br/>무얼 사도 내 손 오면 기스가 나<br/>참 트루<br/>최근 벗은 여잘 많이 봤지<br/>그녀를 이제 걍 인류로 봐<br/>나이키에서 준 츄리닝을 입고 가지<br/>안 사도 신발 매일이 새로와<br/>이사님<br/>아무 생각 없이 그냥 누굴 보든 밥 사<br/>돈은 브라더야 드루와<br/>어이<br/>자랑 따윈 없는 내 bar<br/>근데 그지 새끼들은 괴로워<br/>나의 Ksubi 안에는<br/>BAND check BAND check BAND<br/>여잔 뿌려 페로몬<br/>아웃핏은 매일 마다 새로워<br/>미녀처럼 부자는 괴로워<br/>I ain’t brag brag brag brag brag<br/>해쉬는 이태원<br/>Ay<br/>창모는 건대 효은 강남<br/>형 어디야<br/>애쉬 아무 데나 와 누나들이 좋데<br/>BAND check BAND check BAND<br/>check BAND check<br/>천원 bands 만원 bands<br/>사임 벤자민 bands<br/>마오 bands 파운드 bands<br/>옌 bands 유로 Bands<br/>BAND check BAND check<br/>BAND check BAND check<br/>천원 bands 만원 bands<br/>사임 벤자민 bands<br/>마오 bands 파운드 bands<br/>옌 bands 유로 Bands<br/>나의 구찌 안엔 bands<br/>50의 모자 따위는 구부려 챙<br/>어쩌면 우리들 쇼핑은 꽤나 무료해<br/>넌 사임이 아니고 누구냐고 물어<br/>Benjamin Franklin<br/>왜 이래 대체 씨발 쪽팔리게<br/>Hunnit bands in the pocket<br/>또 까먹고 옷 걸었네<br/>Illionaire way Bition way foreign<br/>car foreign cash<br/>Not enough I need it Porsche<br/>다음은 Mercedes Benz<br/>사치 부리지<br/>너가 못 번다면 갑자기 분위기 음<br/>내 걱정이라기엔 화가 많네<br/>좆까 네 Hollywood living<br/>나는 그런 네 여동생의 오빠가 됐네<br/>괜히 욕 쳐먹는 연예인이 됐네<br/>어릴 때 짝사랑을 했어 잠시<br/>근데 지금 나는 걔 전 애인이 됐대<br/>What 진입 금지요<br/>Bition boys 클럽에서 피리 불어<br/>난 완치했지 출처 모르게 나간 돈이<br/>생각이 날 때면 뒤지는 병<br/>계속 벌어 그게 우리들이<br/>이미 쓴 돈을 대하고 기리는 법<br/>Ay We Bition boys<br/>BAND check BAND check<br/>we the bition gang gang<br/>오늘은 내 payday<br/>GANG GANG<br/>name tag 엔 ASH<br/>내 이름이 네겐 trap<br/>난 매일 뜯어 새 택<br/>개쩐데 내 인생 스물하나 밖에<br/>안됐는데 왜 이래<br/>갱상 출신의<br/>bition gang gang<br/>하늘에서 헤엄해<br/>니 친구 다 데꼬 와봐<br/>진심으로 다 우리 앞엔 빈 깡통<br/>자랑 안 해 다만 티가 날뿐<br/>너 복통나잖어<br/>누구에겐 착한 놈 누구에겐 씨발놈 <br/>부러워하지 말고 일이나 해라<br/>좀 걱정되잖어<br/>만들어 곡 ASH는 또<br/>이게 난 되는 게 알거든 돈<br/>근데 저 새끼들 꼭<br/>돈 땜에 한데나 지랄을 또<br/>취미는 녹음 돈 쓰기 혹은<br/>친구들 만나 술 마시고 놀기<br/>PABLO MU2IK BITION<br/>GANG GANG GANG<br/>WAY 친구랑 같이 만들어 돈<br/>나의 Ksubi 안에는<br/>BAND check BAND check<br/>BAND check BAND check<br/>천원 bands 만원 bands<br/>사임 벤자민 bands<br/>마오 bands 파운드 bands<br/>옌 bands 유로 Bands<br/>BAND check BAND check<br/>BAND check BAND check<br/>천원 bands 만원 bands<br/>사임 벤자민 bands 마오<br/>bands 파운드 bands<br/>옌 bands<br/>천원 bands 만원 bands<br/>사임 벤자민 bands<br/>마오 bands 파운드 bands<br/>옌 bands 유로 Bands<br/>여기 내가 번 돈으로 수영해<br/>멀리 안 가도 돼 그만 운전해<br/>너를 데리고 날아가 유럽에<br/>나도 가 본 적은 없지 유럽에<br/>그저 가고 싶은 맘이 없었네<br/>그저 사랑하고 싶은 맘도<br/>좆도 없었네<br/>그런데 시간이 없어 써<br/>그 시간에 돈 벌어<br/>5천만 원은 더 땡겨야<br/>내 마음이 편할 거<br/>바로 앨범 한 장 더 너나 놀고 자빠져<br/>다행이야 내 옆에<br/>개년이 아닌 너라서<br/>5천만 원은 개뿔 세금 떼고<br/>10억은 더 박아 둬야지 눈 감았네<br/>나는 여자보다 돈이 더 좋고<br/>당연히 그 돈 보다 너를 안 사랑해<br/>그런데 너를 사랑하는 바람에<br/>그래도 너를 사랑하는 바람에<br/>나는 떠나기 싫어 가을바람에<br/>낙엽처럼 떨어져<br/>눈물과 돈이 바닥에<br/>
+",https://www.youtube.com/results?search_query=BAND
+63,티격태격 (Feat. DPR LIVE),Crush,From Midnight To Sunrise,172,"통화할 땐 너무 좋았는데
+갑자기 온도가 확 바뀐 듯 해
+우린 티격해
+티격태격해
+가끔 삐걱대
+삐끗삐끗해
+어쩔 땐 이해가 안돼
+Oh ah 왜 뭐 때문에
+날 또 못살게 구는 건데
+왜 아이라인이 짝짝이인 걸
+전부 내 탓으로 돌리는 건데
+날 튀겼다가 삶았다가
+Girl what you wanna do
+그냥 너 하고픈 대로 한다고 해도
+잘해준 건 다 잊어 먹어
+그래도 난 너 없인 하루가 허전한 걸
+보고있는데도 보고픈 걸 어떡해야 해
+Woo I can't stop laughing with you girl
+Hey 오랜만이야
+넌 지금 어디야?
+학교 아님 집?
+지하철 아님 일?
+뭐 아무튼 1분만
+너의 귀를 기울여봐
+Girl am I on your earphone?
+Or am I on your speaker?
+Girl 내 친구 효섭이 핑계 대고
+너를 보러 왔어 안녕
+지친 하루에 맞춰 왔으니까
+내 목소리에 안겨
+넌 나를 색 입혀
+장난에 얼룩져
+뒷 처리는 내 몫이지
+네 기분에 맞춰
+계속 그려줘
+Just play with it
+뜨겁다가 차갑다가
+Girl what you wanna do
+I'll do anything u wanna do
+잘해준 건 다 잊어 먹어
+그래도 난 너 없인 하루가 허전한 걸
+보고있는데도 보고픈 걸 어떡해야 해
+Woo I can't stop laughing with you girl",https://www.youtube.com/results?search_query=%ED%8B%B0%EA%B2%A9%ED%83%9C%EA%B2%A9+%28Feat.+DPR+LIVE%29
+64,날 보러 와요 (Come See Me),AOA,NEW MOON,165,"Love in the dark<br/>Hey Twilight<br/>추운 겨울이 와도<br/>내 눈 속에는 꽃이 피나 봐<br/>첫눈에 알아본 걸까<br/>첫사랑처럼 두근대니까<br/>날 보면 무슨 생각<br/>무슨 느낌 그댄 어떤지<br/>때론 알 수 없는 그 무표정<br/>솔직히 말을 하면<br/>표현해줘 돌리지 말고<br/>하늘의 별을 잇듯 나에게 오는 길<br/>어둠 속 더욱더 우리 선명해지길<br/>잠 못 드는 밤 밤이 새도록<br/>그대와 나 단둘이만 얘기하고파<br/>가지고 싶어 서둘러줘요<br/>해뜨기 전에<br/>날 보러 와요<br/>그대 발걸음 소리<br/>내 마음이 설레고 있는 걸 아나요<br/>날 보러 와요<br/>나를 찾는 목소리<br/>한걸음에 그대에게 달려가요<br/>날 보러 와요<br/>Whoo A A A A A Twilight<br/>T Twilight<br/>T Twilight<br/>날 보러 와요<br/>Whoo A A A A A Twilight<br/>T Twilight<br/>어서 빨리 내게 와요<br/>밤이 길어지듯이<br/>그리움들도 깊어지나 봐<br/>밤새 춤을 춰줘요 내 방 어느새<br/>파랑 빛으로 물이 들어요<br/>밤새 눈을 맞춰줘 Baby<br/>노을빛 너무 설레어 Baby<br/>잠 못 드는 밤 밤이 새도록<br/>그대와 나 단둘이만 얘기하고파<br/>가지고 싶어 서둘러줘요<br/>해뜨기 전에<br/>날 보러 와요<br/>그대 발걸음 소리<br/>내 마음이 설레고 있는 걸 아나요<br/>날 보러 와요<br/>나를 찾는 목소리<br/>한걸음에 그대에게 달려가요<br/>날 보러 와요<br/>Whoo A A A A A Twilight<br/>T Twilight<br/>T Twilight<br/>날 보러 와요<br/>Whoo A A A A A Twilight<br/>T Twilight<br/>어서 빨리 내게 와요<br/>Twilight 너와 나의<br/>은밀하게 좀 더 비밀스럽게<br/>Love in the dark night<br/>보여줄래 내 맘 빛이 나는 순간<br/>오늘 밤이 가기 전에<br/>날 보러 와요<br/>지금 꽉 안아줘요<br/>내 눈빛이 떨리고 있는 걸 아나요<br/>날 보러 와요<br/>내 맘 다 알잖아요<br/>한걸음에 나에게로 달려와요<br/>날 보러 와요<br/>Whoo A A A A A Twilight<br/>T Twilight<br/>T Twilight<br/>날 보러 와요<br/>Whoo A A A A A Twilight<br/>T Twilight<br/>어서 빨리 내게 와요<br/>
+",https://www.youtube.com/results?search_query=%EB%82%A0+%EB%B3%B4%EB%9F%AC+%EC%99%80%EC%9A%94+%28Come+See+Me%29
+65,샤넬 (Feat. 박봄),MC몽,CHANNEL 8,159,"하얀 구름처럼 샤넬 입은 그녀<br/>아름답긴 해도 왠지 슬퍼 보여<br/>달콤한 목소리로 불러줄게<br/>아직은 이것뿐이네 더 줄게<br/>적을 거야 내 마음을<br/>다를 거야 이 이야기는<br/>난 매일 영감을 또 찾고<br/>Write a love song<br/>또 뻔하다는 너의 반응을 늘 So So<br/>비슷해 안 비슷해<br/>사랑 고백 이 노래로<br/>네가 입는 스타일<br/>그 모든 게 내 취향 적중<br/>넌 안목도 좋고 품격 코멘트도 적절<br/>어떤 컵에 담든<br/>모양이 바뀌는 물 같애<br/>넌 참 현명해서 좋아 뽐내는 것도<br/>Why 넌 Everyday<br/>초콜릿을 물고만 있어<br/>그래서 이렇게 달콤할 수가 있어<br/>You’re my rush like a sugar<br/>You’re my crush like a candy<br/>새빨갛게 볼이 Blush 입술이 닿을 때<br/>낮에 뜨는 달처럼<br/>보이지 않는다 해도<br/>밤에도 별빛 속에 살고 있다고<br/>함께하는 우리가<br/>빛나지 않는데도<br/>상관없어 우리 둘<br/>이 세상에 같이니까<br/>넌 나른하며 또 대범해<br/>그 누구보다도 아름다워<br/>넌 아무 말도 하지 않아도 돼<br/>Ah 지금처럼 아름답게만<br/>I’ll do anything<br/>to make you smile<br/>이대로 예쁘게 살면 돼<br/>I hate when I see you unhappy<br/>쓸데없이 툭하면 Angry<br/>내 인생 통틀어 나 가장 싫은 건<br/>네 빽에 티슈 꺼내기<br/>그런 거 안 입어도 명품<br/>너가 아님 난 그냥 경품<br/>네 고통은 오히려<br/>내 심장을 Attacking<br/>어둡게 Blackening<br/>낮에 뜨는 달처럼<br/>보이지 않는다 해도<br/>밤에도 별빛 속에 살고 있다고<br/>함께하는 우리가<br/>빛나지 않는데도<br/>상관없어 우리 둘<br/>이 세상에 같이니까<br/>우린 각자의 지옥에서<br/>살고 있을 거예요<br/>우린 이제야 만나<br/>행복이란 걸 겨우 꺼내요<br/>우린 각자의 지옥에서<br/>살고 있을 거예요<br/>우린 이제야 만나<br/>행복이란 걸 겨우 꺼내요<br/>낮에 뜨는 달처럼<br/>보이지 않는다 해도<br/>밤에도 별빛 속에 살고 있다고<br/>함께하는 우리가<br/>빛나지 않는데도<br/>상관없어 우리 둘<br/>이 세상에 같이니까<br/>하얀 구름처럼 샤넬 입은 그녀<br/>아름답긴 해도 왠지 슬퍼 보여<br/>나완 어울릴 것 같지 않은 그녀<br/>Too good to be true<br/>Too good to be true<br/>Woo you<br/>
+",https://www.youtube.com/results?search_query=%EC%83%A4%EB%84%AC+%28Feat.+%EB%B0%95%EB%B4%84%29
+66,Señorita,"Shawn Mendes, Camila Cabello",Señorita,157,"I love it<br/>when you call me senorita<br/>I wish I could pretend<br/>I didn't need ya<br/>But every touch is ooo la la la<br/>it's true la la la<br/>ooo i should be running<br/>ooo you keep me coming for ya<br/>land in Miami<br/>the air was hot from summer rain<br/>sweat dripping off me<br/>before I even knew<br/>her name la la la<br/>it felt like ooo la la la<br/>yeah no<br/>sapphire moonlight<br/>we danced for hours in the sand<br/>tequila sunrise<br/>her body fit right<br/>in my hands la la la<br/>it felt like ooo la la la yeah<br/>I love it<br/>when you call me senorita<br/>I wish I could pretend<br/>I didn't need ya<br/>But every touch is ooo la la la<br/>it's true la la la<br/>ooo i should be running<br/>ooo you know I love it<br/>when you call me senorita<br/>I wish it wasn't so damn<br/>hard to leave ya<br/>But every touch is ooo la la la<br/>It's true la la la<br/>ooo i should be running<br/>ooo you keep me coming for ya<br/>Locked in the hotel<br/>there's just somethings<br/>that never change<br/>You say that we're just friends<br/>but friends don't know the way you<br/>taste la la la<br/>'cause you know<br/>it's been a long time coming<br/>don't you let me fall<br/>ooh when your lips undress me<br/>hooked on your tongue<br/>ooh love your kiss is deadly<br/>don't stop<br/>I love it<br/>when you call me senorita<br/>I wish I could pretend<br/>I didn't need ya<br/>But every touch is ooo la la la<br/>it's true la la la<br/>ooo i should be running<br/>ooo you know I love it<br/>when you call me senorita<br/>I wish it wasn't so damn<br/>hard to leave ya<br/>but every touch is ooo la la la<br/>it's true la la la<br/>ooo I should be running<br/>ooo you keep me coming for ya<br/>All along I've been coming for ya<br/>and I hope it meant<br/>something to ya<br/>call my name<br/>I'll be coming for ya<br/>coming for ya coming for ya<br/>coming for you<br/>for ya ooh she loves it<br/>when I come<br/>for ya<br/>ooo I should be running<br/>ooo you keep me coming for ya<br/>
+",https://www.youtube.com/results?search_query=Se%C3%B1orita
+67,술이 문제야,"장혜진, 윤민수(바이브)",술이 문제야,157,"그리워서 한 잔<br/>생각나서 한 잔<br/>내 눈물 섞어 한 잔<br/>또 한 잔 마시다<br/>우리 옛 추억에 취해<br/>독한 네 사랑에 취해<br/>너의 전화 번홀 누르게 돼<br/>아마 받지 않겠지만<br/>미안해<br/>술이 문제야 문제<br/>자꾸 너를 떠올리게 해<br/>술이 문제야 문제<br/>자꾸 네가 생각나게 해<br/>정말 미친 듯이 보고 싶어 한 잔<br/>정말 미친 듯이 그리워서 한 잔<br/>한 잔 두 잔 기울이면<br/>너의 기억 모두 끊어질까 봐<br/>술 한잔했어요<br/>잊어보려 한 잔<br/>지워보려 한 잔<br/>내 눈물 섞어 한 잔<br/>또 한 잔 마시다<br/>흐릿한 얼굴에 취해<br/>희미한 기억에 취해<br/>다시 전화 번홀 누르게 돼<br/>절대 받지 않겠지만<br/>미안해<br/>술이 문제야 문제<br/>자꾸 너를 떠올리게 해<br/>술이 문제야 문제<br/>자꾸 네가 생각나게 해<br/>정말 미친 듯이 보고 싶어 한 잔<br/>정말 미친 듯이 그리워서 한 잔<br/>한 잔 두 잔 기울이면<br/>너의 기억 모두 끊어질까 봐<br/>나 맨정신에 살 수 없어서<br/>술 한잔했어요<br/>나 제정신에 살 수 없어서<br/>술 한잔했어요<br/>딱 한 잔만 딱 한 잔만<br/>딱 한 잔만 더 마시면<br/>너 돌아올까 봐<br/>미안해<br/>다 내가 문제야 문제<br/>바보같이 널 또 기다려<br/>아니야 내가 문제야 문제<br/>아직까지 너만 사랑해<br/>정말 보고 싶은 너를 위해 한 잔<br/>정말 사랑했던 우릴 위해 한 잔<br/>한 잔 두 잔 기울이면<br/>너의 기억 모두 끊어질까 봐<br/>술 한잔했어요<br/>
+",https://www.youtube.com/results?search_query=%EC%88%A0%EC%9D%B4+%EB%AC%B8%EC%A0%9C%EC%95%BC
+68,떨어지는 낙엽까지도,헤이즈 (Heize),만추,148,"떨어지는 낙엽까지도<br/>멀어져 가는 저 새들도<br/>스쳐 지나가는 흩어져 가는<br/>뒷모습까지도<br/>어제와 같은 하늘색인데<br/>언젠가 본 듯한 구름인데<br/>별 관심 없었던 사랑 노래<br/>오늘따라 귓가에 맴도네<br/>꽃이 지고 해가 저물면<br/>끝인 줄 알았지<br/>다시 더 아름다운 옷을 입고<br/>내게로 오네<br/>떨어지는 낙엽까지도<br/>멀어져 가는 저 새들도<br/>스쳐 지나가는 흩어져 가는<br/>뒷모습까지도<br/>금방이라도 울 것만 같은<br/>저 하늘도 훌훌 털어내고<br/>아프도록 시린 겨울날도<br/>실은 봄을 향해 달려가죠<br/>나는 너에게 또 너는 나에게<br/>오는 길이 그토록<br/>고되었던 이유가<br/>이렇게 큰 행복을 안고 오는<br/>길이었기 때문을 알고 난 후엔<br/>떨어지는 낙엽까지도<br/>멀어져 가는 저 새들도<br/>스쳐 지나가는 흩어져 가는<br/>뒷모습까지도<br/>아마도 우린<br/>아주 오래 그전부터<br/>약속돼있었던<br/>만남인 것 같죠<br/>사랑<br/>내게도 온 거죠<br/>떨어지는 낙엽까지도<br/>멀어져 가는 저 새들도<br/>스쳐 지나가는 흩어져 가는<br/>뒷모습까지도<br/>
+",https://www.youtube.com/results?search_query=%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94+%EB%82%99%EC%97%BD%EA%B9%8C%EC%A7%80%EB%8F%84
+69,Speechless (Full),Naomi Scott,Aladdin (Original Motion Picture Soundtrack),144,"Here comes a wave<br/>Meant to wash me away<br/>A tide that is taking me under<br/>swallowing sand<br/>Left with nothing to say<br/>My voice drowned out<br/>in the thunder<br/>But I won't cry<br/>And I won't start to crumble<br/>Whenever they try<br/>To shut me or cut me down<br/>I won't be silenced<br/>You can't keep me quiet<br/>Won't tremble when you try it<br/>All I know <br/>is I won't go speechless<br/>Cause I'll breathe<br/>When they try to suffocate me<br/>Don't you underestimate me<br/>Cause I know<br/>that I won't go speechless<br/>Written in stone<br/>Every rule every word<br/>Centuries old and unbending<br/>Stay in your place<br/>Better seen and not heard<br/>But now that story is ending<br/>Cause I<br/>I cannot start to crumble<br/>So come on and try<br/>Try to shut me and cut me down<br/>I won't be silenced<br/>You can't keep me quiet<br/>Won't tremble when you try it<br/>All I know <br/>is I won't go speechless<br/>Speechless<br/>Let the storm in<br/>I cannot be broken<br/>No I won't live unspoken<br/>Cause I know<br/>that I won't go speechless<br/>Try to lock me in this cage<br/>I won't just lay me down and die<br/>I will take these broken wings<br/>And watch me burn across the sky<br/>Hear the echo saying<br/>Won't be silenced<br/>Though you wanna see me<br/>tremble when you try it<br/>All I know <br/>is I won't go speechless<br/>Speechless<br/>Cause I'll breathe<br/>When they try to suffocate me<br/>Don't you underestimate me<br/>Cause I know<br/>that I won't go speechless<br/>All I know <br/>is I won't go speechless<br/>Speechless<br/>
+",https://www.youtube.com/results?search_query=Speechless+%28Full%29
+70,잘 살고 있다,V.O.S,잘 살고 있다,143,"한잔 술에 잊자 그만<br/>나도 숨 좀 쉬자 제발<br/>마치 주문처럼<br/>매일 읊조렸던<br/>넌 모르는<br/>내 슬픈 혼잣말<br/>친구들 통해 들은 네 소식<br/>너무 잘 살고 있어<br/>날 만날 때보다 더<br/>너는 없었지만<br/>억지로 삼킨 밥들이<br/>친구가 되어줬던 술이<br/>겨우 날 숨 좀 쉬게 해<br/>많이 잊었어 이제<br/>네 얼굴도 까마득해<br/>잘 살고 있다 너처럼<br/>두려워 듣기 싫던 네 소식<br/>막상 듣게 되니 또<br/>이별한 듯이 아파<br/>너는 없었지만<br/>억지로 삼킨 밥들이<br/>친구가 되어줬던 술이<br/>겨우 날 숨 좀 쉬게 해<br/>많이 잊었어 이제<br/>네 얼굴도 까마득해<br/>잘살고 있다 너처럼<br/>너 없는 많은 밤들이<br/>혼자 버틸 날들이<br/>아직 너무 많은데<br/>가끔은 너 철없던<br/>나의 장난에<br/>입꼬리 올라가던<br/>그 미소가 그리워<br/>가진 건 없지만<br/>널 가진 게 전부였어<br/>그래서 무너졌나 봐<br/>너밖에 없었으니까<br/>언젠간 나도 나만<br/>사랑해줄 사람 만나<br/>잘 살고 싶다 너처럼<br/>나도 그럴 수 있을까<br/>
+",https://www.youtube.com/results?search_query=%EC%9E%98+%EC%82%B4%EA%B3%A0+%EC%9E%88%EB%8B%A4
+71,헤어지자 (Prod. 정키),휘인 (Whee In),soar,141,"그럴 수도 있지 생각했어<br/>잊어 보려 했어<br/>지난 날의 모든 걸 노력했어<br/>다시 시작해 보려고 했어<br/>내겐 너 아니면 안 되는 걸 아니까<br/>정말 그랬어<br/>쉽게 잊혀지진 않았어<br/>누구도 그랬을 거야<br/>아무렇지 않진 않아도<br/>이렇게까지 힘이 드는 건<br/>널 처음 만나<br/>설레었던 기억들이<br/>꼭 어제처럼<br/>선명해서 지워지질 않아<br/>내가 알던 네 모습도 이젠<br/>거짓말 같아서<br/>믿을 수 없는 걸<br/>헤어지자<br/>어떻게 네가 그럴 수 있어<br/>마치 내게 했던 말이 무색해지게<br/>다 끝인 거야<br/>쉽게 꺼낸 말은 아니야<br/>누구도 그랬을 거야<br/>아무렇지 않진 않아도<br/>이렇게까지 힘이 드는 건<br/>널 처음 만나<br/>설레었던 기억들이<br/>꼭 어제처럼<br/>선명해서 지워지질 않아<br/>내가 알던 네 모습도 이젠<br/>거짓말 같아서<br/>믿을 수 없는 걸<br/>다 없었던 기억처럼<br/>널 지울 수 있게<br/>아무 말도 하지 말아 줘<br/>왜 바보처럼<br/>네가 했던 그 모든 말들을<br/>난 믿었는데<br/>어떻게 다 잊으라는 건지<br/>내가 알던 네 모습도 이젠<br/>거짓말 같아서<br/>처음 만나 함께한 모든 게<br/>헤어지자<br/>이제 우리<br/>
+",https://www.youtube.com/results?search_query=%ED%97%A4%EC%96%B4%EC%A7%80%EC%9E%90+%28Prod.+%EC%A0%95%ED%82%A4%29
+72,SUGA's Interlude,Halsey(할시),SUGA's Interlude,138,"I've been trying all my life
+To separate the time in between the
+Having it all and giving it up yeah
+내 머릿속엔 파란색만 가득한 이 방황
+자기혐오들과 자만이 내 마음속에 살아
+꿈이 가득한 난 자라 모든 꿈을 이뤘건만
+꿈은 꿈으로만 간직하는 게
+더 낫지라는 생각을
+동시에 하며 살아가고 있지
+내 도약은 추락이 아니기를
+너의 신념 노력 믿음 욕심들은
+추악이 아님임을 믿어
+해가 뜨기 전 새벽은 무엇보다 어둡지만
+네가 바란 별들은
+어둠 속에서만 뜬다는 걸 절대 잊지 마
+I've been trying all my life
+To separate the time in between the
+Having it all and giving it up yeah
+I wonder what's in store
+If I don't love it anymore
+I'm stuck between the
+Having it all and giving it up yeah
+가끔은 내가 걷고 있는 게 맞는지
+하염없이 터널 끝을 향해 달리면
+뭐가 또 있을런지
+맞긴 한지 내가 바라던 미래와는
+솔직히 다른 거지
+상관없지 이제는 생존의 문제
+어찌 됐든 상관없지
+Yeah yeah 네가 바란 것들과는
+다를지 몰라
+네가 살아가는 것도
+사랑하는 것도 변할지 몰라
+That's true that's true that's true
+Yeah so are you gonna move?
+꾸물거리기엔 우린 아직 젊고 어려
+부딪혀보자고
+So what you gonna do?
+I've been trying all my life
+To separate the time in between the
+Having it all and giving it up yeah
+I wonder what's in store
+If I don't love it anymore
+I'm stuck between the
+Having it all and giving it up yeah",https://www.youtube.com/results?search_query=SUGA%27s+Interlude
+73,Wake Up (Feat. DEAN),Crush,From Midnight To Sunrise,136,"Babe good morning oh yeah
+이제 일어나야 할 시간이야
+아침 햇살이 너를 반겨줄 시간이야
+Morning coffee 한 잔과
+마르지 않은 머리가
+하루의 시작을 알리고 있어
+차가운 도시의 출근길
+어쩔 땐 버겁기도 하지
+내가 힘이 되어 줄게
+Wake up wake up wake up
+Next to you
+Wake up wake up wake up
+Next to you
+Wake up wake up wake up
+Next to you
+Wake up wake up wake up
+악몽에 젖어 깼을 때
+그래 그 때 그럴 때
+세상은 때 탄 하얀색
+그래 그 때 그럴 때
+Morning coffee 한 잔과
+우리 둘 만의 노래가
+괜찮을 거라 말하고 있어
+Hold on tight
+Look at my eyes
+거친 파도가 잠잠해지게
+Wake up wake up wake up
+Next to you
+Wake up wake up wake up
+Next to you
+Wake up wake up wake up
+Next to you
+Wake up wake up wake up
+매일 아침을 속삭여 줄게
+늦은 아침에 속삭여 줄게
+매일 아침에 널 깨워 줄게
+내일 아침도 널 깨워 줄게",https://www.youtube.com/results?search_query=Wake+Up+%28Feat.+DEAN%29
+74,나의 어깨에 기대어요,10cm,호텔 델루나 OST Part.2,132,"나의 두 눈에 보여지는 그 뒷모습이<br/>서글퍼지는 마음이라 눈물이 글썽여<br/>하루 또 하루 지나가면<br/>더 멀어질까 봐<br/>이렇게 또 불안한 마음만<br/>날 떠나가지 말아요<br/>가슴속으로 그댈 향해 외치는 말<br/>돌아가지는 말아요<br/>그대 있는 곳 다시 사라지지 말아요<br/>외로운 맘에 서러워도 울지 말아요<br/>나의 어깨에 기대어요 그대 괜찮다면<br/>어떤 날에는 더 아프고 또<br/>슬프겠지만<br/>내가 그대 곁에 있을게요<br/>날 떠나가지 말아요<br/>가슴속으로 그댈 향해 외치는 말<br/>돌아가지는 말아요<br/>그대 있는 곳 다시 사라지지 말아요<br/>지금은 아닐거예요 <br/>우리 헤어지는 건<br/>내게서 멀어지지 말아요<br/>내 곁에 있어줘<br/>나의 품에 안겨줘요<br/>슬픈 날들이 지나가면 그때라면<br/>온 세상을 다 줄게요 나 그대에게<br/>지금 내 말 듣고 있나요<br/>나를 떠나가지 말아요<br/>
+",https://www.youtube.com/results?search_query=%EB%82%98%EC%9D%98+%EC%96%B4%EA%B9%A8%EC%97%90+%EA%B8%B0%EB%8C%80%EC%96%B4%EC%9A%94
+75,제설,기리보이,치명적인 앨범 Ⅲ,132,"눈을 깜빡한 그사이<br/>슬픈 겨울이 내 마음까지 왔지<br/>두꺼운 코트를 깔별로 장만<br/>월화수목금토일 다시 아침<br/>불을 끄는 걸 깜빡한 사이<br/>우린 이미 다 헤어진 사이<br/>두꺼운 양말을 깔별로 장만<br/>월화수목금토일 다시 아침<br/>눈이 떨어져 하얀 세상<br/>너무 어두운 하얀 색깔<br/>너를 비워내 염산을 눈 위에 뿌려<br/>내 바닥 보일 때까지<br/>시간은 빠르게 지나갔지<br/>어느새 눈이 내 발에 닿지<br/>언젠간 만나겠지<br/>기다릴게 눈이 녹을 때까지<br/>추운 겨울을 녹여줘요<br/>따뜻하다고 속여줘요<br/>잘못 밟은 빙판 위에 금이 가버려<br/>내 바닥 보일 때까지<br/>눈이 떨어져 하얀 세상<br/>너무 어두운 하얀 색깔<br/>너를 비워내 염산을 눈 위에 뿌려<br/>내 바닥 보일 때까지<br/>언젠간 계절이 바뀌겠지<br/>원래 이랬던 것처럼<br/>날 안아 줬던 그 시간을 넘어서<br/>월화수목금토일 다시 아침<br/>제설을 해야겠지<br/>깨끗해져야겠지<br/>널 비워내 염산을 눈 위에 뿌려<br/>내 바닥 보일 때까지<br/>
+",https://www.youtube.com/results?search_query=%EC%A0%9C%EC%84%A4
+76,마음,폴킴,마음,130,"숨기는 게<br/>익숙해진<br/>그런 마음 나눌 수 없는 사람<br/>어두움이<br/>아침보다<br/>시린 위로가 되는 그런 사람<br/>가시 돋친 말들에 움츠러들지 마<br/>힘들 거야 그건 당연한걸<br/>사실 별거 아냐<br/>얼마나 더 멀리 달려야<br/>행복할 수 있어<br/>아껴둔 그 마음 혼자 가두지 말고<br/>함께할 수 있기를<br/>혼자인 게<br/>친구보다<br/>되려 위로가 되는 나를 느껴<br/>떨어지는 내 모습 바라보고 있어<br/>익숙한 걸 아니 편안한 걸<br/>이곳이 나의 쉴 곳<br/>얼마나 더 높이 날아야<br/>나 웃을 수 있어<br/>아껴둔 그 마음 더는 숨기지 말고<br/>열어 볼 수 있기를<br/>무한한 밤하늘 그 속에<br/>작은 점 하나뿐일<br/>수많은 별 중에<br/>보지 못한 마음이<br/>더 많다는 걸 아니<br/>
+",https://www.youtube.com/results?search_query=%EB%A7%88%EC%9D%8C
+77,잘자 (Feat. Zion.T),Crush,From Midnight To Sunrise,128,"수 없이 외로웠던 밤을
+이 작은 손에 닿기 위해
+얼마나 달려왔는지
+널 잠 못 들게 하는 소음
+내가 다 가져 갈게
+반짝이는 눈
+강아지발 코
+터질듯한 볼
+펄럭이는 귀
+두꺼운 입술
+걸음걸인 뒤뚱
+누굴 닮아 이렇게 예뻐
+널 바라만 보고 있어도 배가 불러
+행복한 꿈만 꾸길 바라
+잘자 잘자 포근하게
+잘자 걱정들을 뒤로한 채
+별빛들도 잠들 때까지
+아무도 널 깨우지 못할 거야
+잘자 잘자 잘자
+누가 내게 꿈이 뭐냐고 하면
+난 머리를 긁으며
+좋은 아빠 좋은 남편
+감히 그렇게 대답하지
+그런 행운이 내게 올까
+그녀와 똑 닮은 Brown eyes
+달빛 품은 눈
+앙증맞은 코
+아기자기한 몸
+날개같은 귀
+보드라운 손
+입꼬리는 히죽
+누굴 닮아 이렇게 예뻐
+널 바라만 보고 있어도 배가 불러
+행복한 꿈만 꾸길 바라
+잘자 잘자 포근하게
+잘자 걱정들을 뒤로한 채
+별빛들도 잠들 때까지
+아무도 널 깨우지 못할 거야
+잘자 잘자 잘자
+Every night babe sleep tight
+Nighty night babe sleep tight
+Every night just sleep tight
+Nighty night babe
+잘자 잘자 포근하게
+잘자 걱정들을 뒤로한 채
+별빛들도 잠들 때까지
+아무도 널 깨우지 못할 거야
+잘자 잘자 잘자",https://www.youtube.com/results?search_query=%EC%9E%98%EC%9E%90+%28Feat.+Zion.T%29
+78,Trouble,EXO,OBSESSION - The 6th Album,127,"의심은 버려 최면을 걸어<br/>깨지 않게 해줘 baby 너는 good lover<br/>태도는 cool하고 말은 smooth하게<br/>마치 물 흐르듯 넌 쉽게 나를 다뤄<br/><br/>I wanna groove I wanna ride yeah yeah<br/>파도치는 네게 맞춰 baby<br/>온몸이 너로 깊게 젖어 들어가<br/>네게 휩쓸리듯 빠져들어<br/><br/>낮과 밤이 뒤바뀌어 가<br/>널 만나 내 중심이 무너져 가<br/>너의 눈을 볼 때면<br/><br/>Good feels bad, bad feels good<br/>온 세상이 뒤집혀 I’m in trouble<br/>Girl you’re a trouble<br/>어지러워 Wrong feels right,<br/>right feels wrong<br/>머릿속이 뒤엉켜 I’m in trouble<br/>Girl you’re a trouble<br/><br/>견디게 해줘 아프다 해도<br/>그저 내 곁에 있어만 줘 forever<br/>상처는 널 가진 흔적이 될 뿐 (It’s ok)<br/>아물게 해 너는 나의 only cure<br/><br/>헤어날 수 없을 만큼 깊이 더<br/>너와의 나락이 내겐 천국인 걸<br/>끌어당기고 나를 삼켜 마치<br/>처음부터 네가 나인 듯이<br/><br/>극과 극이 뒤바뀌어 가<br/>버티려 할수록 더 휩쓸려가<br/>너의 곁에 있으면<br/><br/>Good feels bad, bad feels good<br/>온 세상이 뒤집혀 I’m in trouble<br/>Girl you’re a trouble<br/>어지러워 Wrong feels right,<br/>right feels wrong<br/>머릿속이 뒤엉켜 I’m in trouble<br/>Girl you’re a trouble<br/><br/>넌 나의 dream 현실 속에 섞여<br/>부서지고 깨져버린 환상적 trouble<br/>그게 더 나 다운 모습이란 게 함정<br/>세상이 뒤틀려 그 안에 너와 나<br/><br/>Baby you’re my goddess 내 영혼의 fire<br/>너의 품속에 안겨 이대로 영원히<br/>Girl you’re a trouble<br/>너와 함께 있으면<br/><br/>Good feels bad, bad feels good<br/>온 세상이 뒤집혀 I’m in trouble<br/>Girl you’re a trouble<br/>어지러워 Wrong feels right,<br/>right feels wrong<br/>머릿속이 뒤엉켜 I’m in trouble<br/>Girl you’re a trouble<br/>
+",https://www.youtube.com/results?search_query=Trouble
+79,춤 (Groove),EXO,OBSESSION - The 6th Album,124,"하늘 위 깃털처럼 날아갈 것 같아<br/>Sweet한 한 자락의 꿈처럼<br/>홀연히 사라질 듯해<br/>Tell me you'll stay, tell me you'll stay<br/><br/>영혼을 뺏긴 듯한 낯선 이 기분 뭘까<br/>하지만 중요한 건 난 그게 싫지 않아<br/>Tell me you'll stay,<br/>tell me you'll stay<br/><br/>손끝 따라 핀 꽃잎이<br/>숨결마다 한가득히<br/>홀릴 듯한 그 움직임<br/>멈추지 마 더 가까이<br/>I just wanna make you groove baby<br/>데려가 줘 너의 꿈에<br/><br/>나른 나른 은빛으로 부서지는 햇살<br/>우리가 나눈 감정들을<br/>시기하던 저 태양마저<br/>너와 날 눈부시게 해<br/><br/>네 작은 숨소리는 나를 춤추게 해<br/>투명한 너의 눈에 나만 담아 줄래<br/>Tell me you’ll stay 늘 내 곁에<br/><br/>손끝 따라 핀 꽃잎이<br/>숨결마다 한가득히<br/>홀릴 듯한 그 움직임<br/>멈추지 마 더 가까이<br/>I just wanna make you groove baby<br/>데려가 줘 너의 꿈에<br/><br/>Come on shine<br/>여백 없이 너로 채워지는 것 같아<br/>설명할 수 없는 그런 기분<br/>손 틈새로 네가 흩어질까 겁이 나<br/>손을 뻗는 순간 하나가 돼<br/>어디선가 본 듯한 이 순간 (We on)<br/>지루해질 틈 없는 오늘 밤 (We know)<br/>자연스럽게 몸을 맞추고<br/>나와 함께 춤을 추면 돼<br/>Just you and me<br/><br/>내 품 안에 넌 자유로워<br/>정지된 시간 속에 갇힌 채<br/>마주하던 눈을 감을 때<br/>우린 빠져들어 꿈에<br/><br/>I just wanna make you groove baby<br/>꿈보다 더 깊은 꿈 baby<br/><br/>So let me hold you, come with me<br/>네 향기 가득 더 깊이<br/>터질듯한 이 기분이<br/>날 데려가 저 구름 위<br/>I just wanna make you groove baby<br/>우린 어느새 또 꿈 baby<br/>
+",https://www.youtube.com/results?search_query=%EC%B6%A4+%28Groove%29
+80,벗,닐로(Nilo),벗,124,"너를 만나고 세상이 모두 변했어<br/>의미 없던 하루가 소중해졌으니<br/>그냥 길을 걷다가도<br/>괜히 웃음이 나와<br/>나의 하루는 선물 같아<br/>내게 다가왔던 그 순간부터<br/>작은 기적을 안겨준<br/>너에게 말할게<br/>조금 서투른 고백일지라도<br/>수많은 사람들 중에<br/>내 곁을 지켜준 사람<br/>넌 모든 순간을 꿈꾸게 하니까<br/>언제나 너의 곁에서<br/>세상 그 누구보다<br/>소중한 사람이 되고 싶어<br/>나의 세상은 너 하나로 가득해서<br/>나의 계절은 항상 따뜻했어<br/>더는 무엇도 바라지 않아<br/>지금처럼만 우리<br/>곁에 있으면 난 충분해<br/>내게 다가왔던 그 순간부터<br/>작은 기적을 안겨준<br/>너에게 말할게<br/>조금 서투른 고백일지라도<br/>수많은 사람들 중에<br/>내 곁을 지켜준 사람<br/>넌 모든 순간을 꿈꾸게 하니까<br/>언제나 너의 곁에서<br/>세상 그 누구보다<br/>소중한 사람이 되고 싶어<br/>이토록 눈부시게 아름다운 날<br/>약속할게 영원토록<br/>너의 두 손 놓지 않을게<br/>고마워 한없이 네게 감사해<br/>두 번 다신 없을 나의 너에게<br/>우리가 걷는 이 길이<br/>때론 힘이 들어도<br/>먼 훗날 말하고 싶어<br/>이 길의 끝에 서서<br/>너라서 정말 고마웠다고<br/>정말 고마워<br/>
+",https://www.youtube.com/results?search_query=%EB%B2%97
+81,나비효과 (Butterfly Effect),EXO,OBSESSION - The 6th Album,122,"공기마저 적막한 밤에<br/>지쳐버린 맘이 잠들지 못해<br/>나 홀로 헤매던 터널의 끝에<br/>따스히 닿아오던 숨<br/>너의 숨 Ooh ooh yeah<br/><br/>아주 여린 그 숨결에<br/>나의 마음이 쉴 곳을 찾아<br/>나를 감싸<br/><br/>내 안에 바람처럼 불어온 Angel<br/>네게서 일어난 온기가 변화시켜 날<br/>이젠 두렵지 않아 내 곁엔 네가 있어<br/>이 손을 놓지 않을 테니<br/><br/>You're saving my life<br/>(Oh oh oh yeah yeah)<br/>Saving my life<br/>(Oh oh oh yeah yeah)<br/>사라지지 마<br/><br/>네가 가진 색이 날 물들인 느낌<br/>너와 함께할수록 강해져 모든 것이<br/>외롭던 시간을 지나 새롭게 시작되는 꿈<br/>너란 꿈 Ooh ooh yeah<br/><br/>포근히 부는 바람결에<br/>나의 전부가 제자리를 찾아<br/>꿈만 같아<br/><br/>내 안에 바람처럼 불어온 Angel<br/>네게서 일어난 온기가 변화시켜 날<br/>이젠 두렵지 않아 내 곁엔 네가 있어<br/>이 손을 놓지 않을 테니<br/><br/>You're saving my life<br/>(Oh oh oh yeah yeah)<br/>Saving my life<br/>(Oh oh oh yeah yeah)<br/>사라지지 마<br/><br/>어두운 밤 희미했던 빛<br/>나에게 소중한 의미<br/>어지러운 내 맘의 불씨 who?<br/>꿈을 꾸듯 내게 날아든<br/>나를 바꿔 줄 유일한 사람 you!<br/>지쳐있던 맘을 녹이고 두 팔로 날 감싸고<br/>포근한 품 속 그 온기에 휩싸여<br/>이젠 나 홀로 지치지 않도록<br/>방황하고 또 헤맬 때마다<br/>너를 기억해 Angel of my life<br/>Angel of my life<br/> <br/>기적처럼 내 품에 날아든 Angel<br/>네게서 불어온 사랑이 변화시켜 날<br/>이젠 두렵지 않아 내 곁엔 네가 있어<br/>이 손을 놓지 않을 테니<br/><br/>You're saving my life<br/>(Oh oh oh yeah yeah)<br/>Saving my life<br/>(Oh oh oh yeah yeah)<br/>사라지지 마<br/><br/>Angel, angel, angel come flying, flying<br/>Angel, angel, angel come flying, flying<br/>사라지지 마<br/>
+",https://www.youtube.com/results?search_query=%EB%82%98%EB%B9%84%ED%9A%A8%EA%B3%BC+%28Butterfly+Effect%29
+82,Lost in the Woods,Jonathan Groff(조나단 그로프),Frozen 2 (겨울왕국 2 OST),122,"Again you're gone
+Off on a different path than mine
+I'm left behind
+Wondering if I should follow
+You had to go
+And of course it's always fine
+I probably could catch up with you tomorrow
+But is this what it feels like
+To be growing apart?
+When did I become the one
+Who's always chasing your heart?
+Now I turn around and find
+I am lost in the woods
+North is south right is left
+When you're gone
+I'm the one who sees you home
+But now I'm lost in the woods
+And I don't know what path you are on
+I'm lost in the woods
+Up 'til now
+The next step was a question of how
+I never thought it was a question of whether
+Who am I if I'm not your guy?
+Where am I if we're not together
+Forever?
+Now I know you're my true north
+'Cause I am lost in the woods
+Up is down day is night
+When you're not there
+Oh you're my only landmark
+So I'm lost in the woods
+Wondering if you still care
+But I'll wait
+For a sign
+(For a sign)
+That I'm your path
+'Cause you are mine
+(You are mine)
+Until then
+I'm lost in the woods
+(Lost in the woods)
+I'm lost in the woods
+(Lost in the woods lost lost lost)
+I'm lost in the woods",https://www.youtube.com/results?search_query=Lost+in+the+Woods
+83,지킬 (Jekyll),EXO,OBSESSION - The 6th Album,121,"흐린 결말이 엉켜버린 시간이<br/>쌓여가는 의문이 가득해질 때<br/>계획된 거짓에 흔들리는 눈빛이<br/>감춰왔던 비밀이 붉게 물들어<br/><br/>멈춘 시선 길을 잃었어<br/>답은 없어 침묵 속에 나를 가둬<br/>내 안에 숨겨진 또 다른 내 모습<br/>수면 위로 chasin’ 숨을 조여<br/> <br/>Got one shot 누가 날 정의해<br/>It’s do or die for me<br/>Just one 내 안엔 나 하나면 돼<br/>It’s coming, get ready<br/>머리에 울리는 너의 목소리<br/>지독한 밤이 와 (Warning)<br/><br/>Break out!<br/>내 속에 악몽처럼 꿈틀대<br/>거침없이 도려내 (Warning)<br/>왜 날 밀어내 이미 나는 네 안에<br/>내가 나를 지배해<br/><br/>Break out<br/><br/>Oh my my 숨길 수 없어<br/>더는 없어 same for me<br/>I shut you down 너의 자린 없어<br/>귀를 막아도 들려와 끝없는 속삭임<br/>나를 미치게 하지 내 안에서<br/>꿈인 것 같아 (Wake up)<br/><br/>빠져들어 내면 깊은 곳 <br/>턱 끝까지 차오르는 너란 존재<br/>밤을 새 기다린 검푸른 새벽이<br/>비틀대며 shakin’ 너를 삼켜<br/><br/>Got one shot 누가 날 정의해<br/>It’s do or die for me<br/>Just one 내 안엔 나 하나면 돼<br/>It’s coming, get ready<br/>머리에 울리는 너의 목소리<br/>지독한 밤이 와 (Warning)<br/><br/>Break out!<br/>내 속에 악몽처럼 꿈틀대<br/>거침없이 도려내 (Warning)<br/>왜 날 밀어내 이미 나는 네 안에<br/>내가 나를 지배해<br/><br/>까마득한 밤 위태로운 이 순간<br/>희미하게 스쳐 간<br/>달빛에 드리운 그림자<br/>어긋난 기억 조각을 찾아<br/>헤매어 이 밤 이젠 너를 벗어나<br/><br/>Break out!<br/>내 속에 악몽처럼 꿈틀대<br/>거침없이 도려내 (Break out)<br/>왜 날 밀어내 이미 나는 네 안에<br/>내가 나를 지배해<br/><br/>Peace out<br/>
+",https://www.youtube.com/results?search_query=%EC%A7%80%ED%82%AC+%28Jekyll%29
+84,"아마두 (feat.우원재, 김효은, 넉살, Huckleberry P)",염따,Dingo X DAMOIM (Part 2),120,"어 그래 얘들아
+사는게 개같지?
+응 내 얼굴도 개같지 뭐얌
+근데도 부자가 됐다
+세상은 공평한 법
+열심히 하는 자에겐
+성공이 올 것이다 빠끄
+내년엔 잘될거야 아마두
+택배가 도착할 걸 아마두
+여친이 생길거야 아마두
+민수도 잘될거야 아마두
+동갑인 차살거야 아마두
+팔로는 애낳을거야 아마두
+머리가 자랄거야 상구두
+기석인 모르겠어 하나두
+나도 진짜 모르겠어
+뭐할지 당장에 오늘도 내일도
+매해 목표는 무조건 새 앨범
+설레발은 놉 그 놈의 앨범 모드
+하나만 더 내고 단콘에 월드 투어
+계획만 짜다 드러눕는 버릇도
+고치고 싶다 주둥이만 터는 놈
+잠을 더 자려면 돈을 덜 버는 것뿐
+엄마 결혼은 기대도 마
+나는 즐기면서 살고 있고
+건강 검진 혼자 받는 건 싫은데
+같이 갈 다모임 손
+골프나 치러 댕길래
+우리 그게 첫번째 위시리스트
+받은 사랑을 제대로 베풀고 싶어 Officially
+I got that guap 바뀐 내 겨울 잠바
+미안해 이제 사과해 그전에 죽인 산타는
+어릴 적 들은 Good times과
+콰형의 1 life 2 live
+상구형의 양화 그리고 기석형
+믹스테입 그때의 파마
+강동에 살아
+스케이트보드 타러 간
+지하 주차장에서 쫓겨났어
+가방엔
+필카 두 개 라카 두어 개 홍대는 내 도화지
+Uh 많이 변했네
+더 좋을 거야 아마두
+새 캘린더 꺼내 올해도 가네
+내 또래 84 rappers 참 오래도 가네
+다음엔 광수 상수 껴 다들 바쁘지만
+내 안 고독방 셔터는
+2년째 안 내려가네 Yeah
+자 노를 저어 강물 따라 이젠 바닷물
+난 깨고 있어 내 인생의 미션 하나 둘
+반지하에서 35평 한강 뷰
+반지도 샀어 장가가겠지 아마두
+다가올 내일을 향해 Smile
+멈추기엔 시간이 아까워
+Damoim comin to town
+내년에는 보다 나은 우리가 돼있기를 빌어
+너희도 잘될거야 Get em yea
+지나간 날은 뒤로 어깰 펴고 고갤 위로
+What's up noisemaster
+세상에 사랑을 나누기 위해서 모인 이 Masters
+받은 만큼돌려 주는 게 이 남자들의 Finessin
+Shoutout to dingo
+헉피 넉살 우원재 효은이 Thank yall
+내년엔 다들 더 잘될거야
+아마두
+택배가 도착할 걸 아마두
+여친이 생길거야 아마두
+민수도 잘될거야 아마두
+동갑인 차살거야 아마두
+팔로는 애낳을거야 아마두
+머리가 자랄거야 상구두
+기석인 모르겠어 하나두
+너를 사랑할 것같아 아마두
+너가 나를 떠나버릴지도 (버릴지도)
+돌아오지 않아 너라는 눈은
+계절이 한 번 더 변해도 (내후년도)
+우 우 우 우
+자기야 이 순간 너를 위해 부르잖아 워 워
+망가져 버려도 좋아 타 버리자 이대로
+빨간불은 파란불로 바뀌어 웃어 하하호호
+걱정해봤자 뭐 답 없어 잃지 말자 낭만을
+Positive vibe 전파 올해 꼬였대도 No prob
+성장한 거야 뒤돌아보면 안줏거리고 영웅담
+태어난 건 내 선택 아니었지만 삶은 내꺼지
+뭐 어쩔 건데 누가 뭐래도 첫 번째 내 행복이
+이걸 나눌 수 있단 사실이
+내면을 부자로 만들지
+날씬 추워도 마음은 따뜻해
+멋진 친구가 많으니
+돈 Call me 잘 될 줄 알았음
+염따형 앨범 Featuring
+할 걸 그랬어 할머니는 천국에 잘 계셔
+크리스마스 크리스마스 Feels like love
+이 모든 게 우연일까
+26일이 기일인 이유도 Oh oh
+33번째 겨울 따뜻하니 돈 좀 벌었다고 No
+사람들이 있어 이건 주머니에 넣지 못한다고
+오늘이 가면 1월이지
+내년엔 어떤 모습 희망이 기다리지
+믿음이 있길 이끼는 끼지 않게
+구르는 돈이 되길
+저 애들을 봐 온 동네 구경이라도 난 듯
+이 노래를 기다리네
+이제 안 해도 될 것같네 작두
+나 빼고 가서 좋았니? 물론 좋았겠지 대만
+딩고 놈들은 또 날 불러 지들 필요할 때만
+여튼 12월에도 연말 느낌은 없지
+왜냠 올림픽홀에서 하는 분신 준비 때문이지
+이 기분을 아는 사람은 박재범뿐이지
+돈 많이 벌어서 나도 벤틀리 한 번 뿌시리
+아마두
+택배가 도착할 걸 아마두
+여친이 생길거야 아마두
+민수도 잘될거야 아마두
+동갑인 차살거야 아마두
+팔로는 애낳을거야 아마두
+머리가 자랄거야 상구두
+기석인 모르겠어 하나두
+효은이는 웃을거야 아마두
+산타가 없대 원재가 그랬음
+넉살아 술좀그만 말아주
+헉피는 행복할 걸 아마두
+딩고도 고생했어 아마두
+해식인 영화감독 아마두
+일등을 할것같아 아마두
+안되면 쨀것같아 아마두
+우 우 우 우
+(야 우리 그냥 쨀래?)",https://www.youtube.com/results?search_query=%EC%95%84%EB%A7%88%EB%91%90+%28feat.%EC%9A%B0%EC%9B%90%EC%9E%AC%2C+%EA%B9%80%ED%9A%A8%EC%9D%80%2C+%EB%84%89%EC%82%B4%2C+Huckleberry+P%29
+85,오늘도 (Day After Day),EXO,OBSESSION - The 6th Album,119,"빛바랜 너의 기억이 흩날리고<br/>이따금씩 생각에 잠겨 난<br/>거울에 비친 나와 눈을 맞추고<br/>못다 한 얘기 속에 머물러<br/>눈을 감아 보는 걸<br/><br/>담담한 눈빛 속 그 안에 가득 찬<br/>네 얼굴이 떠올라 (네가 떠올라)<br/>긴 한숨으로 채워만 가<br/>오늘도<br/><br/>밤새 비가 내려와 빗소리로 채워둔<br/>나 차마 비워내지 못한 채로 열어둔<br/>작은 흔적마저 거대할 만큼<br/>날 덮친 그리움에 멈추어둔<br/><br/>오늘도 네 안에 머물러<br/>오늘도 너만이 채워줄<br/>오늘도<br/><br/>긴 어둠만 쓰게 삼키던<br/>네 추억과 다툰 밤이 지나도<br/>고요해진 새벽과 함께 밀려온<br/>긴 공허함을 떨치고 싶어<br/>너를 그려 보는 걸<br/><br/>네 맘 다 느껴져 얼마나 많은 걸<br/>비워 내야 했을지 (이런 내게서)<br/>긴 그리움만 저물어 가<br/>오늘도<br/><br/>밤새 비가 내려와 빗소리로 채워둔<br/>나 차마 비워내지 못한 채로 열어둔<br/>작은 흔적마저 거대할 만큼<br/>날 덮친 그리움에 멈추어둔<br/><br/>오늘<br/><br/>언제라도 웃으며 나를 부를 듯한<br/>네 빈자리에서 아직도 난 (always)<br/>못 다 비운 어둠이 남겨 둔 네 모습에<br/>기대 잠이 들어가<br/><br/>툭하면 파고드는 후회들 속<br/>급히 밟는 brake 더 가면 위험해<br/>I know yeah 다른 곳으로<br/>시선을 돌려 난 맘을 다잡지<br/>시간마다 날 더 다그치고<br/>보고 싶은 마음 접어두고<br/>언제나 올까 열어둔<br/>이 방을 채워줄 널 기다리는 중<br/><br/>밤새 네가 내려와 내 맘 가득 채워둔<br/>나 애써 외면하지 못해 너로 새겨둔<br/>네 흔적에 겨우 숨을 쉴 만큼<br/>더 거친 그리움에 살아가 난<br/><br/>오늘도 네 안에 머물러<br/>오늘도 너만이 채워줄<br/>오늘도<br/><br/>Oh oh oh oh oh oh<br/>오늘도<br/>Oh oh oh oh oh<br/>오늘도<br/>
+",https://www.youtube.com/results?search_query=%EC%98%A4%EB%8A%98%EB%8F%84+%28Day+After+Day%29
+86,All I Want For Christmas Is You,Mariah Carey,Merry Christmas (Deluxe Anniversary Edition),118,"I don`t want a lot for Christmas<br/>There is just one thing I need<br/>I don`t care about the presents<br/>Underneath the Christmas tree<br/>I just want you for my own<br/>More than you could ever know<br/>Make my wish come true <br/>All I want for Christmas<br/>Is you <br/>I don`t want a lot for Christmas<br/>There is just one thing I need<br/>And I <br/>I don`t care about the presents<br/>Underneath the Christmas tree<br/>I don`t need to hang my stocking<br/>There upon the fireplace<br/>Santa Claus won`t make me happy<br/>With a toy on amusement day<br/>I just want you for my own<br/>More than you could ever know<br/>Make my wish come true<br/>All I want for Christmas is you <br/>You baby<br/>Oh I won`t ask for <br/>much this Christmas<br/>I won`t even wish for snow<br/>And I <br/>I`m just gonna keep on waiting<br/>Underneath the mistletoe<br/>I won`t make a list and send it<br/>To the North Pole for Saint Nick<br/>I won`t even stay awake to<br/>Hear those magic reindeer click<br/>`Cause I just want you here tonight<br/>Holding on to me so tight<br/>What more can I do<br/>Baby all I want for Christmas is you<br/>You Baby<br/>Oh All the lights are shining<br/>So brightly everywhere<br/>And the sound of children`s<br/>Laughter fills the air<br/>And everyone is singing<br/>I hear those sleigh bells ringing<br/>Santa won`t you bring me<br/>the one I really need<br/>Won`t you please <br/>bring my baby to me <br/>Oh I don`t want a lot for Christmas<br/>This is all I`m asking for<br/>I just want to see my baby<br/>Standing right outside my door<br/>Oh I just want him for my own<br/>More than you could ever know<br/>Make my wish come true<br/>Baby all I want for Christmas is<br/>You you baby <br/>All I want for Christmas is you baby<br/>All I want for Christmas is you baby<br/>All I want for Christmas is you baby<br/>All I want for Christmas is you baby <br/>
+",https://www.youtube.com/results?search_query=All+I+Want+For+Christmas+Is+You
+87,Baby You Are,EXO,OBSESSION - The 6th Album,117,"난 첫눈에 반해 버린 거야<br/>Wait 한순간 맘을 뺏긴 거야<br/>넌 오늘을 기억해야 할 이유<br/><br/>향긋한 향기마저 완벽했어 자연스레 끌려<br/>나도 나를 멈출 수 없어<br/>바람에 흐트러진 머리도 내겐 너무 예뻐<br/>이 감정을 숨길 수 없어<br/>Baby you are<br/><br/>내가 찾던 단 한 사람 단 한 사람 you are<br/>Yeah you are<br/>하루 종일 네 생각에 난 미칠 것만 같아<br/><br/>Baby you are<br/><br/>봐! 네가 아니면 안 된다는 말<br/>너에 대한 확신뿐인 나<br/>내가 널 포기할 수 없는 이유<br/> <br/>널 가장 행복하게 할 수 있는 내게 맘을 열어<br/>너도 이젠 어쩔 수 없어<br/>아닌척하는 너의 말투와 눈빛에서 느껴<br/>설레는 맘 숨길 수 없어<br/>Baby you are<br/><br/>내가 찾던 단 한 사람 단 한 사람 you are<br/>Yeah you are<br/>하루 종일 네 생각에 난 미칠 것만 같아<br/><br/>Oh I let you get the best of me<br/>내 진심이 네게 전해지지 않았니?<br/>(이젠 알잖니?)<br/>Oh I let you get the best of me<br/>(이젠 알잖니?)<br/>Yeah you are, yeah you are<br/><br/>사랑이라는 감정이 다<br/>결국엔 너로 결론이 나<br/>이유 없이 반한다는 건 lie<br/>밤새 말해 줄 수 있어 내 눈을 봐<br/>빈틈 없이 완벽한 style의 맵시<br/>눈에 담긴 순간, 직감 oh god!<br/>온통 낯설어 something new<br/>내 모든 것들이 바뀌는 기분<br/>Cause baby you are<br/><br/>내가 찾던 단 한 사람 단 한 사람 you are<br/>Yeah you are<br/>하루 종일 네 생각에 난 미칠 것만 같아<br/><br/>(Cause baby you are) <br/>Baby you are<br/><br/>Yeah you are (Cause baby you are)<br/>Yeah you are<br/>Baby you are (Cause baby you are)<br/>Yeah you are<br/>
+",https://www.youtube.com/results?search_query=Baby+You+Are
+88,너에게 못했던 내 마지막 말은,다비치,너에게 못했던 내 마지막 말은,117,"아직 남았을까<br/>못 잊을 이유가 남아 있을까<br/>나만 왜 이렇게<br/>바보같이 혼자 널 기다릴까 음<br/>애꿎은 바람들은<br/>말도 안 되는 네 말을<br/>또 믿고 싶게 해<br/>달라질 게 없는데 끝인 걸 아는데<br/>생각이 나 그 모든 게<br/>나 어쩌면 너에게 하고 싶은 말은<br/>긴 밤을 지새도<br/>아직 너를 많이 사랑한다고<br/>이 아픈 시간이 어서 지나가기를<br/>조금만 더 버텨볼게<br/>네가 없는 하루가 버겁긴 하지만<br/>보고 싶은 마음 꾹 참고<br/>하루에 하나씩 잊어볼게 그래 볼게<br/>매일 이런 다짐을 해 습관처럼<br/>생각보다 길어진<br/>그리움이 익숙해져 가는 날들에<br/>제법 웃기도 하다 또 괜찮다가도<br/>생각이 나 네 모든 게<br/>나 어쩌면 너에게 하고 싶은 말은<br/>긴 밤을 지새도<br/>아직 너를 많이 사랑한다고<br/>이 아픈 시간이 어서 지나가기를<br/>조금만 더 버텨볼게<br/>네가 없는 하루가 버겁긴 하지만<br/>보고 싶은 마음 꾹 참고<br/>하루에 하나씩 잊어볼게 그래 볼게<br/>매일 이런 다짐을 해 습관처럼<br/>괜찮은 척 비워낸 척해봐도<br/>사실 많이 힘들어서<br/>당장이라도 네게 가고 싶어<br/>지금은 아니어도<br/>끝내 내 손잡아 줘 oh<br/>너에게 못했던 내 마지막 말은<br/>언젠가 한 번쯤 나를<br/>떠올리다 그리워지면<br/>언제든 돌아와 난 여기 있을 거야<br/>아무 일 없던 것처럼<br/>너 없는 하루가 어렵긴 하지만<br/>이 정도쯤은 꾹 참고<br/>하루에 하나씩 기억할게 그래 볼게<br/>사랑을 시작하던 그때처럼<br/>
+",https://www.youtube.com/results?search_query=%EB%84%88%EC%97%90%EA%B2%8C+%EB%AA%BB%ED%96%88%EB%8D%98+%EB%82%B4+%EB%A7%88%EC%A7%80%EB%A7%89+%EB%A7%90%EC%9D%80
+89,Ya Ya Ya,EXO,OBSESSION - The 6th Album,116,"넌 말로는 표현이 달리<br/>힘들 것 같은데<br/>사랑에 빠진 그 순간이 really<br/>후회된 적이 없네<br/>널 자꾸 보고 있노라면<br/>Spinning spinning 아찔해 못 견디게<br/>결국 하고 싶은 말은 너를<br/>사랑한다는 거야 baby baby<br/><br/>Do you love me, do you love me not?<br/>Baby tell me now<br/>여길 보고 ya ya ya<br/>내가 믿는 건 너뿐인 걸<br/>Baby tell me now<br/>너도 맞지? ya ya ya<br/>딴 놈들은 신경 쓰지 마<br/>별거 아니야<br/>나만 봐줘 ya ya ya<br/>왜 날 바보로 만들었어 my love<br/><br/>내 생각에 넌 내가 필요해<br/>누구와 있든 나만 생각해<br/>Baby give me some cuz Imma give you some<br/><br/>우린 점점 닮아갈 걸<br/><br/>난 미쳤고 넌 거칠어 때론<br/>네 말만 듣게 길들여줘<br/>몰두하게 만들어줘<br/>이상하게 네 목소리에만<br/>반응하는 손과 발과 눈, 코 <br/>Yeah ya 결국 내 말은<br/>널 사랑하고 있단 거야<br/> <br/>Do you love me, do you love me not?<br/>Baby tell me now<br/>대답해줘 ya ya ya<br/>이젠 헷갈리게 하지 마<br/>Baby tell me now<br/>너도 믿지? ya ya ya<br/>가르쳐줘 좋아하는 걸<br/>꼭 나에게만<br/>나만 봐줘 ya ya ya<br/>왜 날 바보로 만들었어 my love<br/><br/>내 생각에 넌 내가 필요해<br/>누구와 있든 나만 생각해<br/>Baby give me some cuz Imma give you some<br/><br/>우린 점점<br/><br/>난 좀 느렸었나 봐<br/>주위를 맴돌기만 했었던 날들을<br/>후회하지 않아<br/>그만큼 너를 알았으니<br/>이젠 더 부드러워지자<br/><br/>네가 어디든 너를 향해 turn<br/>모든 사람들이 등을 돌려도 나만이 네 편<br/>그 누구도 모르는 우리만의 secret<br/>Baby tell me now<br/>전부 알고 있다고 말야<br/> <br/>Tick tock 시간 위로 우린 흘러가<br/>그리고 난 왜 더 원하는 걸까<br/>Gotta move for love 대답해 줘<br/>달콤한 말 하더라도 내 건 진짜야<br/><br/>I’m for real 난 두려워하지 않아<br/>거짓말은 없어 baby I mean it<br/>오늘 밤도 다시<br/>사랑을 말할래 baby baby<br/><br/>Do you love me, do you love me not?<br/>Baby tell me now<br/>여길 보고 ya ya ya<br/>내가 믿는 건 너뿐인 걸<br/>Baby tell me now<br/>너도 맞지? ya ya ya<br/>딴 놈들은 신경 쓰지 마<br/>별거 아니야<br/>나만 봐줘 ya ya ya<br/>왜 날 바보로 만들었어 my love<br/><br/>내 생각에 넌 내가 필요해<br/>누구와 있든 나만 생각해<br/>Baby give me some cuz Imma give you some<br/><br/>우린 점점 닮아갈 걸 ya ya ya!<br/>
+",https://www.youtube.com/results?search_query=Ya+Ya+Ya
+90,날 보러 와요 (Come See Me),에이오에이(AOA),NEW MOON,115,"Love in the dark
+Hey Twilight
+추운 겨울이 와도
+내 눈 속에는 꽃이 피나 봐
+첫눈에 알아본 걸까
+첫사랑처럼 두근대니까
+날 보면 무슨 생각
+무슨 느낌 그댄 어떤지
+때론 알 수 없는 그 무표정
+솔직히 말을 하면 표현해줘 돌리지 말고
+하늘의 별을 잇듯 나에게 오는 길
+어둠 속 더욱더 우리 선명해지길
+잠 못 드는 밤 밤이 새도록
+그대와 나 단둘이만 얘기하고파
+가지고 싶어 서둘러줘요
+해뜨기 전에
+날 보러 와요
+그대 발걸음 소리
+내 마음이 설레고 있는 걸 아나요
+날 보러 와요
+나를 찾는 목소리
+한걸음에 그대에게 달려가요
+날 보러 와요
+Whoo A A A A A Twilight
+T Twilight
+T Twilight
+날 보러 와요
+Whoo A A A A A Twilight
+T Twilight
+어서 빨리 내게 와요
+밤이 길어지듯이
+그리움들도 깊어지나 봐
+밤새 춤을 춰줘요 내 방 어느새
+파랑 빛으로 물이 들어요
+밤새 눈을 맞춰줘 Baby
+노을빛 너무 설레어 Baby
+잠 못 드는 밤 밤이 새도록
+그대와 나 단둘이만 얘기하고파
+가지고 싶어 서둘러줘요
+해뜨기 전에
+날 보러 와요
+그대 발걸음 소리
+내 마음이 설레고 있는 걸 아나요
+날 보러 와요
+나를 찾는 목소리
+한걸음에 그대에게 달려가요
+날 보러 와요
+Whoo A A A A A Twilight
+T Twilight
+T Twilight
+날 보러 와요
+Whoo A A A A A Twilight
+T Twilight
+어서 빨리 내게 와요
+Twilight 너와 나의
+은밀하게 좀 더 비밀스럽게
+Love in the dark night
+보여줄래 내 맘 빛이 나는 순간
+오늘 밤이 가기 전에
+날 보러 와요
+지금 꽉 안아줘요
+내 눈빛이 떨리고 있는 걸 아나요
+날 보러 와요
+내 맘 다 알잖아요
+한걸음에 나에게로 달려와요
+날 보러 와요
+Whoo A A A A A Twilight
+T Twilight
+T Twilight
+날 보러 와요
+Whoo A A A A A Twilight
+T Twilight
+어서 빨리 내게 와요",https://www.youtube.com/results?search_query=%EB%82%A0+%EB%B3%B4%EB%9F%AC+%EC%99%80%EC%9A%94+%28Come+See+Me%29
+91,Non Stop,EXO,OBSESSION - The 6th Album,113,"Hey! a little bit of love,<br/>my love non stop<br/>Hey! a little bit of love,<br/>my love non stop<br/><br/>왠지 들뜬 기분 가슴 뛰는 설렘<br/>지금 내게 맡겨봐<br/>모든 순간이 로맨틱 끝없이 이어질<br/>길을 찾아 달려봐<br/><br/>긴 하룰 덮고 굳이 멀지 않더라도<br/>너와 단둘이 떠나<br/>끌린 대로 우린 이미 답을 알잖아 (어디든)<br/><br/>좀 더 멀리 가볼까 가볼까<br/>그림 같은 하늘과 맞닿은 세상 너머<br/>어딘가 어딘가 들뜬 네 맘 속으로<br/>달리는 기분 I wanna give you baby<br/><br/>Hey! a little bit of love,<br/>my love non stop<br/>Hey! a little bit of love,<br/>my love non stop<br/><br/>널 꺼내 봐 좁은 새 장 밖으로 out!<br/>Oh my god 공기가 다른 걸<br/>날개를 펴 이대로 Fly away<br/>천천히 더 크게 숨 쉬면 돼<br/><br/>낮보다 길어진 밤이<br/>가장 화려하게 빛나는 순간 Let’s get started<br/>너와 나 둘만 놔두고 Stop it<br/>밤새도록 더 자유롭게 달려보자 go!<br/><br/>영화 속에 봤던 거리 별이 쏟아지는 자리<br/>어디든 말해 줄래 (We don’t wait, go!)<br/><br/>틀에 박힌 계획 따윈 없더라도<br/>너와 함께면 좋아<br/>밤이 새도 우린 잠들 수가 없잖아 (이대로)<br/><br/>별을 따라 가볼까 가볼까<br/>그림 같은 하늘과 맞닿은 세상 너머<br/>어딘가 어딘가 들뜬 네 맘 속으로<br/>달리는 기분 I wanna give you baby<br/><br/>Hey! a little bit of love, my love non stop<br/>Hey! a little bit of love, my love non stop<br/><br/>Oh 쏟아지는 별빛이 번져 가득 번져<br/>Oh girl 어두울수록 더 눈부셔<br/>그 별을 닮은 너와 나<br/><br/>모든 것이 멈춘 밤 멈춘 밤<br/>우리 둘의 얘기만 끝없이 이어지는<br/>이 순간 이 순간 자유로운 곳으로<br/>달리는 기분 I wanna give you baby<br/><br/>Hey! a little bit of love,<br/>my love non stop<br/>Hey! 달리는 기분 I wanna give you baby<br/><br/>Hey! a little bit of love,<br/>my love non stop<br/>Hey! 달리는 기분 I wanna give you baby<br/>
+",https://www.youtube.com/results?search_query=Non+Stop
+92,우리 어떻게 할까요,첸 (CHEN),사랑하는 그대에게 - The 2nd Mini Album,108,"아쉬워 이 밤이 가는 게<br/>가지 마라 붙잡고 싶어요<br/>이 찻잔처럼 뜨거워진 마음이<br/>쑥스러운 난 좀 촌스럽죠<br/>안돼요 감추지 말아요<br/>나만 혼자 서두르면 슬퍼요<br/>저 불씨처럼 불타오는 마음도<br/>드리고파 머물고파<br/>아프게 하지 마요<br/>이 밤을 우리 어떻게 할까요<br/>반짝이는 은하수를 건널까요<br/>게으른 저 가로등도 졸고 있는 밤에<br/>이 밤에 말이죠<br/>어느새 우리도 모르게<br/>별은 한 걸음씩 자릴 옮기고<br/>어디선가 실려온 밤의 향기에<br/>취하고파 기대고파<br/>왜 웃고만 있나요<br/>이 밤을 우리 어떻게 할까요<br/>반짝이는 은하수를 건널까요<br/>게으른 저 가로등도 졸고 있는 밤에<br/>이 밤에<br/>안겨 안아줄게요<br/>그대여 감추지 말아요<br/>그 모습대로 와줘요<br/>이 밤을 우리 어떻게 할까요<br/>반짝이는 은하수를 건널까요<br/>게으른 저 가로등도 졸고 있는 밤에<br/>이 밤에 말이죠<br/>
+",https://www.youtube.com/results?search_query=%EC%9A%B0%EB%A6%AC+%EC%96%B4%EB%96%BB%EA%B2%8C+%ED%95%A0%EA%B9%8C%EC%9A%94
+93,"안녕, 겨울",정승환,십이월 이십오일의 고백,106,"유난히 바람이 찬 어느 날
+무심한 계절처럼 그대가 오겠죠
+알고 있어요 또 멀어질 거란 걸
+천천히 잊을게요 그대 없이도
+혼자 남지 않게
+또 겨울이 오네요
+시리도록 하얀
+첫눈이 내리면
+그대도 올까요
+여전히 나 혼자
+끝맺지 못한 말
+여기에 남겨요
+늦었지만 사랑해요
+하루씩 그대를 잊어가요
+그보다 더 슬픈 건 무뎌짐이겠죠
+알고 있어요 늘 같은 자리란 걸
+아무리 돌아서도
+그댈 향해 서 있는
+그게 나라는 걸
+또 겨울이 오네요
+슬프도록 하얀
+첫눈이 내리면
+그대도 볼까요
+어쩌면 나처럼
+울고 있을까요
+그대의 잘못이 아닌 걸요
+서로의 손을 이제는 놓기로 해요
+천천히 사라질 온기로
+마지막 인사를 나눠요
+그동안 고마웠어요
+그대여 이젠 안녕
+어디에 있든 어떤 모습이든
+그대로의 그댈 사랑해요
+닿지 않겠지만
+늦더라도 부디 행복해요",https://www.youtube.com/results?search_query=%EC%95%88%EB%85%95%2C+%EA%B2%A8%EC%9A%B8
+94,헤어져줘서 고마워,벤,헤어져줘서 고마워,104,"헤어져줘서 고마워<br/>나는 헤어진 게 아니야<br/>정말 헤어져서 고마워<br/>네 맘은 진심이 아니야<br/>같은 말 하게 하지 마<br/>더 미워하게 하지 마<br/>난 안 바뀌니까<br/>아니 내가 정말 잘할게<br/>아냐 사람 마음 쉽게 안 변해<br/>우린 안 봐도 뻔해<br/>맨날 말로만 끝내자 말하면 뭐 해<br/>질질 끌지 말고 헤어지자<br/>그래 오늘은 꼭 헤어지자<br/>그만 미워하고 더 후회하지 말고<br/>그냥 미친 척하고 우리 헤어져 보자<br/>사랑인척하지만 너와 나<br/>이미 다 끝났잖아 되돌릴 수 없잖아<br/>맨날 말로만 끝내자 말하면 뭐 해<br/>질질 끌지 말고 헤어지자<br/>진짜 사랑이 난 그리워<br/>그래 네 마음 다 이해해<br/>함께 있어도 난 외로워<br/>뭐가 됐건 내가 미안해<br/>이해한다고 하지 마<br/>미안하다고 하지 마<br/>듣기 싫으니까<br/>아니 내가 정말 잘할게<br/>원래 사랑이란 언젠간 변해<br/>우리도 변했으니까<br/>맨날 말로만 끝내자 말하면 뭐 해<br/>질질 끌지 말고 헤어지자<br/>그래 오늘은 꼭 헤어지자<br/>그만 미워하고 더 후회하지 말고<br/>그냥 미친 척하고 우리 헤어져 보자<br/>사랑인척하지만 너와 나<br/>이미 다 끝났잖아 되돌릴 수 없잖아<br/>더 이상 시간 끌지 말고 헤어지자<br/>마지막이라고<br/>늘 믿었던 우리 사랑이<br/>이젠 지긋지긋해 더 안 되는 거<br/>붙잡지 좀 말고 제발<br/>질질 끌지 말고 헤어지자<br/>우리 이제 그만 보내주자<br/>결국 생각나고 죽도록 후회해도<br/>더 기대하지 말고 우리 헤어져 보자<br/>이젠 사랑 아니야 너와 나<br/>사랑했던 그때로 돌아갈 수 없잖아<br/>맨날 말로만 끝내자 말하면 뭐 해<br/>질질 끌지 말고 헤어지자<br/>그래 우리 이제 헤어지자<br/>
+",https://www.youtube.com/results?search_query=%ED%97%A4%EC%96%B4%EC%A0%B8%EC%A4%98%EC%84%9C+%EA%B3%A0%EB%A7%88%EC%9B%8C
+95,2002,Anne Marie,Speak Your Mind (Deluxe),101,"I will always remember
+The day you kissed my lips
+Light as a feather
+And it went just like this
+No, it's never been better
+Than the summer of 2002 (ooh)
+Uh, we were only 11
+But acting like grown-ups
+Like we are in the present
+Drinking from plastic cups
+Singing, 
+＂Love is forever and ever＂
+Well, I guess that was true
+
+Dancing on the hood 
+in the middle of the woods
+On an old Mustang, where we sang
+Songs with all our childhood friends
+And it went like this, say
+
+Oops, I got 99 problems singing 
+bye, bye, bye
+Hold up, 
+if you wanna go and take a ride with me
+Better hit me, baby, one more time, uh
+Paint a picture for you and me
+On the days when we were young, uh
+Singing at the top of both our lungs
+
+Now we're under the covers
+Fast forward to eighteen
+We are more than lovers
+Yeah, we are all we need
+When we're holding each other
+I'm taken back to 2002 (ooh)
+Yeah
+
+Dancing on the hood 
+in the middle of the woods
+On an old Mustang, where we sang
+Songs with all our childhood friends
+And it went like this, say
+
+Oops, I got 99 problems singing 
+bye, bye, bye
+Hold up, 
+if you wanna go and take a ride with me
+Better hit me, baby, one more time, uh
+Paint a picture for you and me
+On the days when we were young, uh
+Singing at the top of both our lungs
+On the day we fell in love
+Ooh ooh, ooh ooh
+On the day we fell in love
+Ooh ooh, ooh ooh
+
+Dancing on the hood 
+in the middle of the woods
+On an old Mustang, where we sang
+Songs with all our childhood friends
+Oh, now
+
+Oops, I got 99 problems singing 
+bye, bye, bye
+Hold up, 
+if you wanna go and take a ride with me
+Better hit me, baby, one more time
+Paint a picture for you and me
+On the days when we were young, uh
+Singing at the top of both our lungs
+On the day we fell in love
+Ooh ooh, ooh ooh
+On the day we fell in love
+Ooh ooh, ooh ooh
+On the day we fell in love
+Ooh ooh, ooh ooh
+On the day we fell in love
+Ooh ooh, ooh ooh
+On the day we fell in love, love, love",https://www.youtube.com/results?search_query=2002
+96,꿈속에 너 (Feat. 전상근),에이치코드 (H:CODE),두 번째 이야기,100,"가끔 니가 보고 싶어<br/>널 생각하지 않아도<br/>자꾸 내 꿈속에 나와<br/>너무나 힘들게 해<br/>일년이란 시간 동안<br/>널 잊은 줄 알았는데<br/>또 다시 니가 내게 나타나<br/>밤이 되면 니 생각에<br/>매일 잠들지 못해<br/>그저 너란 사람<br/>내겐 옛 사랑일 뿐인데<br/>잊혀질 듯 하다가도<br/>또 내 꿈속에 나타나<br/>자꾸 내 마음을 흔드는 너인데<br/>꿈속에 너를 사랑하나 봐<br/>아직 사랑했나 봐<br/>아직도 너의 그 모습에<br/>난 또 설레였나봐<br/>너 다시 돌아오면<br/>그렇게 다시 내게 와준다면<br/>그때처럼 날 사랑해줘<br/>헤어지던 그 날부터<br/>매일 눈물만 흘렸어<br/>다시 너를 잡아볼까<br/>생각도 했었어<br/>혹시 날 그리워할까<br/>날 생각하긴 한 걸까<br/>아직도 너를 잊지 못한 나인데<br/>꿈속에 너를 사랑하나 봐<br/>아직 사랑했나 봐<br/>아직도 너의 그 모습에<br/>난 또 설레였나봐<br/>너 다시 돌아오면<br/>그렇게 다시 내게 와준다면<br/>그때처럼 날 사랑해줘<br/>이젠 꿈에서 조차<br/>너를 보고 싶지 않아<br/>내 머릿속에서 니가 떠났으면<br/>더 이상 너 하나만 바라보며<br/>살아 갈 수 없어<br/>꿈속에 널 이젠 놓아주려 해<br/>꿈속에 너를 사랑하나 봐<br/>아직 사랑했나 봐<br/>아직도 너의 그 모습에<br/>난 또 설레였나봐<br/>너 다시 돌아오면<br/>그렇게 다시 내게 와준다면<br/>그때처럼 날 사랑해줘<br/>
+",https://www.youtube.com/results?search_query=%EA%BF%88%EC%86%8D%EC%97%90+%EB%84%88+%28Feat.+%EC%A0%84%EC%83%81%EA%B7%BC%29
+97,그때가 좋았어,케이시 (Kassy),그때가 좋았어,100,"이젠 내가 편하니<br/>작은 설렘조차 욕심이겠지<br/>항상 곁에 있어서<br/>계속 함께 있을 줄 알았나 봐<br/>음 반복되는 시간에 지쳐가<br/>더 이상 함께 웃을 일도 없어<br/>봄처럼 따뜻했던<br/>그때가 좋았어<br/>너 하나로 충분했던<br/>그때가 좋았어<br/>헤어지고 나서야<br/>깨닫게 됐어<br/>참 좋았구나<br/>참 예뻤구나 우리<br/>지난날에 그때가 참 좋았어<br/>그때 그때<br/>그때 그때 음<br/>이미 너도 다 알잖아<br/>돌이킬 수 없이 멀리 왔다는 거<br/>억지로 더 노력해도<br/>안되는 건 어쩔 수가 없더라<br/>음 우리 언제 이렇게 됐을까<br/>더는 너를 만날 자신이 없어<br/>봄처럼 따뜻했던<br/>그때가 좋았어<br/>행복해서 눈물 나던<br/>그때가 좋았어<br/>헤어지고 나서야<br/>깨닫게 됐어<br/>참 좋았구나<br/>참 예뻤구나 우리<br/>지난날에 그때가 참 좋았어<br/>가진 것도 없고 초라했어도<br/>서로만으로 충분했으니까 우린<br/>너라서 좋았어<br/>행복했어<br/>사랑이 전부였던<br/>그때가 좋았어<br/>그때 알았더라면<br/>더 사랑할 걸<br/>더 안아줄 걸<br/>후회가 돼<br/>사랑했던 우리가 참 그리워<br/>그때 그때<br/>그때 그때 음<br/>
+",https://www.youtube.com/results?search_query=%EA%B7%B8%EB%95%8C%EA%B0%80+%EC%A2%8B%EC%95%98%EC%96%B4
+98,솔직하게 말해서 나,김나영,솔직하게 말해서 나,97,"햇살이 좋았던 그 날<br/>그만하자며 말을 하는 너<br/>전혀 믿어지지가 않아<br/>지금 이순간 모든 시간이 멈춘 듯<br/>어떤 말을 해야할지<br/>어떤 표정 지어야할지<br/>아무것도 생각나지를 않아<br/>솔직하게 말해서 나<br/>헤어질 자신이 없어<br/>괜찮은 척 웃으며 널<br/>보내줄 자신이 없어<br/>네가 없는 내 하루<br/>하루도 생각한 적 없는데<br/>나보다 나를 니가 더 잘 알면서<br/>마지막 인사를 하며<br/>멀어져가는 너를 보며<br/>아무것도 할수있는 게 없어<br/>솔직하게 말해서 나<br/>헤어질 자신이 없어<br/>괜찮은 척 웃으며 널<br/>보내줄 자신이 없어<br/>네가 없는 내 하루<br/>하루도 생각한 적 없는데<br/>나보다 나를 니가 더 잘 알면서<br/>이별앞에 서 있는 너의 눈에 비춰진<br/>애써 웃는 내 모습이<br/>나를 더욱 아프게만해<br/>솔직하게 말할게 나<br/>헤어지고 싶지 않아<br/>너 없이 나 혼자서<br/>지낼 자신이 난 없어<br/>네가 없는 내 하루 하루도<br/>견딜수가 없는데<br/>나보다 네가 먼저였던 날<br/>나보다 나를 니가 더 잘 알면서<br/>
+",https://www.youtube.com/results?search_query=%EC%86%94%EC%A7%81%ED%95%98%EA%B2%8C+%EB%A7%90%ED%95%B4%EC%84%9C+%EB%82%98
+99,주저하는 연인들을 위해,잔나비,전설,96,"나는 읽기 쉬운 마음이야<br/>당신도 스윽 훑고 가셔요<br/>달랠 길 없는 외로운 마음 있지<br/>머물다 가셔요 음<br/>내게 긴 여운을 남겨줘요<br/>사랑을 사랑을 해줘요<br/>할 수 있다면 그럴 수만 있다면<br/>새하얀 빛으로 그댈 비춰 줄게요<br/>그러다 밤이 찾아오면<br/>우리 둘만의 비밀을 새겨요<br/>추억할 그 밤 위에 갈피를 꽂고 선<br/>남몰래 펼쳐보아요<br/>나의 자라나는 마음을<br/>못 본채 꺾어 버릴 수는 없네<br/>미련 남길바엔 그리워 아픈 게 나아<br/>서둘러 안겨본 그 품은 따스할 테니<br/>그러다 밤이 찾아오면<br/>우리 둘만의 비밀을 새겨요<br/>추억할 그 밤 위에 갈피를 꽂고 선<br/>남몰래 펼쳐보아요<br/>언젠가 또 그날이 온대도<br/>우린 서둘러 뒤돌지 말아요<br/>마주보던 그대로 뒷걸음치면서<br/>서로의 안녕을 보아요<br/>피고 지는 마음을 알아요<br/>다시 돌아온 계절도<br/>난 한 동안 새 활짝 피었다 질래<br/>또 한번 영원히<br/>그럼에도 내 사랑은<br/>또 같은 꿈을 꾸고<br/>그럼에도 꾸던 꿈을<br/>난 또 미루진 않을거야<br/>
+",https://www.youtube.com/results?search_query=%EC%A3%BC%EC%A0%80%ED%95%98%EB%8A%94+%EC%97%B0%EC%9D%B8%EB%93%A4%EC%9D%84+%EC%9C%84%ED%95%B4
+100,Into the Unknown (Panic! At The Disco Version),Panic! At The Disco(패닉 앳 더 디스코),Frozen 2 (겨울왕국 2 OST),94,"Ah ah oh oh oh
+Ah ah oh oh oh oh oh oh
+Into the unknown
+Into the unknown
+Into the unknown
+Ah ah ah ah ah
+I can hear you but I won't
+Some look for trouble
+While others don't
+There's a thousand reasons
+I should go about my day
+And ignore your whispers
+Which I wish would go away
+Whoa oh
+You're not a voice
+You're just a ringing in my ear
+And if I heard you which I don't
+I'm spoken for I fear
+Everyone I've ever loved is here
+Within these walls
+I'm sorry secret siren
+But I'm blocking out your calls
+I've had my adventure
+I don't need something new
+I'm afraid of what I'm risking
+If I follow you
+Into the unknown
+Into the unknown
+Into the unknown
+Ah ah ah ah ah
+Ah ah ah ah ah oh oh
+What do you want?
+'Cause you've been keeping me awake
+Are you here to distract me
+So I make a big mistake?
+Or are you someone out there
+Who's a little bit like me?
+Who knows deep down
+I'm not where I'm meant to be?
+Every day's a little harder as
+I feel your power grow
+Don't you know there's part of me
+That longs to go
+Into the unknown
+Into the unknown
+Into the unknown
+Ah ah ah ah ah
+Ah ah ah ah ah
+Oh oh oh
+Are you out there?
+Do you know me?
+Can you feel me?
+Can you show me?
+Ah ah ah ah
+Ah ah ah ah
+Ah ah ah ah
+Ah ah ah ah
+Ah ah ah ah
+Ah ah ah ah
+Ah ah ah ah
+Ah ah ah ah
+Where are you going?
+Don't leave me alone
+How do I follow you
+Into the unknown",0
+101,Memories,Maroon 5(마룬 파이브),Memories,91,"Here's to the ones that we got
+Cheers to the wish you were here
+But you're not
+'Cause the drinks bring back
+All the memories
+Of everything we've been through
+Toast to the ones here today
+Toast to the ones that we lost on the way
+'Cause the drinks bring back
+All the memories
+And the memories bring back
+Memories bring back you
+There's a time that I remember
+When I did not know no pain
+When I believed in forever
+And everything would stay the same
+Now my heart feel like december
+When somebody say your name
+'Cause I can't reach out to call you
+But I know I will one day yeah
+Everybody hurts sometimes
+Everybody hurts someday ayy ayy
+But everything gon' be alright
+Go and raise a glass and say ayy
+Here's to the ones that we got
+Cheers to the wish you were here
+But you're not
+'Cause the drinks bring back
+All the memories
+Of everything we've been through
+Toast to the ones here today
+Toast to the ones that we lost on the way
+'Cause the drinks bring back
+All the memories
+And the memories bring back
+Memories bring back you
+Doo doo doo doo doo doo
+Doo doo doo doo doo doo doo doo
+Doo doo doo doo doo doo doo
+Memories bring back
+Memories bring back you
+There's a time that I remember
+When I never felt so lost
+When I felt all of the hatred was too
+Powerful to stop (Ooh yeah)
+Now my heart feel like an ember
+And it's lighting up the dark
+I'll carry these torches for ya
+That you know I'll never drop yeah
+Everybody hurts sometimes
+Everybody hurts someday ayy ayy
+But everything gon' be alright
+Go and raise a glass and say ayy
+Here's to the ones that we got (Oh oh)
+Cheers to the wish you were here
+But you're not
+'Cause the drinks bring back
+All the memories
+Of everything we've been through (No no)
+Toast to the ones here today (Ayy)
+Toast to the ones that we lost on the way
+'Cause the drinks bring back
+All the memories (Ayy)
+And the memories bring back
+Memories bring back you
+Doo doo doo doo doo doo
+Doo doo doo doo doo doo doo doo
+Doo doo doo doo doo doo doo
+Memories bring back
+Memories bring back you
+Doo doo doo doo doo doo
+Doo doo doo doo doo doo doo doo
+Doo doo doo doo doo doo doo (Ooh yeah)
+Memories bring back
+Memories bring back you
+Yeah yeah yeah
+Yeah yeah yeah yeah yeah no no
+Memories bring back
+Memories bring back you",0
+102,밤편지,아이유(IU),밤편지,88,"이 밤 그날의 반딧불을 
+당신의 창 가까이 보낼게요
+음 사랑한다는 말 이에요
+
+나 우리의 첫 입맞춤을 떠올려
+그럼 언제든 눈을 감고 
+음 가장 먼 곳으로 가요
+
+난 파도가 머물던 모래 위에 적힌 글씨처럼
+그대가 멀리 사라져 버릴 것 같아 
+늘 그리워 그리워
+
+여기 내 마음속에 
+모든 말을 다 꺼내어 줄 순 없지만
+사랑한다는 말 이에요
+
+어떻게 나에게 그대란 행운이 온 걸까
+지금 우리 함께 있다면 아 얼마나 좋을까요
+
+난 파도가 머물던 모래 위에 적힌 글씨처럼
+그대가 멀리 사라져 버릴 것 같아
+또 그리워 더 그리워
+
+나의 일기장 안에
+모든 말을 다 꺼내어 줄 순 없지만
+사랑한다는 말
+
+이 밤 그날의 반딧불을 당신의
+창 가까이 띄울게요
+음 좋은 꿈 이길 바라요",0
+103,嗜 (Obsession),EXO,OBSESSION - The 6th Album,86,"jiang zhe xun huan zhong zhi<br/><br/>hei an jiang lin shi jie bian meng mei<br/>ni you qian ru xin ling de an yong<br/>fang da er bian de xian wei liao bo si wei<br/>qing xiao zhe zai song yong<br/><br/>wu jin si yu jiang zhe meng jing dou cui hui<br/>Oh you’re the bad dream kill<br/>bu ting zheng chao bu ting hu zhao<br/>yan yu chu jiao jiang wo tui xiang ni shen yuan<br/><br/>you wo cheng shou<br/>(I don’t think so)<br/>wei shen me dou zai yong xiang wo<br/>(I don’t think so)<br/>zong xiang zhe bi zhen wo<br/>(I don’t think so)<br/>shi tu yan gai shen me<br/>(I don’t think so)<br/>xu huan si meng mo<br/>(I don’t think so)<br/>bie rang e du zai jie guo<br/>(I don’t think so)<br/>yong yuan bu yao kao jin wo<br/>(I don’t think so)<br/>Shut up and go away<br/><br/>Thousand nights yi jing yan juan de shi hao<br/>ban sheng zhe de e meng you wo zhong jie diao<br/>dang wo xi mie exit light<br/>jiu rang hei an jiang ni cun zai dou mo xiao<br/><br/>shou gou le<br/><br/>Ha! ting zhi gan she<br/>bu ting hong zha er mo na xie zao yin Imma let it blow<br/>gan zhi dou xiang ta ji zhong jin beng zhe every moment<br/>shi kong de ling hun bei ni si yi de jiao dong<br/>hun dun de kong qi zhong you li zhe<br/>qiao wu sheng xi shen ru ji fu the phantom<br/>I’m so sick and tired of it<br/>ke wang tian liang hou jiu neng xiao chu ni hen ji<br/><br/>jiu zhi gong ji wo<br/>(I don’t think so)<br/>wei shen me dou zai yong xiang wo<br/>(I don’t think so)<br/>shen shen qian ru gu ge<br/>(I don’t think so)<br/>xiang hun xiao zhen wo<br/>(I don’t think so)<br/>Take whatever<br/>(I don’t think so)<br/>bu yao da po chen mo<br/>(I don’t think so)<br/>yong yuan bie xiang kong zhi wo<br/>(I don’t think so)<br/>bie zai zhi zhuo chen mi<br/><br/>Thousand nights yi jing yan juan de shi hao<br/>ban sheng zhe de e meng you wo zhong jie diao<br/>dang wo xi mie exit light<br/>jiu rang hei an jiang ni cun zai dou mo xiao<br/><br/>Blacken my heart,<br/>Creepin’, dark night,<br/>Stainin’ my soul<br/>meng long zhe yan qian shi jie dou bian de yi yang<br/>ta de qi xi xing mu er kua zhang<br/>liu xia wu zhu names on the ground<br/>yao ye zhong zai qi wu tonight<br/>Say it what you like<br/><br/>suo you de xing fu dou zhi cun zai<br/>na xie duan zan hui yi<br/>dao ci wei zhi jiu bie zai qin rao<br/>Forget everything yeah<br/><br/>you wo cheng shou<br/>(I don’t think so)<br/>wei shen me dou zai yong xiang wo<br/>(I don’t think so)<br/>zong xiang zhe bi zhen wo<br/>(I don’t think so)<br/>shi tu yan gai shen me<br/>(I don’t think so)<br/>xu huan si meng mo<br/>(I don’t think so)<br/>bie rang e du zai jie guo<br/>(I don’t think so)<br/>yong yuan bu yao kao jin wo<br/>(I don’t think so)<br/>Shut up and go away<br/><br/>Thousand nights yi jing yan juan de shi hao<br/>ban sheng zhe de e meng you wo zhong jie diao<br/>dang wo xi mie exit light<br/>jiu rang hei an jiang ni cun zai dou mo xiao<br/><br/>One night hei an zhi zhong que kan dao<br/>chan rao zai wo shen hou ying zi de quan mao<br/>shan shuo zhe de exit light<br/>zhao liang cuo e ying zai jing zhong na ge wo<br/><br/>bai tuo ba xiao shi diao<br/>bie zai<br/>xun huan bie zai kai shi<br/>
+",0
+104,Senorita,Camila Cabello & Shawn Mendes,Senorita,84,"I love it
+when you call me senorita
+I wish I could pretend
+I didn't need ya
+But every touch is ooo la la la
+it's true la la la
+ooo i should be running
+ooo you keep me coming for ya
+land in Miami
+the air was hot from summer rain
+sweat dripping off me
+before I even knew
+her name la la la
+it felt like ooo la la la
+yeah no
+sapphire moonlight
+we danced for hours in the sand
+tequila sunrise
+her body fit right
+in my hands la la la
+it felt like ooo la la la yeah
+I love it
+when you call me senorita
+I wish I could pretend
+I didn't need ya
+But every touch is ooo la la la
+it's true la la la
+ooo i should be running
+ooo you know I love it
+when you call me senorita
+I wish it wasn't so damn
+hard to leave ya
+But every touch is ooo la la la
+It's true la la la
+ooo i should be running
+ooo you keep me coming for ya
+Locked in the hotel
+there's just somethings
+that never change
+You say that we're just friends
+but friends don't know the way you
+taste la la la
+'cause you know
+it's been a long time coming
+don't you let me fall
+ooh when your lips undress me
+hooked on your tongue
+ooh love your kiss is deadly
+don't stop
+I love it
+when you call me senorita
+I wish I could pretend
+I didn't need ya
+But every touch is ooo la la la
+it's true la la la
+ooo i should be running
+ooo you know I love it
+when you call me senorita
+I wish it wasn't so damn
+hard to leave ya
+but every touch is ooo la la la
+it's true la la la
+ooo I should be running
+ooo you keep me coming for ya
+All along I've been coming for ya
+and I hope it meant
+something to ya
+call my name
+I'll be coming for ya
+coming for ya coming for ya
+coming for you
+for ya ooh she loves it
+when I come
+for ya
+ooo I should be running
+ooo you keep me coming for ya",0
+105,운명이 내게 말해요,헤이즈(Heize),동백꽃 필 무렵 (KBS2 수목드라마) OST - Part.9,83,"이미 정해진 나의 슬픈 역할이
+내가 있는 모든 곳과 모든 시간 속에
+스며들어와 널 다치게 할지도 몰라
+나를 울려야 하니까
+
+왜 난 딱 하루라도 왜 한순간만이라도
+행복한 사람으로 살 수는 없을까요
+떠나야 하네요 운명이 내게 말해요
+널 밀어내라고 더 아파하라고
+
+이상할 것도 그리 놀라울 것도 없죠
+뻔한 이별 아픈 결말 내 것이죠
+다 잘 알면서 왜 자꾸 난 살고 싶어져
+널 사랑하고 싶어져
+
+왜 난 딱 하루라도 왜 한순간만이라도
+행복한 사람으로 살 수는 없을까요
+떠나야 하네요 운명이 내게 말해요
+널 밀어내라고 더 아파하라고
+
+지우면 지워지나요 눈 감으면 못 볼까요
+다시 태어나도 기억날 것 같아
+그땐 우리 맘껏 행복해요
+
+왜 난 딱 하루라도 왜 한순간만이라도
+평범한 사랑 절대 할 수 없을까요 
+떠나야 하네요 운명이 내게 말해요
+널 밀어내라고 더 아파하라고",0
+106,크리스마스니까,"성시경, 박효신, 이석훈, 서인국, VIXX (빅스)",Jelly Christmas 2012 HEART PROJECT,82,"오늘은 뭔가 좀 다른 기분 Feeling <br/>이젠 때가 된 것 같은 느낌 Love U <br/>하늘에선 마침 눈이 내려 <br/>Now It's Falling <br/>뭔가 잘 될 것 같은 예감 <br/>하얀 거리마다 <br/>행복해 보이는 연인들 <br/>니 맘은 어떤지 내 맘과 같은지 <br/>우리 시작해볼까 <br/>오늘은 괜찮을까요 <br/>내 맘이 전해질까요 <br/>내리는 하얀 눈처럼 <br/>너에게 닿을까요 <br/>숨겨왔던 내 맘 전부 고백할게요 <br/>바로 오늘 크리스마스이니까 <br/>사실 그대도 <br/>조금은 기댈 했잖아요 <br/>못 이기는 척 웃는 너 <br/>그런 니가 사랑스러워 <br/>오늘은 괜찮을까요 <br/>내 맘이 전해질까요 <br/>내리는 하얀 눈처럼 <br/>너에게 닿을까요 <br/>숨겨왔던 내 맘 전부 고백할게요 <br/>바로 오늘 크리스마스 <br/>많은 사람들 속에<br/>너만 내 눈에 보여<br/>의상 좋고 머리도 괜찮고<br/>얼굴 상태 나쁘지 않아<br/>오늘만 기다렸단 말야<br/>눈치껏 눈도 내린단 말야<br/>또박또박 연습한 멘트<br/>뚜벅뚜벅 걷는 발걸음이<br/>벌써 네 앞에 도착했어<br/>올해 크리스마스 선물은 나야<br/>귀요미 루돌프 남<br/>오늘이야 메리 크리스마스<br/>조금만 더 용길 낼게<br/>이 순간이 지나버리면<br/>널 놓칠지 몰라<br/>진심이 더 진심처럼 느껴지는 게<br/>바로 오늘 크리스마스이니까<br/>너와 나 영원히<br/>Christmas Love<br/>
+",0
+107,Don't Start Now,Dua Lipa(두아 리파),Don't Start Now,82,"If you don't wanna see me
+Did a full one eighty crazy
+Thinking bout the way I was
+Did the heartbreak change me maybe
+But look at where I ended up
+I'm all good already
+So moved on it's scary
+I'm not where you left me at all
+So if you don't wanna see me
+Dancing with somebody
+If you want to believe
+That anything could stop me
+Don't show up
+Don't come out
+Don't start caring
+About me now
+Walk away
+You know how
+Don't start caring
+About me now
+Aren't you the guy who tried to
+Hurt me with the word goodbye
+Though it took some time to survive you
+I'm better on the other side
+I'm all good already
+So moved on it's scary
+I'm not where you left me at all
+So if you don't wanna see me
+Dancing with somebody
+If you want to believe
+That anything could stop me
+Don't show up
+Don't come out
+Don't start caring
+About me now
+Walk away
+You know how
+Don't start caring
+About me now
+Don't start now
+I'm not where you left me at all
+So if you don't wanna see me
+Dancing with somebody
+If you want to believe
+That anything could stop me
+Don't show up
+Don't come out
+Don't start caring
+About me now
+Walk away
+You know how
+Don't start caring
+About me now",0
+108,Gravity,태연 (TAEYEON),Purpose - The 2nd Album,81,"난 온기 없는 어둠 속을
+유영하듯 헤매어
+손을 내밀어도 결국
+돌아오는 공허함
+반복된 상처에 굳게
+또 맘을 잠그고 나 홀로 견디고
+그 순간 마주친 넌 따스한 느낌
+틈 사이로 어루만진 포근한 손길
+위태롭던 내게 넌 Gravity
+방황하던 날 강렬하게 이끈 힘
+외로운 시간들을 지나
+드디어 제자리를 찾아
+더 끌어안아줘 날
+위태롭던 내게 넌 Gravity
+늘 모르는 척했던 감정
+익숙했던 지난날
+넌 아무것도 묻지 않고
+늘 나의 곁을 지켰어
+길었던 시간들 지나
+결국엔 너였어 이대로 날 안아
+멀게만 느껴졌던 다정한 온기
+나 지금은 너로 인해 느낄 수 있어
+위태롭던 내게 넌 Gravity
+방황하던 날 강렬하게 이끈 힘
+외로운 시간들을 지나
+드디어 제자리를 찾아
+더 끌어안아줘 날
+위태롭던 내게 넌 Gravity
+항상 같은 곳에서 내 곁에서
+Yeah 전해준 온기
+날 지켜준 한 사람 단 한 사람
+Yeah 너라는 이유
+끝없이 넌 날 이끈 Gravity
+변함없이 날 따스하게 감싸지
+혼자인 시간들을 지나
+운명의 끝에서 널 만나
+더 끌어안아줘 날
+끝없이 넌 날 이끈 Gravity",0
+109,제목없음,황치열,제목없음,78,"혼자 몇 번씩 거울을 보고
+네가 골라준 옷을 입고
+너와 걷던 그 길에 서 있어
+
+이젠 취한 척 전활 걸어도
+넌 받아주지 않는단 걸
+나만 인정 못 하나 봐
+
+제목이 없어
+이제 우린 없어
+도대체 너를 두고 뭐라 말해야 해
+이별이라 말하면 정말 끝인 것 같아
+난 추억을 추억이라 하지 못해
+
+네가 새로 올린 사진 아래
+달린 수많은 댓글 속에
+난 아무 말도 할 수가 없어
+
+알아 난 아무도 아니란 걸
+이미 난 없는 사람인 걸
+나만 믿기 힘든가 봐
+
+제목이 없어
+이제 우린 없어
+도대체 너를 두고 뭐라 말해야 해
+이별이라 말하면 정말 끝인 것 같아
+난 추억을 추억이라 부르지도 못해
+
+한땐 부서지게 내 품에 안겨
+사랑이라 불러주던
+널 어떻게 잊니
+다 말이 안 돼
+
+너 없인 안 돼
+죽어도 못해
+이대로 끝이라면 어떻게 해야 해 난
+너와 사랑도 이별도 못 할 나라서
+널 보내도 너를 보내지 못한 나야",0
+110,겨울이 오면,김필(Kim Feel),동백꽃 필 무렵 (KBS2 수목드라마) OST - Part.8,76,"찬 바람이 불어오면 
+들려오는 너의 목소리
+단잠을 깨우며 
+내린 눈꽃처럼 아름다워
+단 한순간이라 해도 
+너만의 시간 속에 
+들어갈 수만 있기를
+널 보며 꿈꾸던 
+사랑이 시작되기를 나 기도해
+
+가을이 오면 생각나는 한 사람
+붉은 낙엽처럼 세상을 물들이는
+아닌 척해봐도 태연한 척해봐도
+수줍은 널 보면 사랑인 걸 알 수 있어
+너만이 내 사랑
+
+투명한 바람결에도 
+난 항상 너를 그려 
+널 볼 수만 있다면 
+수많은 별처럼 
+널 향해 흘러간대도 괜찮은데
+
+겨울이 오면 생각나는 한 사람 
+하얀 꿈결처럼 세상을 물들이는
+아닌 척해봐도 태연한 척해봐도
+눈부신 널 보면 사랑인 걸 알 수 있어
+너만이 내 사랑 
+
+이 바람에 나를 태워 날려 보내면 
+너의 곁을 내게 내줄래
+
+겨울이 오면 시작될 우리 사랑
+곁에만 있어도 세상이 변해가는
+아닌 척해봐도 태연한 척해봐도
+눈부신 널 보면 사랑인 걸 알 수 있어
+너만이 내 사랑 너만이 내 사랑
+너만이 내 사랑",0
+111,성탄절 장미 (Feat.이바다),오반,성탄절 장미 (Feat.이바다),73,"그대는 나를 원하지 않나요<br/>그 꽃은 그댈 위해 준비했는데<br/>그대는 나를 원하지 않아요<br/>내 손엔 그대 반지가 껴있는데<br/>그대는 나를 원하지 않네요<br/>그 끝에 우린 가본적이 없는데<br/>내 불안을 진정시켜주세요<br/>내 불행을 거두어가 주세요<br/>난 그대가 떠나고 더 웃을 수 없어진<br/>나를 미워하는 하루를 살아요<br/>난 그대가 던져진 곳에 나를 던져<br/>분명 사랑한다 했잖아요<br/>나의 꽃이 돼 줘 그대는 나의 외로움<br/>시들지 않는 맘 가져다드릴게요<br/>내 불안은 매번 그대에게로부터<br/>사실은 나도 지쳐가는 것 같아요<br/>그대는 나를 원하지 않나요<br/>그 꽃은 그댈 위해 준비했는데<br/>그대는 나를 원하지 않아요<br/>내 손엔 그대 반지가 껴있는데<br/>그대는 나를 원하지 않네요<br/>그 끝에 우린 가본적이 없는데<br/>내 불안을 진정시켜주세요<br/>내 불행을 거두어가 주세요<br/>그댄 나를 불안하게 만들어요<br/>그댄 나를 안심하게도 하구요<br/>그댄 나의 일상이 궁금한가요<br/>나도 그렇다면 그건 안되는거겠죠<br/>그댄 나를 불행하게 만들어요<br/>그댄 나를 행복하게도 하구요<br/>그댄 시든 꽃이 원망 스러웠나요<br/>그럼 난 그댈위한 노래를 써야겠죠<br/>그대여 나를 원하면 안돼요<br/>그 꽃은 금방 시들어버릴텐데<br/>그대여 나를 원하지 말아요<br/>내 손엔 다른 반지가 껴 있는데<br/>그대여 나를 원하지 마세요<br/>그 끝에 우린 와 버린걸 아는데<br/>그 불안을 품어줄 수 없어요<br/>그 불행을 가져갈 수 없어요<br/>그대는 그저 나의 불안을 가득<br/>안아줘요<br/>그대는 그저 나의 불행을 가득<br/>
+",0
+112,봄날,방탄소년단,YOU NEVER WALK ALONE,70,"보고 싶다<br/>이렇게 말하니까 더 보고 싶다<br/>너희 사진을 보고 있어도<br/>보고 싶다<br/>너무 야속한 시간<br/>나는 우리가 밉다<br/>이젠 얼굴 한번 보는 것 조차<br/>힘들어진 우리가<br/>여긴 온통 겨울 뿐이야<br/>8월에도 겨울이 와<br/>마음은 시간을 달려가네<br/>홀로 남은 설국열차<br/>니 손 잡고 지구 반대편까지 가<br/>겨울을 끝내고파<br/>그리움들이 얼마나<br/>눈처럼 내려야 그 봄날이 올까<br/>Friend<br/>허공을 떠도는<br/>작은 먼지처럼 작은 먼지처럼<br/>날리는 눈이 나라면<br/>조금 더 빨리<br/>네게 닿을 수 있을 텐데<br/>눈꽃이 떨어져요<br/>또 조금씩 멀어져요<br/>보고 싶다 보고 싶다<br/>보고 싶다 보고 싶다<br/>얼마나 기다려야<br/>또 몇 밤을 더 새워야<br/>널 보게 될까 널 보게 될까<br/>만나게 될까 만나게 될까<br/>추운 겨울 끝을 지나<br/>다시 봄날이 올 때까지<br/>꽃 피울 때까지<br/>그곳에 좀 더 머물러줘 <br/>머물러줘<br/>니가 변한 건지<br/>니가 변한 건지<br/>아니면 내가 변한 건지<br/>내가 변한 건지<br/>이 순간 흐르는 시간조차 미워<br/>우리가 변한 거지 뭐<br/>모두가 그런 거지 뭐<br/>그래 밉다 니가 넌 떠났지만<br/>단 하루도 너를<br/>잊은 적이 없었지 난<br/>솔직히 보고 싶은데<br/>이만 너를 지울게<br/>그게 널 원망하기보단<br/>덜 아프니까<br/>시린 널 불어내 본다<br/>연기처럼 하얀 연기처럼<br/>말로는 지운다 해도<br/>사실 난 아직 널 보내지 못하는데<br/>눈꽃이 떨어져요<br/>또 조금씩 멀어져요<br/>보고 싶다 보고 싶다<br/>보고 싶다 보고 싶다<br/>얼마나 기다려야<br/>또 몇 밤을 더 새워야<br/>널 보게 될까 널 보게 될까<br/>만나게 될까 만나게 될까<br/>You know it all<br/>You're my best friend<br/>아침은 다시 올 거야<br/>어떤 어둠도 어떤 계절도<br/>영원할 순 없으니까<br/>벚꽃이 피나봐요<br/>이 겨울도 끝이 나요<br/>보고 싶다 보고 싶다 <br/>보고 싶다 보고 싶다<br/>조금만 기다리면<br/>며칠 밤만 더 새우면<br/>만나러 갈게 만나러 갈게<br/>데리러 갈게 데리러 갈게<br/>추운 겨울 끝을 지나<br/>다시 봄날이 올 때까지<br/>꽃 피울 때까지<br/>그곳에 좀 더 머물러줘 <br/>머물러줘<br/>
+",0
+113,맵고짜고단거 (Feat. 페노메코),다이나믹듀오,OFF DUTY,70,"요즘엔 몇 가지 재미밖에 없네
+알콜 카페인 소금 설탕
+해가 질 때만 되면 땡기네
+취기와 탄수화물 열량
+벌주고 병 주고 약 주는 게
+이 도시가 만든 닭장
+오늘 밤도 결국엔 안주와 약 주고
+탈탈 비우고 빈병 주는 거
+하루에 반 이상 money on my mind
+스토킹 바로 직전의 짝사랑
+평생 상견례 할 일 없어 너와 난
+픽은 신사임당 그걸 관음 하는 환자
+선동 분열 폭력 젠더 이슈
+여야 나눠 남녀 서로 갈굼
+탈출하고파 이 불바다를
+구명조끼는 유튜브로
+밤 되면 동공 키우는 부엉이들
+얼굴과 배에 소금 부자 부었지들
+게임이나 하다가
+뭣 좀 먹으러 갈까
+헛짓거리 하다 물린다고
+손 조심해 손 가만둬 손
+우리끼리 술잔이나 굴리자고
+아씨 끊었는데 한 대만 줘 봐
+오늘 밤도 맵고짜고단거
+기왕이면 맵고짜고단거
+맵고짜고단거
+기왕이면 맵고짜고단거
+Give me that give me that give me that
+낭만은 가고 쾌락만 남았지
+의미는 가고 껍질만 남았지
+향기는 날아가고 자극만 남았지
+다 막히고 뚫린 게 입이라 자극만 탐하지
+더 맵게 더 짜게 좀 더 달콤하게
+뻘뻘 땀을 흘리면서 먹을 때
+비로소 나는 무료함의 벽을 깨
+자극적인 맛들 입속에서 섞을 때
+내 침샘은 폭발해 짜릿하게 혼나네
+(음 그만해 살찌는 건 곤란해
+다들 잘 알잖아 돼지는 폼 안 나네)
+야 미쳤어? 너 지금 장난해?
+이 퍽퍽한 세상 먹을 때만 살만해
+주식했다 물리고 사기로 뜯기고 하느니
+차라리 맛난 거 먹고 배나 불리고
+너무 쏟아지니 무비고 뮤비고 하는 것도
+이젠 위로 아닌 피로 역시 답은 술이여
+왜 자꾸 머리 아프게 편가르고
+나누고 서로를 지지고 볶아
+가운데서 보는 나는 지치고 속 타서
+맛있는 안주나 지지고 볶아
+맵고짜고단거
+맵고짜고단거
+맵고짜고단거
+맵고짜고단거
+내 말이 넌 들리기나 할런지
+남이사 내 편 아님 안 들어
+허구언 날 시시콜콜 이슈 퍼나르기 바뻐
+우리 코난들
+돌아와 주세요 솔로몬 판사님
+쟤네들이 절 가만 안 둬요
+역시는 역시 낮과 밤도
+구별이 안 가는 여기는 한반도
+간이 좀 짠 게 좋아 상관 말고
+안줏거리라도 만들어 봐 브라더
+4k 티비 시대에도 흑백색 빼곤 안 보여
+삿대질로 버튼을 누른 뒤
+사라지면 맵고짜고단거 나오는 자판기
+건강 좀 나빠지면 어때요
+이게 대세래 요즘엔 없어서 난리
+밤마다 밤마다
+국밥에 밥 말아
+배가 좀 부르다면
+소화나 시키러 가자
+Fuck up great hunger
+너가 걍 매일 하던 거
+힘 좀 빼고 살자
+먹다가 배부르고 지치면 남겨
+맵고짜고단거
+웬만하면 맵고짜고단거
+이왕이면 맵고짜고단거
+웬만하면 맵고짜고단거
+Give me that give me that give me that",0
+114,내 생애 가장 행복한 시간 Part.2 (Feat. 양다일),MC몽,CHANNEL 8,67,"곧바로 데리러 갈게
+조금만 참고 거기서 기다려봐
+헤어지는 마지막 
+할머니 한마디 문득 기억이 나
+보고 싶고 두렵고 미안
+길을 자주 잃어버린 시간
+할머니 품에 안겨
+라면 하나 끓여 주면 울음을 그쳐
+
+나쁜 사람 아닌 
+나뿐인 사람을 찾고 울고
+그 울던 아인 자라 
+못된 사람으로 살고 울고
+그땐 그랬지만 이젠 숨고 살어
+별명 My life is 존버
+뉴스는 매일 탑을 찍네
+못 봐 댓글은 내 피로 범벅
+
+정신병이 너무 많아 
+내 머릿속엔 한가득
+요새 말 요새 리듬 너무 빨라 
+난 느리거든
+
+사랑한단 그 말이 더 듣고 싶어
+혼자서 외치고 되묻던
+그대의 미소 눈물을 만지며
+말해 그대가 있음에
+또 다른 행복에 시작
+
+열등감만 찌들어 갈 바엔
+그냥 Bye Bye Bye
+암담한 시선으로 볼 바엔
+그냥 Bye Bye Bye
+사람들이 말해
+부질없는 일에 
+시간 버리는 놈은 되지 말라고
+모두들 야속해 남이 가진 기쁨을 보고
+손가락질하는 모습도
+
+아침보다 밤이 더
+어울려 익숙한 패턴
+잦은 술자리에 불러도
+작업실에 그냥 갇혀 살아 나
+Happiness ain’t too far
+아마 햇빛은 또 뜰까
+무대 위가 그리워
+무대 위가 그리워
+
+정신병이 너무 많아
+내 머릿속엔 한가득
+요새 말 요새 리듬은
+너무 빨라 난 느리거든
+
+사랑한단 그 말이 더 듣고 싶어
+혼자서 외치고 되묻던
+그대의 미소 눈물을 만지며
+말해 그대가 있음에
+또 다른 행복에 시작
+
+난 너에게 갈게
+더 빠르게 뛰는 심장
+내 마음이 벅차서
+내 생애 가장 소중한 행복한 눈물
+
+난 누군가에게는 재앙이고
+누군가에게는 영웅
+사계절이 또 뭐야?
+그저 기다렸지 난 봄을
+누군가에게는 재앙이고
+누군가에게는 영웅
+또 누군가에게는 친구
+또 누군가에게는 등신이야
+난 누군가에게는 재앙이고
+누군가에게는 영웅
+사계절이 또 뭐야?
+그저 기다렸지 난 봄을
+누군가에게는 재앙이고
+누군가에게는 영웅
+또 누군가에게는 친구
+또 누군가에게는 등신이야
+ 
+사랑한단 그 말이 더 듣고 싶어
+혼자서 외치고 되묻던
+그대의 미소 눈물을 만지며
+말해 그대가 있음에
+또 다른 행복에 시작
+
+내가 더 잘 사는 게 복수래
+미안 그 말에 동의할 수가 없네
+터무니없어 그런 말 보통
+그럼 내가 누구를 안아줘야 해
+
+그대의 미소 눈물을 만지며
+말해 그대가 있음에
+또 다른 행복에 시작",0
+115,넌 나의 전부 (I can`t take my eyes off you),임한별,넌 나의 전부/고백하러 가는 길,66,"너무나도 소중한<br/>해맑은 너의 미소를 기억해<br/>You are the only one of mine<br/>세상을 준대도 너야<br/>달빛 가득 내리는 이 밤에<br/>널 품에 안고서<br/>두 눈에 가득 담아<br/>이대로 모든게 멈췄으면<br/>이 밤을 삼킨 저 별처럼<br/>넌 나의 전부<br/>I can’t take my eyes off you<br/>넌 나의 모든 이유 내 삶의 노래<br/>그렇게 니가 나에게 기적이듯<br/>난 너에게 기쁨이 될게<br/>너와 나의 내일에 내일을 모두 더해<br/>I’ll promise you<br/>네게 영원을 약속해<br/>넘치게 나를 찾아와준<br/>니가 고마워<br/>밤새 너를 꿈속에 그리다<br/>잠결에 눈을 떠<br/>두 팔로 가득 안아<br/>너란 빛으로 나를 채울게<br/>니가 더 밝게 빛나도록<br/>넌 나의 전부<br/>I can’t take my eyes off you<br/>넌 나의 모든 이유 내 삶의 노래<br/>그렇게 니가 나에게 기적이듯<br/>난 너에게 기쁨이 될게<br/>너와 나의 내일에 내일을 모두 더해<br/>I’ll promise you<br/>네게 영원을 약속해<br/>넘치게 나를 찾아와준<br/>니가 고마워<br/>너를 만난 이후로<br/>내 모든게 너로 물들어가<br/>온통 너로 말야<br/>I can’t take my eyes off you<br/>넌 나의 모든 이유 내 삶의 노래<br/>그렇게 니가 나에게 기적이듯<br/>난 너에게 기쁨이 될게<br/>너와 나의 내일에 내일을 모두 더해<br/>I’ll promise you<br/>네게 영원을 약속해<br/>넘치게 나를 찾아와준<br/>니가 고마워<br/>벅차게 너를 사랑할게<br/>
+",0
+116,맵고짜고단거 (Feat. 페노메코),다이나믹 듀오,OFF DUTY,63,"요즘엔 몇 가지 재미밖에 없네
+알콜 카페인 소금 설탕 
+해가 질 때만 되면 땡기네
+취기와 탄수화물 열량
+벌주고 병 주고 약 주는 게 
+이 도시가 만든 닭장
+오늘 밤도 결국엔 안주와 
+약 주고 탈탈 비우고 빈병 주는 거
+하루에 반 이상 money on my mind
+스토킹 바로 직전의 짝사랑
+평생 상견례 할 일 없어 너와 난
+픽은 신사임당 그걸 관음 하는 환자
+
+선동 분열 폭력 젠더 이슈
+여야 나눠 남녀 서로 갈굼
+탈출하고파 이 불바다를
+구명조끼는 유튜브로
+밤 되면 동공 키우는 부엉이들
+얼굴과 배에 소금 부자 부었지들
+게임이나 하다가
+뭣 좀 먹으러 갈까
+헛짓거리 하다 물린다고
+손 조심해 손 가만둬 손
+우리끼리 술잔이나 굴리자고
+아씨 끊었는데 한 대만 줘 봐
+
+오늘 밤도 맵고짜고단거
+기왕이면 맵고짜고단거
+맵고짜고단거
+기왕이면 맵고짜고단거
+Give me that give me that give me that
+
+낭만은 가고 쾌락만 남았지
+의미는 가고 껍질만 남았지
+향기는 날아가고 자극만 남았지
+다 막히고 뚫린 게 입이라 자극만 탐하지
+더 맵게 더 짜게 좀 더 달콤하게
+뻘뻘 땀을 흘리면서 먹을 때
+비로소 나는 무료함의 벽을 깨
+자극적인 맛들 입속에서 섞을 때
+내 침샘은 폭발해 짜릿하게 혼나네
+(음.. 그만해 살찌는 건 곤란해
+다들 잘 알잖아 돼지는 폼 안 나네)
+야 미쳤어? 너 지금 장난해?
+이 퍽퍽한 세상 먹을 때만 살만해
+주식했다 물리고 사기로 뜯기고 하느니
+차라리 맛난 거 먹고 배나 불리고
+너무 쏟아지니 무비고 뮤비고 하는 것도
+이젠 위로 아닌 피로 역시 답은 술이여
+왜 자꾸 머리 아프게 편가르고 나누고 
+서로를 지지고 볶아
+가운데서 보는 나는 지치고 속 타서
+맛있는 안주나 지지고 볶아
+
+맵고짜고단거
+맵고짜고단거
+맵고짜고단거
+맵고짜고단거
+
+내 말이 넌 들리기나 할런지
+남이사 내 편 아님 안 들어
+허구언 날 시시콜콜 이슈 퍼나르기 바뻐
+우리 코난들
+돌아와 주세요 솔로몬 판사님
+쟤네들이 절 가만 안 둬요
+역시는 역시 낮과 밤도
+구별이 안 가는 여기는 한반도
+간이 좀 짠 게 좋아 상관 말고 
+안줏거리라도 만들어 봐 브라더
+4K 티비 시대에도 흑백색 빼곤 안 보여
+삿대질로 버튼을 누른 뒤
+사라지면 맵고짜고단거 나오는 자판기
+건강 좀 나빠지면 어때요
+이게 대세래 요즘엔 없어서 난리
+
+밤마다 밤마다
+국밥에 밥 말아
+배가 좀 부르다면
+소화나 시키러 가자
+Fuck up great hunger
+너가 걍 매일 하던 거
+힘 좀 빼고 살자
+먹다가 배부르고 지치면 남겨
+맵고짜고단거
+웬만하면 맵고짜고단거
+이왕이면 맵고짜고단거
+웬만하면 맵고짜고단거
+Give me that give me that give me that",0
+117,이별은 늘 그렇게 (Duet. 정은지),허각,이별은 늘 그렇게,61,"눈부시게 눈물겹게 사랑했던<br/>그날들이 그 꿈들이 멀어져 가<br/>모자람이 없던 사랑도 메마르고<br/>결국 우린 이렇게 마주했어<br/>우릴 스쳐 가는<br/>저기 멀어진 바람처럼<br/>그저 보내주면 돼<br/>그렇게 조금씩 잊혀져 가<br/>그러다 조금씩 바래져 가<br/>이별이 원래 그런 거잖아<br/>그렇게 아프다 말다 괜찮아져 또<br/>보고 싶단 생각조차 사라져<br/>사실 울고 싶어<br/>이미 늦어 버린 걸 알아<br/>괜찮은 척하는걸<br/>그렇게 조금씩 잊혀져 가<br/>그러다 조금씩 바래져 가<br/>이별이 원래 그런 거잖아<br/>그렇게 아프다 말다 괜찮아져 또<br/>보고 싶단 생각조차 사라져<br/>슬퍼 보이는 게 싫어서<br/>덤덤한 척하며 이렇게 보낼게 Uh<br/>그냥 널 보고 싶어<br/>미워도 그렇게 왜 말 못 했어<br/>몰라 왜 우리 이렇게 됐는지<br/>감추지 않았더라면 달랐을까 넌<br/>어땠을까 이제 그만 널 보내야만 해<br/>조금만 천천히 잊어갈게<br/>가끔씩 네 생각 떠올릴게 그래<br/>원래 그런 거잖아<br/>그렇게 아프다 말다 괜찮아져 또<br/>보고 싶단 생각조차 사라져<br/>그래 그렇게 잊어가<br/>
+",0
+118,FLOWER SHOWER,현아,FLOWER SHOWER,58,"I just wanna be your flower
+새빨개요 난
+향기로운 향기로 벌떼들이 꼬여
+혹 시들어도 don't you worry
+다시 피잖아
+피어나는 내 color 시선들이 모여
+빤히 나를 바라봐 그런 관심이 난
+싫지 않아 싫지 않아 eh eh
+다시 피어나는 꽃
+Just gotta let it go OK
+Can you hear me now
+이제 꽃길로 나 걸어갈 거야
+그래 꽃들로 샤워할 거야
+Take a flower shower
+(Woo hoo woo hoo)
+쏟아지는 flower
+Sing it sing it babe
+Wing it wing it babe
+Bring it bring it babe
+꽃향기가 나네 eh eh
+Like doomda doomda
+Like doomda doomda
+Imma be forever young 새파래요 난
+봄이 오면 Get Set Go 새로 피어나요
+서두르지 마 계절처럼 돌아오잖아
+머리부터 발끝까지 현아는 빨개요
+날 좀 내버려 둬봐 마음에 없는 말
+Give me your like
+Give me your like eh eh
+장미꽃이잖아 feel이 꽂히잖아 OK
+Let's sing this song
+이제 꽃길로 나 걸어갈 거야
+그래 꽃들로 샤워할 거야
+Take a flower shower
+(Woo hoo woo hoo)
+쏟아지는 flower
+Sing it sing it babe
+Wing it wing it babe
+Bring it bring it babe
+꽃향기가 나네 eh eh
+영원할 거라 믿어 어느 날의 꽃처럼
+우리는 왜 모르는 걸까
+아님 모른 체하는 걸까 eh eh
+질 때 지더라도 활짝 필래
+하늘 하늘 하늘에 날리네
+Never give up
+And I say never say never ooh
+Take a flower shower
+쏟아지는 flower
+Sing it sing it babe
+Wing it wing it babe
+Bring it bring it babe
+꽃향기가 나네 eh eh",0
+119,노래방에서,장범준,장범준 3집,58,"나는 사랑이 어떻게 이뤄지는 지 연구 했지
+여러가지 상황의 수를 계산 해 봤지
+그땐 내가 좀 못 생겨서 흑흑
+니가 좋아하는 노랠 알아내는 것은 필수
+가성이 많이 들어가서 마이크 조절이 
+굉장히 조심스러웠었지
+
+그렇게 노래방으로 가서 
+그녀가 좋아하는 노랠해
+무심한 척 준비안한 척 노랠 불렀네 어어
+그렇게 내가 노랠 부른뒤 
+그녀의 반응을 상상하고
+좀더 잘 불러볼걸 노랠 흥얼 거렸네
+
+사랑때문에 노랠 연습하는 건 자연의 이치
+날으는 새들도 모두 사랑노래 부르는 게 
+뭔가 가능성만 열어 준다면
+근데 그년 남자친구가 있었지 그것은 내 실수
+그 후로 혼자 노래방에서 복잡한 맘을 달랬네
+몇 달을 혼자 노래방에 갔는지
+
+그렇게 노래방이 취미가 되고 
+그녀가 좋아하는 노랠해
+괜찮은 척 안슬픈 척 노랠 불렀네 어어
+그렇게 내가 노랠 부른뒤 
+우연히 집에 가려 하는데
+갑자기 그녀가 노래방에 가자 하네
+
+그렇게 나는 그녀를 따라 걸어보지만
+괜찮은 척 사실 난 너무 많이 떨려요
+그녀 아무렇지 않아도 
+나는 아무렇지 않지 않아요
+근데 그녀는 나를 바라보고는 
+자기도 지금 아무 렇지 않지 않대요 
+무슨 말이 냐고 물어보네
+
+그렇게 노래방을 나오고 
+그녀를 집에 데려다 준뒤
+무슨일 인가 괜찮은 건가 멍해 버렸네 어어
+핸드폰도 없는 늦은 새벽 집에서 
+계속 잠은 안오고
+그녀가 좋아하던 노랠 흥얼 거렸네.        
+그녀가 좋아하던 노랠 흥얼 거렸네.",0
+120,우리 왜 헤어져야 해,신예영,우리 왜 헤어져야 해,56,"이런 말 하기까지가 참 어려워서<br/>그대를 보낼 준비가<br/>되질 않아서<br/>아프고 또 아파서<br/>이젠 무뎌진 걸까<br/>나의 욕심인가 봐<br/>서운한 말을 하는 게<br/>너무 미안했어<br/>그토록 바라고 또<br/>바랬던 서롤 볼 수 없을까 봐<br/>그랬나 봐 내가<br/>헤어지고 나서야 궁금해진 말<br/>우리 왜 헤어져야 해<br/>혹시 내가 잘못 한 게 있다면<br/>한 번 더 내게 기회를 준다면<br/>내가 더 노력할게<br/>네가 싫어하던 행동도<br/>다신 하지 않을게<br/>돌아와 나를 꼭 안아줘<br/>마음이 변한 거라면<br/>솔직했음 해<br/>내가 좀 구차해지면<br/>다 잊혀질까<br/>널 다시 외면하고<br/>지낼 수 있을까<br/>원래 없었던 것처럼 나 정말<br/>나는 헤어지기 싫어<br/>네가 너무 보고파<br/>네가 자꾸 생각나<br/>내게 돌아와 줘<br/>그때 널 붙잡지 못했던<br/>나를 용서한다면<br/>돌아와 나를 꼭 안아줘<br/>많이 사랑하나 봐<br/>비참해진 나지만<br/>이렇게라도 해서 널<br/>다시 만날 수 있게 되면<br/>너무 밉다고 그냥 네게 안겨서<br/>왜 이제서야 돌아왔냐고<br/>울고불고 소리칠 텐데<br/>나는 헤어지기 싫어<br/>하고 싶은 말이 많은데<br/>혼자 두고 가지 말라고<br/>네 손을 붙잡아도<br/>끝을 혼자 정해버리고<br/>왜 날 두고 떠나가<br/>다신 보지도 않을 사람처럼<br/>아직 헤어지기 싫어<br/>네가 아직 좋아서<br/>찢어질 듯 아파와<br/>그런 말 하지 마<br/>내가 잘못 한 게 있다면<br/>내가 미안하다고<br/>제발 날 떠나지 말아 줘<br/>
+",0
+121,이별행동,이우,이별행동,55,"자꾸만 연락을 피하고 <br/>바쁘다며 약속을 미루고<br/>점점 변해가는 네 모습 무심한 말투 <br/>조금씩 넌 반대로 가고 있어<br/>다급했던 이별의 순간들 <br/>아직도 난 거짓말 같아서<br/>아름답게 웃던 네 모습 <br/>볼 수 없다고 생각하면 <br/>미칠 듯 아픈데 자꾸만 생각이나<br/>너무나도 사랑했었고 <br/>그런 내겐 전부였는데 <br/>이젠 너와 난 반대로 살고 있나 봐 <br/>사랑해 너밖에 없단 말 <br/>그 말 너무나도 그리워서 <br/>너를 보낼 수가 없나 봐 너를<br/>저 멀리 보이는 네 모습 <br/>웃고 있는 넌 잘 지냈나 봐<br/>찾아가지 말걸 그랬어 <br/>믿고 싶었는데 <br/>영화 같은 일 내겐 없나 봐 <br/>나를 다 잊은 거니<br/>너무나도 사랑했었고 <br/>그런 내겐 전부였는데 <br/>이젠 너와 난 반대로 살고 있나 봐 <br/>사랑해 너밖에 없단 말 <br/>그 말 너무나도 그리워서 <br/>너를 보낼 수가 없나 봐 <br/>행복해 보여 나 없이도 잘 지내는데 <br/>어떻게 난 널 잊고 살 수 있을까<br/>웃으며 내 품에 안긴 너 <br/>너의 모습이 죽을 만큼 그리워서 <br/>보낼 수가 없잖아 너를<br/>
+",0
+122,IDOL,방탄소년단,LOVE YOURSELF 結 `Answer`,53,"You can call me artist<br/>You can call me idol<br/>아님 어떤 다른 뭐라 해도<br/>I don't care<br/>I'm proud of it<br/>난 자유롭네<br/>No more irony<br/>나는 항상 나였기에<br/>손가락질 해 <br/>나는 전혀 신경 쓰지 않네<br/>나를 욕하는 <br/>너의 그 이유가 뭐든 간에<br/>I know what I am<br/>I know what I want<br/>I never gon' change<br/>I never gon' trade<br/>Trade off<br/>뭘 어쩌고 저쩌고 떠들어대셔<br/>I do what I do <br/>그니까 넌 너나 잘하셔<br/>You can't stop me lovin' myself<br/>얼쑤 좋다<br/>You can't stop me lovin' myself<br/>지화자 좋다<br/>You can't stop me lovin' myself<br/>OHOHOHOH<br/>OHOHOHOHOHOH<br/>OHOHOHOH<br/>덩기덕 쿵더러러 <br/>얼쑤<br/>OHOHOHOH<br/>OHOHOHOHOHOH<br/>OHOHOHOH<br/>덩기덕 쿵더러러 <br/>얼쑤<br/>Face off 마치 오우삼 ay<br/>Top star with that spotlight ay<br/>때론 슈퍼히어로가 돼<br/>돌려대 너의 Anpanman<br/>24시간이 적지<br/>헷갈림 내겐 사치 <br/>I do my thang<br/>I love myself<br/>I love myself I love my fans<br/>Love my dance and my what<br/>내 속안엔 <br/>몇 십 몇 백명의 내가 있어<br/>오늘 또 다른 날 맞이해<br/>어차피 전부 다 나이기에<br/>고민보다는 걍 달리네<br/>Runnin' man<br/>Runnin' man<br/>Runnin' man<br/>뭘 어쩌고 저쩌고 떠들어대셔<br/>I do what I do <br/>그니까 넌 너나 잘하셔<br/>You can't stop me lovin' myself<br/>얼쑤 좋다<br/>You can't stop me lovin' myself<br/>지화자 좋다<br/>You can't stop me lovin' myself<br/>OHOHOHOH<br/>OHOHOHOHOHOH<br/>OHOHOHOH<br/>덩기덕 쿵더러러<br/>얼쑤<br/>OHOHOHOH<br/>OHOHOHOHOHOH<br/>OHOHOHOH<br/>덩기덕 쿵더러러<br/>얼쑤<br/>I'm so fine wherever I go<br/>가끔 멀리 돌아가도<br/>It's okay <br/>I'm in love with my-my myself<br/>It's okay <br/>난 이 순간 행복해<br/>얼쑤 좋다<br/>You can't stop me lovin' myself<br/>지화자 좋다<br/>You can't stop me lovin' myself<br/>OHOHOHOH<br/>OHOHOHOHOHOH<br/>OHOHOHOH<br/>덩기덕 쿵더러러 <br/>얼쑤<br/>OHOHOHOH<br/>OHOHOHOHOHOH<br/>OHOHOHOH<br/>덩기덕 쿵더러러<br/>얼쑤<br/>
+",0
+123,All Falls Down (Feat. Noah Cyrus & Digital Farm Animals),Alan Walker,Different World,52,"What's the trick?
+I wish I knew
+I'm so done with thinking through
+all the things I could've been
+And I know you wonder too
+All it takes is that one look you do
+and I run right back to you
+You crossed the line
+and it's time to say ＂F you＂
+
+What's the point in saying that
+when you know how I'll react?
+You think you can
+just take it back,
+but shit just don't work like that
+You're the drug that I'm addicted to,
+and I want you so bad
+Guess I'm stuck with you,
+and that's that
+
+'Cause when it
+all falls down, then whatever
+When it don't work out for the better
+If it just ain't right,
+and it's time to say goodbye
+When it all falls down,
+when it all falls down
+I'll be fine, I'll be fine
+You're the drug that I'm addicted to
+And I want you so bad,
+but I'll be fine
+
+Why we fight?
+I don't know
+We say what hurts the most
+Oh, I try staying cold,
+but you take it personal
+All these firing shots
+and making ground
+It's way too hard to cope,
+but I still can't let you go
+
+'Cause when it
+all falls down, then whatever
+When it don't work out for the better
+If it just ain't right,
+and it's time to say goodbye
+When it all falls down,
+when it all falls down
+I'll be fine, I'll be fine
+You're the drug that I'm addicted to
+And I want you so bad,
+but I'll be fine
+
+I'll be fine-ine-fine, fine-ine-ine
+(All falls down, falling down)
+I'll be fine-ine-fine, fine-ine-ine
+(All falls down)
+I'll be fine-ine-fine, fine-ine-ine
+(All falls down, falling down)
+I'll be fine-ine-fine, fine
+(All falls down)
+
+'Cause when it
+all falls down, then whatever
+(Then whatever, babe)
+When it don't work out
+for the better (For the better)
+If we just ain't right,
+and it's time to say goodbye
+When it all falls down
+(When it all, when it all)
+When it all falls down
+(When it all falls down)
+I'll be fine (Fine, fine, fine),
+I'll be fine (I'll be fine)
+You're the drug that I'm addicted to
+And I want you so bad,
+but I'll be fine (I'll be fine),
+and that's that",0
+124,이상한 사람,존 박(John Park),동백꽃 필 무렵 (KBS2 수목드라마) OST - Part.1,51,"잊으려고 애써왔던 것들
+잊고 살아왔던 말들
+소용없다 믿던 것들
+너무 많은데
+그댄 그런 모든 걸 
+한가득 안고서
+나를 보며 웃고 있어
+그댄 나를 또 한 번
+설레게 만드는
+이상한 사람
+
+내가 알던 세상은 모든 게
+어려웠는데 
+몰랐었던 모든 곳이
+아름다웠다
+그댄 그런 모든 걸 
+한가득 안고서
+나를 보며 웃고 있어요
+그댄 나를 또 한 번 
+설레게 만드는
+이상한 사람
+
+우리 둘은
+얼마나 오래 
+같이 걷게 될까
+이런 것이 궁금해지면 
+사랑인걸까
+
+그댄 나를 또 한 번 
+긴 꿈을 꾸게 해
+안 다쳤던 어린 날처럼
+조심스레 또 한 번 
+설레이는 맘이
+사랑인가 봐
+
+그댄 나를 또 한 번 
+긴 꿈을 꾸게 해
+안 다쳤던 어린 날처럼
+조심스레 또 한 번 
+설레이는 맘이
+사랑인가 봐 
+사랑인가 봐",0
+125,다시 만날까 봐,V.O.S.,다시 만날까 봐,50,"인스타로 몰래 보는 너의 하루들
+누가 봐도 헤어진 티를 내
+팔로우 다 끊고서 좋아요는 왜 눌렀니
+참 바보 같은 사람이야
+
+잘 먹지도 못하는 술은 왜 매일 마시고
+늘 예쁜 얼굴 많이 야위었어
+
+혼자 있으면 나도 그래
+술이 없으면 못 자고 많이 괴로워해
+이럴 거면 우리 미친 척하고 다시 만날까 봐
+다시 시작할까 봐
+
+친구들 만나는 거 그렇게 좋아하면서
+집에만 있니 더 우울하게
+
+혼자 있으면 나도 그래
+누구도 만나기 싫어 숨고만 싶은데
+이럴 거면 우리 미친 척하고 다시 만날까 봐
+다시 시작할까 봐
+
+못 잊을 거야 너와 추억한 지난날들을
+난 아직까지도 너무나 선명해
+그렇게 선명한 만큼 지키고픈 우리 기억들이
+잊혀지는 게 정말 많이 두려워
+
+혼자 있으면 나도 그래
+늘 혼자 센척했지만 많이 두려워해
+이럴 거면 우리 미친 척하고 다시 만날까 봐
+다시 시작할까 봐
+
+우리 여기서 끝나면 안 돼",0
+126,On My Way,Alan Walker & Sabrina Carpenter & Farruko,On My Way,49,"I'm sorry but
+Don't wanna talk
+I need a moment before I go
+It's nothing personal
+
+I draw the blinds
+They don't need to see me cry
+'Cause even if they understand
+They don't understand
+
+So then when I'm finished
+I'm all 'bout my business
+And ready to save the world
+I'm taking my misery
+Make it my bitch
+Can't be everyone's favorite girl
+
+So take aim and fire away
+I've never been so wide awake
+No, nobody but me can keep me safe
+And I'm on my way
+The blood moon is on the rise
+The fire burning in my eyes
+No, nobody but me can keep me safe
+And I'm on my way
+
+(Ya, ya)
+(Farru, yeah, guaya)
+Lo siento mucho (Farru), pero me voy (Eh)
+Porque a tu lado me di
+cuenta que nada soy (Eh-ey)
+Y me canse de luchar
+y de guerrear en vano
+De estar en la linea de fuego
+y de meter la mano
+Acepto mis errore', tambien soy humano
+Y tu no ve' que lo hago
+porque te amo (Pum-pum-pum-pum)
+
+Pero ya (Ya)
+no tengo mas na' que hacer aqui (Aqui)
+Me voy, llego la hora 'e partir (Partir)
+De mi propio camino, seguir lejos de ti
+
+So take aim and fire away
+I've never been so wide awake
+No, nobody but me can keep me safe
+And I'm on my way
+The blood moon is on the rise 
+(Is on the rise, na-na)
+The fire burning in my eyes 
+(The fire burning in my eyes)
+No, nobody but me can keep me safe
+And I'm on my way
+
+(I'm on my way)
+
+Everybody, everybody keep me safe
+Everybody, everybody keep me safe
+Everybody, everybody keep me safe
+Everybody, everybody on my way
+
+So take aim and fire away
+I've never been so wide awake
+No, nobody but me can keep me safe
+And I'm on my way
+The blood moon is on the rise
+The fire burning in my eyes
+No, nobody but me can keep me safe
+And I'm on my way",0
+127,안녕이라는 말,송이한,안녕이라는 말,48,"내게 손을 내밀어 같이 걷잔 너<br/>내가 발이 느려도<br/>매번 기다려준 너를<br/>지금은 내가 먼저 잡으려 해도<br/>너무 늦어버려서<br/>다시 잡을 수 없어서<br/>이젠 볼 수 없다는 게 난<br/>믿기지가 않아서<br/>하루도 견딜 수 없어<br/>안녕이라는 말로 다가온 네가<br/>안녕이라는 말로 떠나간다면<br/>오직 너만이 모르던 나는<br/>이젠 아무것도<br/>할 수가 없는 내가 되는 걸<br/>익숙했던 따뜻한 너의 품도<br/>잊혀지기에는 아직 이른걸<br/>안녕이라는 말로 다가온 네가<br/>안녕이라는 말로 떠나간다면<br/>오직 너만이 모르던 나는<br/>이젠 아무것도<br/>할 수가 없는 내가 되는 걸<br/>언젠가 잊을 수만 있다면<br/>지금부터라도 더 노력해볼게<br/>널 이제 사랑할 수 없는 거라면<br/>널 이제 떠나보내야만 한다면<br/>오직 너만이 모르던 나를<br/>위해 남겨둔 기억들도<br/>모두 다 가져가 줘<br/>이젠<br/>
+",0
+128,When I Am Older,Josh Gad(조쉬 개드),Frozen 2 (겨울왕국 2 OST),48,"What was that? Samantha?
+This will all make sense when I am older
+Someday I will see that this makes sense
+One day when I'm old and wise
+I'll think back and realize
+That these were all completely normal events
+Ah
+I'll have all the answers when I'm older
+Like why we're in this dark enchanted wood
+I know in a couple years
+These will seems like childish fears
+And so I know this isn't bad it's good
+Excuse me
+Growing up means adapting
+Puzzling at your world and your place
+When I'm more mature
+I'll feel totally secure
+Being watched by something
+With a creepy creepy face
+Ahhhhh ahhhhh
+See that will all make sense when I am older
+So there's no need to be terrified or tense
+I'll just dream about a time
+When I'm in my age of prime
+'Cause when you're older
+Absolutely everything makes sense
+This is fine",0
+129,눈치,폴킴(Paul Kim),유플래쉬,47,"내 얘기 좀 들어 봐
+
+난 말야
+어릴 적 친구들이 하는 말들에 
+너무 관심을 둬서 너무 휘둘렸어
+(내 삶의 주인공은 나니까)
+지나가던 사람들
+의미 없이 던지는 말들에 또  
+상처받고 힘들어했지 Uh
+(내 삶의 주인공은 나니까)
+끝없이 날아오는 화살들을
+여태 요리조리 피해
+(Ddu du ddu du ddup ddu du)
+잘 지내왔는데
+무슨 말을 해도
+아무 소용 없는 것 같아
+무슨 말을 해도
+들리지가 않는 것 같아
+하고 싶은 것도 가고 싶은 곳도 
+아직 너무 많은데
+왜 자꾸 안 된다고만 하니 
+
+또 눈치 보지 난
+아무 말도 못 하고
+들리지 않는 내 목소리
+시간은 자꾸만 가고
+아직 보고 있어 네 눈치
+
+Yeah 너를 너무 사랑해서
+모두 네게 맞춰주고팠어
+I can do anything 문자 봤어?
+폰도 보기 힘들겠지 바빠서 Yeah
+방해될까 봐 귀찮을까 봐 음
+혹시 잘까 봐 그럼 깰까 봐 Yeah
+이런 날 알면 답답할까 봐
+눈치만 보다가
+이 밤이 지나간다
+너무 보고 싶어
+지금 너를 봐야 할 것 같아
+전화기를 들어
+너의 번호를 누를까 말까
+제발 눈치 없이
+누군가 내 폰 좀 뺏어가서
+통화 버튼을 대신
+눌러주면 좋겠어 
+
+또 눈치 보지 난
+아무 말도 못 하고 
+들리지 않는 내 목소리 
+시간은 자꾸만 가고 
+아직 보고 있어 네 눈치
+
+Don’t worry 솔직해도 돼
+내가 뭘 잘못한 건지
+내게 되묻고 있어 왜
+꼬던 다릴 풀지 않아도 돼
+네 말투도 굳이 안 바꿔도 돼 Yeah
+다혜야 눈치 보지 마 
+너무 사랑스러우니까 
+솔직한 니 모습을 보여줘 Yeah
+솔직한 니 마음을 보여줘
+
+더 눈치 보지 마
+커져가는 마음처럼
+더욱 가까워지는 우리
+시간은 깊어만 가고
+다시 보고 있어
+눈치 보지 마
+커져가는 마음처럼
+더욱 가까워지는 우리
+시간은 깊어만 가고
+난 또 보고 있어 네 눈치",0
+130,+DONE161201+,CL,사랑의 이름으로,46,"I don't want you back
+돌아오지 마 정신 차릴래
+우린 끝났잖아
+너를 위해 흘려준 눈물
+내가 주는 마지막 선물
+벌써 엎질러진 물이야
+지금부터 지저분해질 뿐이야
+넌 내가 밉겠지만
+날 잊을 수 없겠지만 워
+이미 기회를 놓쳤어
+너 같은 놈은 깔렸어
+이제 연락하지 마
+찾아오지도 마
+나를 떠난 건
+Baby boy 너였잖아
+제발 연락하지 마
+전화 좀 하지 마
+후회할 거라
+내가 말했었잖아 바보
+오에오에오
+I'm done with you
+오에오에오
+I'm done with you
+오에오에오
+I'm done with you
+오에오에오
+나와의 추억 소문 내지 마
+남은 좋은 기억도 사라지잖아
+너를 위해 흘려준 눈물
+내가 주는 마지막 선물
+벌써 엎질러진 물이야
+지금부터 지저분해질 뿐이야
+넌 내가 밉겠지만
+날 잊을 수 없겠지만 워
+이미 기회를 놓쳤어
+너 같은 놈은 깔렸어
+이제 연락하지 마
+찾아오지도 마
+나를 떠난 건
+Baby boy 너였잖아
+제발 연락하지 마
+전화 좀 하지 마
+후회할 거라
+내가 말했었잖아 바보
+오에오에오
+I'm done with you
+오에오에오
+I'm done with you
+오에오에오
+I'm done with you
+오에오에오
+If my number on your phone
+Then please just lose it whoa
+바뀐다니 내가 바보 같니
+차라리 번호를 바꾸지 워
+이미 오래전 나도 버린 날
+찾아 넌 누구니 워
+You like this ya boo you know
+Who you know
+No click whoa
+No time in my day
+넌 갑자기 말이 많네
+말이나 돼
+You counting on me
+집에 가 혼자서 밤이나 새
+아무리 고민해봐도
+I don't ever wanna think about you
+Matter fact that's the last word
+That I ever gonna sing about you
+I'm done
+이제 연락하지 마
+찾아오지도 마
+나를 떠난 건
+Baby boy 너였잖아
+제발 연락하지 마
+전화 좀 하지 마
+후회할 거라
+내가 말했었잖아 바보
+오에오에오
+I'm done with you
+오에오에오
+I'm done with you
+오에오에오
+I'm done with you
+오에오에오",0
+131,크리스마스니까,성시경,Jelly Christmas 2012 HEART PROJECT,45,"오늘은 뭔가 좀 다른 기분 Feeling 
+이젠 때가 된 것 같은 느낌 Love U
+하늘에선 마침 눈이 내려 
+Now It's Falling 
+뭔가 잘 될 것 같은 예감
+
+하얀 거리마다 행복해 보이는 연인들 
+니 맘은 어떤지 내 맘과 같은지 
+우리 시작해볼까 
+
+오늘은 괜찮을까요 내 맘이 전해질까요 
+내리는 하얀 눈처럼 너에게 닿을까요 
+
+숨겨왔던 내 맘 전부 고백할게요
+바로 오늘 크리스마스이니까 
+
+사실 그대도 조금은 기댈 했잖아요 
+못 이기는 척 웃는 너 
+그런 니가 사랑스러워 
+
+오늘은 괜찮을까요 내 맘이 전해질까요 
+내리는 하얀 눈처럼 너에게 닿을까요 
+
+숨겨왔던 내 맘 전부 고백할게요
+바로 오늘 크리스마스이니까 
+
+사실 그대도 조금은 기댈 했잖아요 
+못 이기는 척 웃는 너 
+그런 니가 사랑스러워 
+
+많은 사람들 속에 너만 내 눈에 보여
+
+의상 좋고 머리도 괜찮고 
+얼굴 상태 나쁘지 않아
+오늘만 기다렸단 말야 
+눈치껏 눈도 내린단 말야
+또박또박 연습한 멘트 
+뚜벅뚜벅 걷는 발걸음이 
+벌써 네 앞에 도착했어
+올해 크리스마스 선물은 나야 
+귀요미 루돌프 남
+
+오늘이야 메리 크리스마스 
+조금만 더 용길 낼게
+이 순간이 지나버리면 
+널 놓칠지 몰라
+
+진심이 더 진심처럼 느껴지는 게 
+바로 오늘 크리스마스이니까
+
+너와 나 영원히 Christmas Love",0
+132,리베카,김재환,투유프로젝트 - 슈가맨3 EPISODE.2,43,"기약 없이 떠나버린 나의 사랑 리베카
+조각처럼 남아있어 내 가슴 속에 숨 쉬는 너
+이제는 말을 해줘요
+감추인 진실 말을 해봐요
+리베카 나 혼자 간직하고 나 혼자 슬피 울고
+Anyone make it down
+눈물을 멈추리라 나의 사랑 리베카
+눈물을 멈추리라 나의 사랑 리베카 Ye
+Let me stay up and party
+Let me talk to you Babe
+Let me stay up and party 1 2 3
+이제는 말을 해줘요
+감추인 진실 말을 해봐요
+리베카 나 혼자 간직하고 Oh oh oh oh oh
+이제는 말을 해줘요
+감추인 진실 말을 해봐요
+리베카 나 혼자 간직하고 나 혼자 슬피 울고
+Anyone make it down
+눈물을 멈추리라 나의 사랑 리베카
+눈물을 멈추리라 나의 사랑 리베카 Ye
+Let me stay up and party
+Let me talk to you Babe
+Let me stay up and party 1 2 3
+순간 뛰어넘어 네게 가고 싶은 밤
+끝없는 어둠 속 나를 밝혀 주는 너
+깨어나고파 Fantasy 널 불러본다 이 순간
+넌 내게 와줘 나의 품에
+빨리 나타나줘 내 안에 리베카
+두 눈 바라봐줘 내 앞에 리베카
+잡히지 않아 신기루처럼 너는 대체 어디에
+눈물을 멈추리라 나의 사랑 리베카 Ye
+눈물을 멈추리라 나의 사랑 리베카",0
+133,Way Back Home,숀 (SHAUN),Take,42,"멈춘 시간 속
+잠든 너를 찾아가
+아무리 막아도
+결국 너의 곁인 걸
+ 
+길고 긴 여행을 끝내
+이젠 돌아가
+너라는 집으로
+지금 다시
+way back home
+
+아무리 힘껏 닫아도
+다시 열린 서랍 같아
+하늘로 높이 날린 넌
+자꾸 내게 되돌아와
+힘들게 삼킨 이별도
+다 그대로인 걸
+oh oh oh
+ 
+수없이 떠난 길 위에서
+난 너를 발견하고
+비우려 했던 맘은 또
+이렇게 너로 차올라
+ 
+발걸음의 끝에
+늘 니가 부딪혀
+그만
+그만
+
+멈춘 시간 속
+잠든 너를 찾아가
+아무리 막아도
+결국 너의 곁인 걸
+ 
+길고 긴 여행을 끝내
+이젠 돌아가
+너라는 집으로
+지금 다시
+way back home
+
+조용히 잠든 방을 열어
+기억을 꺼내 들어
+부서진 시간 위에서
+선명히 너는 떠올라
+
+길 잃은 맘 속에
+널 가둔 채 살아
+그만
+그만
+
+멈춘 시간 속
+잠든 너를 찾아가
+아무리 막아도
+결국 너의 곁인 걸
+
+길고 긴 여행을 끝내
+이젠 돌아가
+너라는 집으로
+지금 다시
+way back home
+
+세상을 뒤집어
+찾으려 해
+오직 너로 완결된
+이야기를
+모든 걸 잃어도
+난 너 하나면 돼
+
+빛이 다 꺼진 여기
+나를 안아줘
+
+눈을 감으면
+소리 없이 밀려와
+이 마음 그 위로
+넌 또 한 겹 쌓여가
+
+내겐 그 누구도 아닌
+니가 필요해
+돌아와 내 곁에
+그날까지
+I'm not done",0
+134,내 목소리 들리니,벤,호텔 델루나 OST Part.9 (tvN 토일드라마),40,"오랫동안 나는 울고 있어요 
+그대 마음이 보이지 않아서 
+그대 앞에 내가 여기 서있는데
+왜 그대는 날 보지 않나요
+내 목소리 들리니 
+이토록 절실한 내 마음 모르니
+늘 가슴 아파 매일 이렇게
+내 맘에 담아 두고 이렇게 살고 있어 끝내
+난 아무 말도 못하고 살아 
+미친 듯 불러도 대답이 없는 너 
+이렇게 멀리서 지금도 여기서 살아
+ 
+난 아직도 그댈 향해 있어요
+나의 그리움 멈추지 않아서
+언젠가는 날 돌아봐주겠지만 
+이렇게 난 전하고 싶은 말
+ 
+내 목소리 들리니 
+이토록 절실한 내 마음 모르니 
+늘 가슴 아파 매일 이렇게 
+내 맘에 담아 두고 이렇게 살고 있어 끝내
+난 아무 말도 못하고 살아 
+미친 듯 불러도 대답이 없는 너 
+이렇게 멀리서 지금도 여기서 살아
+ 
+늘 가슴 아파 눈물 흘린대도 
+내 마음 너의 자리로
+사랑한다 말하고 
+뒤돌아서는 내 마음을 모르고 
+내 가슴속에 이렇게 살아 
+나 사는 동안 네가 아프게 할걸 알아
+사랑해 눈물로 내가 또 고백하는 말 
+나 여기 있을게 
+나는 또 여기서 늘 항상 여기서 살아",0
+135,Lose You To Love Me,Selena Gomez(셀레나 고메즈),Lose You To Love Me,39,"You promised the world and I fell for it
+I put you first and you adored it
+Set fires to my forest
+And you let it burn
+Sang off key in my chorus
+'Cause it wasn't yours
+I saw the signs and I ignored it
+Rose colored glasses all distorted
+Set fire to my purpose
+And I let it burn
+You got off on the hurtin'
+When it wasn't yours yeah
+We'd always go into it blindly
+I needed to lose you to find me
+This dancing was killing me softly
+I needed to hate you to love me yeah
+To love love yeah
+To love love yeah
+To love yeah
+I needed to lose you to love me yeah
+To love love yeah
+To love love yeah
+To love yeah
+I needed to lose you to love me
+I gave my all and they all know it
+You tore me down and now it's showing
+In two months you replaced us
+Like it was easy
+Made me think I deserved it
+In the thick of healing yeah
+We'd always go into it blindly
+I needed to lose you to find me
+This dancing was killing me softly
+I needed to hate you to love me yeah
+To love love yeah
+To love love yeah
+To love yeah
+I needed to lose you to love me yeah
+To love love yeah
+To love love yeah
+To love yeah
+I needed to lose you to love me
+You promised the world and I fell for it
+I put you first and you adored it
+Set fires to my forest
+And you let it burn
+Sang off key in my chorus
+To love love yeah
+To love love yeah
+To love yeah
+I needed to hate you to love me yeah
+To love love yeah
+To love love yeah
+To love yeah
+I needed to lose you to love me
+To love love yeah
+To love love yeah
+To love yeah
+And now the chapter is closed and done
+To love love yeah
+To love love yeah
+To love yeah
+And now it's goodbye it's goodbye for us",0
+136,나만 아픈 일,이해리 (다비치),나만 아픈 일,38,"멍하니 또 하루 종일
+의미 없는 생각들만 했어
+
+아니라고 아니라고
+헤어지자 말하기가
+이렇게 힘들까
+
+날 사랑하지 않아
+내게 오지 않아
+다 알고 있으면서
+
+하루하루 이별을 늦추면
+
+어차피 나만 가여워지잖아
+달라질 건 없어
+이 순간에도 넌 조금도 
+내 생각 하지 않는 거
+알잖아 이대로는 내가 너에게 우리에게
+좋았던 기억들 못나게 만들 것 같아
+
+오늘은 꼭 말해야 돼
+네가 없는 내 모습이 두려워도
+
+하루만 더 또 하루 더
+이별은 미뤄질 수 없단 걸 알면서도 난
+어차피 나만 가여워지잖아 
+달라질 건 없어
+이 순간에도 넌 조금도 
+내 생각 하지 않는 거
+알잖아 이대로는 
+내가 너에게 우리에게
+좋았던 기억들 못나게 만들 것 같아
+
+이제 말할게 아프게 나 혼자서
+널 기다리지 않겠다고
+
+어차피 내가 사랑했던 
+너는 더는 여기 없어
+이 순간에도 넌 조금도 
+내 생각하지 않잖아
+행복했던 사랑해 말하던
+그 날 우리 그때의 너
+날 안아주던 널 이제서야 보내줄게",0
+137,The Next Right Thing,Kristen Bell(크리스틴 벨),Frozen 2 (겨울왕국 2 OST),36,"I've seen dark before
+But not like this
+This is cold
+This is empty
+This is numb
+The life I knew is over
+The light's are out
+Hello darkness
+I'm ready to succumb
+I follow you around
+I always have
+But you've gone to a place I cannot find
+This grief has a gravity
+It pulls me down
+But a tiny voice whispers in my mind
+You are lost hope is gone
+But you must go on
+And do the next right thing
+Can there be a day beyond this night?
+I don't know anymore what is true
+I can't find my direction I'm all alone
+The only star that guided me was you
+How to rise from the floor
+When it's not you I'm rising for?
+Just do the next right thing
+Take a step step again
+It is all that I can to do
+The next right thing
+I won't look too far ahead
+It's too much for me to take
+But break it down to this next breath
+This next step
+This next choice is one that I can make
+So I'll walk through this night
+Stumbling blindly toward the light
+And do the next right thing
+And with the dawn what comes then?
+When it's clear that everything will
+Never be the same again
+Then I'll make the choice
+To hear that voice
+And do the next right thing",0
+138,비,폴킴,비,36,"/VERSE 1
+비가 내리다 말다
+우산을 챙길까 말까
+tv엔 맑음이라던데
+네 마음도 헷갈리나봐
+
+비가 또 내리다 말다
+하늘도 우울한가봐
+비가 그치고나면
+이번엔 내가 울것만같아
+
+Strumming down to
+my memories
+지직거리는 라디오에선
+또 뻔한 love song
+잊고있던 아픈 설레임
+널 생각나게해
+
+/CHORUS
+우리 걷던 이길위에
+흘러나오던 멜로디 
+흥얼거렸었지 넌 어디있니
+하늘은 이렇게 맑은데
+비에 젖은 내 마음을
+따뜻하게도 비춰주던 너는
+나에게 햇살같아
+그런널 왜 난 보냈을까
+Good bye
+
+/VERSE 2
+So hard to lose
+but easy to repeat
+푹 숙인 얼굴 날 알아봤을까
+I'm losing my breathe
+잊고싶은 아픈 기억들
+날 더 힘들게해
+
+/CHORUS
+시간가는 줄도 모르고
+나눴던 수많은 밤과 사랑노래
+꿈보다 달콤했지
+쉽게 포기한건아닌지
+우연히널 마주친 순간
+내 마음 들킬까봐 뒤돌아섰어
+널 잡았다면
+그런 널 왜 난 보냈을까 
+Good bye
+
+우리 걷던 이길위에
+흘러나오던 멜로디 
+흥얼거렸었지 넌 어디있니
+하늘은 이렇게 맑은데
+비에 젖은 내 마음을
+따뜻하게도 비춰주던 너는
+나에게 햇살같아
+그런널 왜 난 보냈을까
+Good bye",0
+139,Done For Me,펀치 (Punch),호텔 델루나 OST Part.12 (tvN 토일드라마),35,"지울게 너에게 남겨줬던 추억까지도
+바랄게 너와의 기억도 남지 못하게
+더는 다가갈 수 없어 네게
+이런 마음이 너무 두려워
+너의 기억 모두 가져가 줘
+다 지워줘
+done for me
+
+깨끗이 지워질 수 있을까
+널 벗어날 수 있을까
+사랑했던 기억도 다 비워낼 수 있을까
+더 이뤄질 수는 없어
+난 다가갈 수 없어
+미친 듯이 뛰어가
+너 없는 곳에 가
+사랑은 갔고 남겨진 추억들은 아팠고
+
+네가 내게 남겨줬던 기억은 가시가 됐고
+다 사라졌으면 해
+모두 지워졌으면 해
+나 쉴 수 있게 널
+
+떠날게 가질 수 없는 너란 걸 알고 있어
+보낼게 너와의 기억 모두 다 버릴게
+
+더는 다가갈 수 없어 네게
+이런 마음이 너무 두려워
+너의 기억 모두 가져가 줘
+다 지워줘
+done for me
+
+나의 기억에서 떠나가줘
+너의 추억들도 가져가 줘
+지워줘 너의 그리움까지도
+그리워도 그립지는 않게
+모든 순간들을 잊어볼게 다 잊을게
+너의 작은 흔적까지도
+
+지울게 너에게 남겨줬던 추억까지도
+바랄게 너와의 기억도 남지 못하게
+
+더는 다가갈 수 없어 네게
+이런 마음이 너무 두려워
+너의 기억 모두 가져가 줘
+다 지워줘
+done for me
+
+너를 떠날 수밖에
+멀어질 수밖에 없으니까
+이런 나를 제발 용서해줘
+언젠가는 우리 다시 만날 수 있기를
+done for me
+done for me",0
+140,Believer,Imagine Dragons,Believer,34,"First things first
+I'ma say all the words 
+inside my head
+I'm fired up and tired of the way 
+that things have been, oh ooh
+The way that things 
+have been, oh ooh
+Second thing second
+Don't you tell me 
+what you think that I can be
+I'm the one at the sail, 
+I'm the master of my sea, oh ooh
+The master of my sea, oh ooh
+
+I was broken from a young age
+Taking my sulking to the masses
+Write down my poems 
+for the few
+That looked at me, took to me, 
+shook to me, feeling me
+Singing from heartache 
+from the pain
+Taking my message 
+from the veins
+Speaking my lesson 
+from the brain
+Seeing the beauty through the
+
+Pain
+You made me a, 
+you made me a believer, believer
+Pain
+You break me down, 
+you build me up, 
+believer, believer
+Pain
+Oh let the bullets fly, 
+oh let them rain
+My life, my love, my drive, 
+it came from
+Pain 
+You made me a,
+you made me a believer, 
+believer
+
+Third things third
+Send a prayer 
+to the ones up above 
+All the hate that you've heard
+has turned your spirit 
+to a dove, oh ooh
+Your spirit up above, oh ooh
+
+I was choking in the crowd
+Building my rain up in the cloud
+Falling like ashes to the ground
+Hoping my feelings, 
+they would drown
+But they never did, ever lived, 
+ebbing and flowing
+Inhibited, limited
+'Til it broke up and it rained down
+It rained down, like
+
+Pain 
+You made me a, 
+you made me a believer, believer
+Pain 
+You break me down, 
+you built me up, believer, believer
+Pain 
+I let the bullets fly, 
+oh let them rain
+My life, my love, my drive, 
+it came from
+Pain 
+You made me a, 
+you made me a believer, believer
+
+Last things last
+By the grace 
+of the fire and the flames
+You're the face of the future, 
+the blood in my veins, oh ooh
+The blood in my veins, oh ooh
+But they never did, ever lived, 
+ebbing and flowing
+Inhibited, limited
+'Til it broke up and it rained down
+It rained down, like
+
+Pain 
+You made me a, 
+you made me a believer, believer
+Pain 
+You break me down, 
+you built me up, 
+believer, believer
+Pain 
+I let the bullets fly, 
+oh let them rain
+My life, my love, my drive, 
+it came from
+Pain 
+You made me a, 
+you made me a believer, believer",0
+141,술이 문제야,장혜진,술이 문제야,32,"그리워서 한 잔
+생각나서 한 잔
+내 눈물 섞어 한 잔
+또 한 잔 마시다
+우리 옛 추억에 취해
+독한 네 사랑에 취해
+너의 전화 번홀 누르게 돼
+아마 받지 않겠지만
+미안해
+술이 문제야 문제
+자꾸 너를 떠올리게 해
+술이 문제야 문제
+자꾸 네가 생각나게 해
+정말 미친 듯이 보고 싶어 한 잔
+정말 미친 듯이 그리워서 한 잔
+한 잔 두 잔 기울이면
+너의 기억 모두 끊어질까 봐
+술 한잔했어요
+잊어보려 한 잔
+지워보려 한 잔
+내 눈물 섞어 한 잔
+또 한 잔 마시다
+흐릿한 얼굴에 취해
+희미한 기억에 취해
+다시 전화 번홀 누르게 돼
+절대 받지 않겠지만
+미안해
+술이 문제야 문제
+자꾸 너를 떠올리게 해
+술이 문제야 문제
+자꾸 네가 생각나게 해
+정말 미친 듯이 보고 싶어 한 잔
+정말 미친 듯이 그리워서 한 잔
+한 잔 두 잔 기울이면
+너의 기억 모두 끊어질까 봐
+나 맨정신에 살 수 없어서
+술 한잔했어요
+나 제정신에 살 수 없어서
+술 한잔했어요
+딱 한 잔만 딱 한 잔만
+딱 한 잔만 더 마시면
+너 돌아올까 봐
+미안해
+다 내가 문제야 문제
+바보같이 널 또 기다려
+아니야 내가 문제야 문제
+아직까지 너만 사랑해
+정말 보고 싶은 너를 위해 한 잔
+정말 사랑했던 우릴 위해 한 잔
+한 잔 두 잔 기울이면
+너의 기억 모두 끊어질까 봐
+술 한잔했어요",0
+142,가끔 이러다,펀치 (Punch),가끔 이러다,32,"혹시 뭐할까
+기분 탓일까
+오늘따라 네가 그리워지는데
+가끔 이러다 네 생각에 잠 못 드니까
+미련한 상상 밤새 하겠지
+
+슬프다고 괴롭다고
+그렇게 끝이라는걸
+술 한잔에 다 잊혀질까
+사랑은 또 사랑으로
+잊어야 하는 거라면
+이제는 나 그만하고 싶어
+
+사실 난 괜찮지 않아
+널 잊지 못하고
+아직도 너를 기다리고 있어
+
+혹시 뭐할까
+너는 어딜까
+오늘따라 네가 그리워지는데
+가끔 이러다 네 생각에 잠 못 드니까
+미련한 상상 밤새 하겠지
+
+라떼가 좋았던
+너의 집 앞 카페 한 번 더 가봤으면
+
+매일 걷던 이곳 그 가로등 밑에
+너와 입맞춤하던 이 골목
+
+네가 잊혀지지 않아 점점 더 선명해
+아직도 널 잊지 못하고 있어
+
+혹시 뭐할까
+기분 탓일까
+오늘따라 네가 그리워지는데
+가끔 이러다 네 생각에 잠 못 드니까
+미련한 상상 밤새 하겠지
+
+매일 슬픈 노랠 듣곤 해
+네가 제일 좋아하던 노래
+우리 얘기가 되어버렸어
+그럴 줄 모르고
+
+나를 잊었나
+지워버렸나
+우울하게 비는 또 내려오나 봐
+보낼 수 있을까
+시간이 더 지나고 나면
+너를 보기 전 그때가 될까
+나나나나나 나나나나나
+언제쯤이면 너에게서 자유로울까
+오늘도 너를 기다리는 나",0
+143,밤 끝없는 밤,AKMU (악동뮤지션),항해,31,"자도 자도 잠이 와요 끝없이
+지금껏 몇 편의 꿈을 꾸었지
+볼이 퉁 퉁 부어
+초점 없이 앉아있으면
+눈이 다시 감겨요
+몸이 움직이지 않아
+이건 내 의지가 아냐
+내 머릿속에선 부지런히
+할 일을 재촉하는 걸
+오 달콤한 잠
+시끄러운 바깥소리도 내 자장가
+오 밤 끝없는 밤
+눈이 떠지지 않아
+Endless dream good night
+꼭 깨워줘요 영영 내가 눈을 못 뜨면
+속삭여줘요 갑자기 날
+놀래키는 건 하지 말아요
+말이 들리지가 않아
+다른 대답을 하잖아
+내 머릿속에선 은하계가
+몽롱히 떠다니는 걸
+오 달콤한 잠
+시끄러운 바깥소리도 내 자장가
+오 밤 끝없는 밤
+눈이 떠지지 않아
+Endless dream good night
+이러다가 영원한
+꿈을 꾸는 건 아닐까
+오 달콤한 잠
+시끄러운 바깥소리도 내 자장가
+오 밤 끝없는 밤
+눈이 떠지지 않아
+Endless dream good night
+오 밤 끝없는 밤
+눈이 떠지지 않아",0
+144,옥탑방 (Rooftop),엔플라잉 (N.Flying),FLY HIGH PROJECT #2 '옥탑방',31,"너는 별을 보자며 내 몸을 당겨서
+단 한 번에 달빛을 내 눈에 담았어
+Every time I look up in the sky
+근데 단 한 개도 없는 Star
+혼자 두지 않을게
+저 달이 외롭지 않게 해 줘
+
+너는 별을 보자며 내 손을 끌어서
+저녁노을이 진 옥상에 걸터앉아
+Every time I look up in the sky
+근데 단 한 개도 없는 Star
+괜찮아 네가 내 우주고 밝게 빛나 줘
+
+이런 가사 한 마디가 
+널 위로한다면 나 펜을 잡을게
+자극적인 것보다 
+진심만으로 말할 수 있어 All day
+고양이보다 넌 강아지같이 날 기다렸지
+하루 종일 뭐가 그리 슬펐지
+이 별에서 네가 가장 특별해
+너는 그런 거 전혀 몰랐지
+
+You want some more
+왜 자꾸만 널 가두려 하는 건지
+You want some more
+Sky is nothing to believe
+
+너는 별을 보자며 내 손을 끌어서
+저녁노을이 진 옥상에 걸터앉아
+Every time I look up in the sky
+근데 단 한 개도 없는 Star
+괜찮아 네가 내 우주고 밝게 빛나 줘
+
+있잖아 난 네가 아주 가끔씩 
+무겁게 할 때마다 움칫
+널 위로할 손이 난 없네
+지금 난 갈 길을 잃은 별
+날 당기는 힘은 너
+넌 별을 잃은 하늘처럼 떠돌고 다녀
+우리가 지난 길이 별자리처럼 
+나와 너 그 길을 따라서
+날 기억해줘
+
+You want some more
+왜 자꾸만 널 가두려 하는 건지
+You want some more
+Sky is nothing to believe
+
+너는 별을 보자며 내 손을 끌어서
+저녁노을이 진 옥상에 걸터앉아
+Every time I look up in the sky
+근데 단 한 개도 없는 Star
+괜찮아 네가 내 우주고 밝게 빛나 줘
+
+Girl I don’t know why I’m leaving
+Girl I don’t know why
+처음부터 다시 알려 줘
+Girl I don’t know why I’m leaving
+Girl I don’t know why 
+
+너는 별을 보자며 내 손을 끌어서
+저녁노을이 진 옥상에 걸터앉아
+Every time I look up in the sky
+근데 단 한 개도 없는 Star
+괜찮아 네가 내 우주고 밝게 빛나 줘
+
+꼭 닮은 너를 찾아 나섰지
+너를 당겨 보려 해도
+
+Every time I look up in the sky
+근데 단 한 개도 없는 Star
+괜찮아 네가 내 우주고 밝게 빛나 줘",0
+145,빌었어,창모(CHANGMO),Boyhood,30,"옛날 옛날에
+남양주시 와부읍
+덕소리에서 자란 한 소년이 있었어요
+아이는 주머니에 아무것도 없었지만
+어머니의 사랑은 가득해
+항상 웃음 짓던 소년이였죠
+어느 날 그 소년 앞에
+금을 두른 부자가 나타났답니다
+부자는 그에게 물었어요
+너에게 미래를 줄 테니
+지금 이 순간을 나와 바꾸지 않겠니?
+나 평생 꿈만을 꿨죠
+알잖아요 꿈은 안 들잖아 돈
+나 이 순간을 나 평생 떠올렸죠
+친구들이 대학을 갈 때
+난 한강에 가서 술을 마셨네
+되뇌이면서 세상은 날 싫어해
+그렇지 그렇지 그럴만했어
+그때는 몰라 그리고 애써
+알려고 하지도 않잖아
+눈물을 흘렸지 내 방 속에서
+눈물 흘려 여의도에서
+두 눈물 맛이 달라 아
+빌었어
+빌었어 밤마다
+이럴 땐 술김에
+오그라들게
+두 손을 모으고 말야
+빌었어
+빌었어 밤마다
+나 무교잖아
+근데 하늘에다가
+비는 걸 보면 있나 봐
+내 소원을 들어줄 어떤 이
+쌈마이 삶에도 볕들 날
+오긴 하네 젠장 오늘 밤
+제게 말이 안 되는 일이 일어났어요 엄마
+지금 시간은 열두시 반
+작업 실행 막차 끊길 시간
+지금 The Quiett 그분 집 밑에 있어요 엄마
+걸어가도 괜찮을 만한 기분이에요
+여친한테도 전화했네요
+걔 또한 활짝 웃더라구요 저는 울었네요
+표현 안돼요 제 기분이
+엄마 보내줄게 저 먼 Italy
+유유 걱정하지마
+이제 너는 공부만 하면은 돼
+형이 계약금도 준대
+이건 줄래 엄마께
+일단 비밀 아빠껜
+아빠가 시장 사람들에게
+말씀할 수도 있으니까
+일단은 비밀로 햇 쉿
+밥은 잘 챙기니 걱정 마 조만간 덕소 갈게
+Bye mom
+나 평생 꿈만을 꿨죠
+알잖아요 꿈은 안 들잖아 돈
+나 이 순간을 나 평생 떠올렸죠
+친구들이 대학을 갈 때
+난 한강에 가서 술을 마셨네
+되뇌이면서 세상은 날 싫어해
+그렇지 그렇지 그럴만했어
+그때는 몰라 그리고 애써
+알려고 하지도 않잖아
+눈물을 흘렸지 내 방 속에서
+눈물 흘려 여의도에서
+두 눈물 맛이 달라 아
+빌었어
+빌었어 밤마다
+이럴 땐 술김에
+오그라들게
+두 손을 모으고 말야
+빌었어
+빌었어 밤마다
+나 무교잖아
+근데 하늘에다가
+비는 걸 보면 있나 봐
+내 소원을 들어줄 하느님",0
+146,이루리,우주소녀,As You Wish,28,"As you wish
+Everything you wanted
+가벼운 발걸음은
+바람 따라 날아올라
+왠지 예감이 좋은 날 (달콤해 색다른 느낌)
+설레는 맘 가득해 이 순간
+말해줘 다 말해줘 너의 마음 다
+Obliviate 이뤄져
+이제 좋은 일들만 이렇게
+네가 바라는 대로
+느낌이 오는 대로
+전부 들어줄게 Whenever whatever
+네 곁에만 있을게 이대로
+내 이름을 불러줘 Alright
+언제나 너를 만나러 갈 거야 Oh
+별 헤는 아름다운 이 밤
+조금씩 물들어가 벅차올라
+이루어지길 너의 소원 다
+나에겐 말해 들어줄게
+거친 바람에도 흔들리지 않아 손잡아
+이루리 이루리 La
+이루리 이루리 La
+모두 다 이뤄질 거야
+나를 느껴봐 우린 원해 원해 Luv ya
+어둔 밤 속에서 난 빛을 찾을 거야
+이루리 이루리 La
+나를 꺼내줘
+네가 바라는걸 날 위해 말해줘
+어둠 안에서 너를 비춰
+이루리다 Bombarda la ta
+너를 피우리라
+내 맘에
+약속해 이 순간 영원해 이대로
+너를 향해 빛을 내 이렇게
+네가 바라는 대로
+꿈꿔왔던 그대로
+전부 보여줄게 Whenever whatever
+이제 내 곁에만 머물러줘
+지금처럼 나를 바라봐 줘
+언제나 우린 함께 할 거야 Oh
+별 헤는 아름다운 이 밤
+조금씩 물들어가 벅차올라
+이루어지길 너의 소원 다
+나에겐 말해 들어줄게
+거친 바람에도 흔들리지 않아 손잡아
+이루리 이루리 La
+이루리 이루리 La
+모두 다 이뤄질 거야
+나를 느껴봐 우린 원해 원해 Luv ya
+어둔 밤 속에서 난 빛을 찾을 거야
+이루리 이루리 La
+두 번 다시는 오지 않아
+다른 세계로 너를 던져
+더는 망설이지 마 Never
+너의 맘을 내게 보여줘
+나를 믿어 저 하늘 위로 날아올라
+이루리 이루리 La
+또 다른 세계로
+나를 느껴봐 우린 원해 원해 Luv ya
+어둔 밤 속에서 난 빛을 찾을 거야
+이루리 이루리 La
+눈 감아 네게 보여줄게 (이루리 La)
+어서 와 우리만의 세계 (이루리 La)
+우리 언제나 변치 않길
+이루리 La 이루리 La 이루리 La
+이루리 이루리 La",0
+147,터널,세정,Dingo X 세정,26,"끝이 보이질 않아 길고 허전한 길
+그 길을 걷는 동안 내가 곁에 있을게
+꽉 막힌 하루 끝에서 널 기다릴게
+너의 발걸음에 맞춰
+그 언젠가 가파른 언덕을 지나
+향기로운 바람을 맞이할 거야
+때론 거짓말 같은 아픔을 겪곤 하지만
+너의 손을 놓지 않을게
+유난히도 추웠던 겨울이
+지나고 나면 더 예쁜 꽃이 필 거야
+흐려지는 상처를 되돌아보며
+웃으며 얘길 나누길
+터널의 끝에서 
+나의 서툰 위로가 부담일까 걱정돼 
+그럴 수만 있다면 내 힘 나눠줄 텐데
+낯설고 바쁜 날에도 밥 거르지 마 
+제일 맛있는 거 먹어
+아프지 마 쉬었다 가도 괜찮아
+풀지 못할 고민에 잠 못 들잖아
+칠흑 같은 어둠이 번져도 걱정하지 마
+작은 불빛이 되어줄게
+유난히도 추웠던 겨울이
+지나고 나면 더 예쁜 꽃이 필 거야
+흐려지는 상처를 되돌아보며
+웃으며 얘길 나누길 
+저 포근한 달빛은
+깊은 밤이면 더 밝아질 거야
+새벽을 지나 아침은 밝아와
+언제라도 안아줄게
+터널의 끝까지",0
+148,0,0,0,0,0,0
+149,0,0,0,0,0,0
+150,0,0,0,0,0,0
+151,0,0,0,0,0,0
+152,0,0,0,0,0,0
+153,0,0,0,0,0,0
+154,0,0,0,0,0,0
+155,0,0,0,0,0,0
+156,0,0,0,0,0,0
+157,0,0,0,0,0,0
+158,0,0,0,0,0,0
+159,0,0,0,0,0,0
+160,0,0,0,0,0,0
+161,0,0,0,0,0,0
+162,0,0,0,0,0,0
+163,0,0,0,0,0,0
+164,0,0,0,0,0,0
+165,0,0,0,0,0,0
+166,0,0,0,0,0,0
+167,0,0,0,0,0,0
+168,0,0,0,0,0,0
+169,0,0,0,0,0,0
+170,0,0,0,0,0,0
+171,0,0,0,0,0,0
+172,0,0,0,0,0,0
+173,0,0,0,0,0,0
+174,0,0,0,0,0,0
+175,0,0,0,0,0,0
+176,0,0,0,0,0,0
+177,0,0,0,0,0,0
+178,0,0,0,0,0,0
+179,0,0,0,0,0,0
+180,0,0,0,0,0,0
+181,0,0,0,0,0,0
+182,0,0,0,0,0,0
+183,0,0,0,0,0,0
+184,0,0,0,0,0,0
+185,0,0,0,0,0,0
+186,0,0,0,0,0,0
+187,0,0,0,0,0,0
+188,0,0,0,0,0,0
+189,0,0,0,0,0,0
+190,0,0,0,0,0,0
+191,0,0,0,0,0,0
+192,0,0,0,0,0,0
+193,0,0,0,0,0,0
+194,0,0,0,0,0,0
+195,0,0,0,0,0,0
+196,0,0,0,0,0,0
+197,0,0,0,0,0,0
+198,0,0,0,0,0,0
+199,0,0,0,0,0,0
+200,0,0,0,0,0,0
+201,0,0,0,0,0,0
+202,0,0,0,0,0,0
+203,0,0,0,0,0,0
+204,0,0,0,0,0,0
+205,0,0,0,0,0,0
+206,0,0,0,0,0,0
+207,0,0,0,0,0,0
+208,0,0,0,0,0,0
+209,0,0,0,0,0,0
+210,0,0,0,0,0,0
+211,0,0,0,0,0,0
+212,0,0,0,0,0,0
+213,0,0,0,0,0,0
+214,0,0,0,0,0,0
+215,0,0,0,0,0,0
+216,0,0,0,0,0,0
+217,0,0,0,0,0,0
+218,0,0,0,0,0,0
+219,0,0,0,0,0,0
+220,0,0,0,0,0,0
+221,0,0,0,0,0,0
+222,0,0,0,0,0,0
+223,0,0,0,0,0,0
+224,0,0,0,0,0,0
+225,0,0,0,0,0,0
+226,0,0,0,0,0,0
+227,0,0,0,0,0,0
+228,0,0,0,0,0,0
+229,0,0,0,0,0,0
+230,0,0,0,0,0,0
+231,0,0,0,0,0,0
+232,0,0,0,0,0,0
+233,0,0,0,0,0,0
+234,0,0,0,0,0,0
+235,0,0,0,0,0,0
+236,0,0,0,0,0,0
+237,0,0,0,0,0,0
+238,0,0,0,0,0,0
+239,0,0,0,0,0,0
+240,0,0,0,0,0,0
+241,0,0,0,0,0,0
+242,0,0,0,0,0,0
+243,0,0,0,0,0,0
+244,0,0,0,0,0,0
+245,0,0,0,0,0,0
+246,0,0,0,0,0,0
+247,0,0,0,0,0,0
+248,0,0,0,0,0,0
+249,0,0,0,0,0,0
+250,0,0,0,0,0,0
+251,0,0,0,0,0,0
+252,0,0,0,0,0,0
+253,0,0,0,0,0,0
+254,0,0,0,0,0,0
+255,0,0,0,0,0,0
+256,0,0,0,0,0,0
+257,0,0,0,0,0,0
+258,0,0,0,0,0,0
+259,0,0,0,0,0,0
+260,0,0,0,0,0,0
+261,0,0,0,0,0,0
+262,0,0,0,0,0,0
+263,0,0,0,0,0,0
+264,0,0,0,0,0,0
+265,0,0,0,0,0,0
+266,0,0,0,0,0,0
+267,0,0,0,0,0,0
+268,0,0,0,0,0,0
+269,0,0,0,0,0,0
+270,0,0,0,0,0,0
+271,0,0,0,0,0,0
+272,0,0,0,0,0,0
+273,0,0,0,0,0,0
+274,0,0,0,0,0,0
+275,0,0,0,0,0,0
+276,0,0,0,0,0,0
+277,0,0,0,0,0,0
+278,0,0,0,0,0,0
+279,0,0,0,0,0,0
+280,0,0,0,0,0,0
+281,0,0,0,0,0,0
+282,0,0,0,0,0,0
+283,0,0,0,0,0,0
+284,0,0,0,0,0,0
+285,0,0,0,0,0,0
+286,0,0,0,0,0,0
+287,0,0,0,0,0,0
+288,0,0,0,0,0,0
+289,0,0,0,0,0,0
+290,0,0,0,0,0,0
+291,0,0,0,0,0,0
+292,0,0,0,0,0,0
+293,0,0,0,0,0,0
+294,0,0,0,0,0,0
+295,0,0,0,0,0,0
+296,0,0,0,0,0,0
+297,0,0,0,0,0,0
+298,0,0,0,0,0,0
+299,0,0,0,0,0,0
