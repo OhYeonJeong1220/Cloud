@@ -49,7 +49,8 @@ for a in albums:
     num = 0
 for j in imgs:
     img=j.find('img')['src']
-    img_name='mellonimg/'+album[num]+'.jpg'
+    album_s=album[num].replace(',','')
+    img_name='mellonimg/'+album_s+'.jpg'
     urllib.request.urlretrieve(img,img_name)
     num = num+1
 

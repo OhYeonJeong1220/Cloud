@@ -96,31 +96,32 @@ urllib.request.install_opener(opener)
 resp = requests.get(img_link1,headers = headers)
 soup = BeautifulSoup(resp.text, 'html.parser')
 
-num = 1
-
+num = 0
+j=0
 for i in soup.find_all('a',class_='cover'):
     img_url = http + i.find('img').get('src') 
-    img_name = i.find('img').get('alt')
+    img_name = G_matrix[num][2]
     #print(img_url)
     #print(img_name+'.jpg')
     
     #파일로 저장 
-    #urllib.request.urlretrieve(img_url,'Gimg/' + str(num) + '.jpg')
+    urllib.request.urlretrieve(img_url,'Gimg/' + img_name + '.jpg')
     num = num +1
-
+    
 resp = requests.get(img_link2,headers = headers)
 soup = BeautifulSoup(resp.text, 'html.parser')
 
-num = 51
+num = 50
 
 for i in soup.find_all('a',class_='cover'):
     img_url = http +i.find('img').get('src')
-    img_name = i.find('img').get('alt')
+    img_name = G_matrix[num][2]
     #print(img_url)
     #print(img_name+'.jpg')
 
     #파일로 저장
     urllib.request.urlretrieve(img_url,'Gimg/' + img_name + '.jpg')
+    j=j+1
     num = num +1
 
 

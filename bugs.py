@@ -78,16 +78,16 @@ for i in soup.find_all('a', class_='trackInfo'):
     #print(lyrics.text)
 
 #앨범 사진 크롤링
-num = 1
-for i in soup.find_all('a',class_='thumbnail'):
-    img_url = i.find('img').get('src')
-    img_name = i.find('img').get('alt')
+#num = 1
+
+    #img_url = i.find('img').get('src')
+    #img_name = i.find('img').get('alt')
 #    img_name = i.find('img').get('alt')
 #    print(img_url)
 #    print(img_name)
     
-    urllib.request.urlretrieve(img_url,'Bimg/'+img_name+'.jpg')
-    num = num+1
+    #urllib.request.urlretrieve(img_url,'Bimg/'+img_name+'.jpg')
+    #num = num+1
     #urllib.requests.urlretrieve(img_url,i.find('img').get('alt')+'.jpg')
 
 m = 0
@@ -104,7 +104,12 @@ for i in soup.find_all('a', class_='album'):
     m = m+1
 
     #print(m)
-
+m=0
+for i in soup.find_all('a',class_='thumbnail'):
+    img_url = i.find('img').get('src')
+    img_name = B_matrix[m-1][2]
+    urllib.request.urlretrieve(img_url,'Bimg/'+img_name+'.jpg')
+    m=m+1
 
 for i in range(0,100):
     B_matrix[i][3]=25

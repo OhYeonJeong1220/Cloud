@@ -4,6 +4,9 @@ from bugs import B_matrix
 import pandas as pd
 from operator import itemgetter
 import urllib
+import shutil
+import os
+
 I_matrix = [[0  for locix in range(6)] for y in range(300)]
 
 
@@ -119,7 +122,7 @@ for i in range(0,100):
             I_matrix[i][3] = M_matrix[i][3] + M_matrix[i][4] + B_matrix[j][3]+B_matrix[j][4]#가중치와 순위를 곱해서 저장i
             I_matrix[i][4] = ""#B_matrix[j][5]#ojymade
             
-            path = './mellonchart/'+M_matrix[i][2]+'.jpg'
+            path = './mellonimg/'+M_matrix[i][2]+'.jpg'
             shutil.copy(path,'./intgrate_img')
             #print('dvd:',I_matrix[i][3])
             #print('j:',j)
@@ -135,7 +138,7 @@ for i in range(0,100):
         I_matrix[i][2] = M_matrix[i][2]
         I_matrix[i][3] = M_matrix[i][3] + M_matrix[i][4]
         I_matrix[i][4] = ""#M_matrix[i][5]
-        path = './mellonchart/'+M_matrix[i][2]+'.jpg'
+        path = './mellonimg/'+M_matrix[i][2]+'.jpg'
         shutil.copy(path,'./intgrate_img')
 
     else:
@@ -166,7 +169,7 @@ for i in range(100,100+len(B_matrix)):
     I_matrix[i][2] = B_matrix[i-100][2]
     I_matrix[i][3] = B_matrix[i-100][3]+B_matrix[i-100][4]
     I_matrix[i][4] = ""#B_matrix[i-100][5]
-    path = './Bimg/'+B_matrix[i][2]+'.jpg'
+    path = './Bimg/'+B_matrix[i-100][2]+'.jpg'
     shutil.copy(path,'./intgrate_img')
 
 num = 0
@@ -306,7 +309,24 @@ for t in range(0,100):
 #print(I_matrix[0])
 for i in range(0,100):
     print(i+1,'위 : ',I_matrix[i])
+    alb_name = I_matrix[i][2]+'.jpg'
+    dir_path = './intgrate_img'
+    
+    list = os.listdir(dir_path)
 
+    list.sort()
+    ggg = 1
+    for item in list:
+        if item.find(alb_name) is not -1:
+            path = './intgrate_img/'+I_matrix[i][2]+'.jpg'
+            origin_file ='./final_img/'+ I_matrix[i][2]+'.jpg'
+            file_name = './final_img/'+str(ggg)+'.jpg'
+            shutil.copy(path,'./final_img')
+            os.rename(origin_file,file_name)
+            ggg +=1
+    #디렉토리에서 순위에 따른 이미지 파일 이름 찾기
+    
+    
 #I_matrx 전체  출력
 #for x,y,z,r,b in I_matrix:
     #print(x,y,z,r,b)
