@@ -27,7 +27,6 @@ for i in soup.find_all('p',class_='title'):
     data_song = "%s\n" % song.text
     song_name = song.text
     song_n=song_name.replace(',','')
-
     #f_song.write(data_song) #텍스트파일에 노래 이름 저장
     #title[n] = song.text #배열에 노래 이름 저장
     rank_list[n][0] = data_song #2차원 배열에 노래제목 저장
@@ -51,7 +50,6 @@ for z in soup.find_all('p',class_='artist'):
     data_singer = "%s\n" % singer.text
     singer_name = singer.text
     singer_n=singer_name.replace(',','&')
-
     #f_singer.write(data_singer)
     #singer2[m] = singer.text #배열에 가수 이름 저장
     rank_list[m][1] = data_singer   #2차원 배열에 가수 이름 저장
@@ -97,6 +95,7 @@ for i in soup.find_all('a', class_='album'):
     data_album = "%s\n" % i.text
     album_name = i.text
     album_n=album_name.replace(',','')
+
     if m >=1:
         rank_list[m-1][2] = data_album #2차원 배열에 앨범이름 저장
         B_matrix[m-1][2] = album_n
