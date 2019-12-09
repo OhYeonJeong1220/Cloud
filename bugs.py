@@ -81,11 +81,12 @@ for i in soup.find_all('a', class_='trackInfo'):
 num = 1
 for i in soup.find_all('a',class_='thumbnail'):
     img_url = i.find('img').get('src')
+    img_name = i.find('img').get('alt')
 #    img_name = i.find('img').get('alt')
 #    print(img_url)
 #    print(img_name)
     
-    urllib.request.urlretrieve(img_url,'img/'+str(num)+'.jpg')
+    urllib.request.urlretrieve(img_url,'Bimg/'+img_name+'.jpg')
     num = num+1
     #urllib.requests.urlretrieve(img_url,i.find('img').get('alt')+'.jpg')
 

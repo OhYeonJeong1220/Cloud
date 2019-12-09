@@ -118,6 +118,9 @@ for i in range(0,100):
             I_matrix[i][2] = M_matrix[i][2]
             I_matrix[i][3] = M_matrix[i][3] + M_matrix[i][4] + B_matrix[j][3]+B_matrix[j][4]#가중치와 순위를 곱해서 저장i
             I_matrix[i][4] = ""#B_matrix[j][5]#ojymade
+            
+            path = './mellonchart/'+M_matrix[i][2]+'.jpg'
+            shutil.copy(path,'./intgrate_img')
             #print('dvd:',I_matrix[i][3])
             #print('j:',j)
             #I_matrix[i][3] = (M_matrix[i][3]*M_matrix[i][4]) + (B_matrix[j][3]*B_matrix[j][4])#가중치와 순위를 곱해서 저장i
@@ -132,6 +135,9 @@ for i in range(0,100):
         I_matrix[i][2] = M_matrix[i][2]
         I_matrix[i][3] = M_matrix[i][3] + M_matrix[i][4]
         I_matrix[i][4] = ""#M_matrix[i][5]
+        path = './mellonchart/'+M_matrix[i][2]+'.jpg'
+        shutil.copy(path,'./intgrate_img')
+
     else:
         #print(index)
         #print(B_matrix[index])
@@ -160,6 +166,8 @@ for i in range(100,100+len(B_matrix)):
     I_matrix[i][2] = B_matrix[i-100][2]
     I_matrix[i][3] = B_matrix[i-100][3]+B_matrix[i-100][4]
     I_matrix[i][4] = ""#B_matrix[i-100][5]
+    path = './Bimg/'+B_matrix[i][2]+'.jpg'
+    shutil.copy(path,'./intgrate_img')
 
 num = 0
 index = 0
@@ -255,6 +263,8 @@ for i in range(0,I_index):
             
             I_matrix[i][4] = ""#G_matrix[j][5]#ojymade
             #print('sss**:',I_matrix[i][3])
+            
+
             index = j
             num = num +1
     #통합차트와 같은 노래면 지니 차트에서 삭제
@@ -277,6 +287,9 @@ for i in range(0,len(G_matrix)):
     I_matrix[I_index][2] = G_matrix[i][2]
     I_matrix[I_index][3] = G_matrix[i][3]+G_matrix[i][4]
     I_matrix[I_index][4] = ""#G_matrix[i][5]
+    path = './Gimg/'+G_matrix[i][2]+'.jpg'
+    shutil.copy(path,'./intgrate_img')
+
     I_index = I_index +1
 
 
