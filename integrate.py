@@ -323,7 +323,7 @@ for i in range(0,100):
             file_name = './final_img/'+str(ggg)+'.jpg'
             shutil.copy(path,'./final_img')
             os.rename(origin_file,file_name)
-            ggg +=1
+            ggg = ggg +1
     #디렉토리에서 순위에 따른 이미지 파일 이름 찾기
     
     
