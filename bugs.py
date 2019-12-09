@@ -118,8 +118,8 @@ for i in range(0,100):
 #if(__name__ == "__main__"):
     #del B_matrix[0]
 
-for i in range(0,100):
-    print(i+1,'위:',B_matrix[i][0])
+#for i in range(0,100):
+    #print(i+1,'위:',B_matrix[i][0])
 
 #수록곡 크롤링
 #for i in soup.find_all('a', class_='album'):

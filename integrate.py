@@ -7,6 +7,7 @@ import urllib
 from datetime import datetime
 import shutil
 import os
+
 I_matrix = [[0  for locix in range(6)] for y in range(300)]
 
 
@@ -38,35 +39,43 @@ for i in range(0,100):
         loc1=M_matrix[i][0].find('(')
         loc31=M_matrix[i][1].find('(')
         loc32=M_matrix[i][1].find('&')
-        loc33=M_matrix[i][1].find(',')
+        #loc33=M_matrix[i][1].find(',')
         #print('loc1',loc1)
         #print('original:',M_matrix[i][0])
+        
         if(loc1 > 0):
             original = M_matrix[i][0]
             song1 = original[:loc1]
-            #print('song1:',song1)
-
+            print('song1:',song1)
+            
+            #if(song1 == '아마두'):
+                #f = False
+                #break
         else:
             song1 = M_matrix[i][0]
+            
         
-        if((loc31>0)or(loc32>0)or(loc33>0)):
+        if((loc31>0)or(loc32>0)):
             original = M_matrix[i][1]
+            #if(loc31 == -1):
+             #   if(loc32>0):
+              #      singer1=original[:loc32]
+               # else:
+               #     singer1=original[:loc33]
+            #else:
+            #    singer1=original[:loc31]
+        #else:
+            #singer1=M_matrix[i][1]
             if(loc31 == -1):
-                if(loc32>0):
-                    singer1=original[:loc32]
-                else:
-                    singer1=original[:loc33]
-            else:
+                singer1 = original[:loc32]
+            elif(loc32 == -1):
                 singer1=original[:loc31]
+            elif((loc31 > 0 and loc32 >0)and(loc31 < loc32)):
+                singer1=original[:loc31]
+            elif((loc31 > 0 and loc32 >0)and(loc31 > loc32)):
+                singer1=original[:loc32]
         else:
-            singer1=M_matrix[i][1]
-            #elif(loc32 == -1):
-                #singer1=original[:loc31]
-            #elif((loc31 > 0 and loc32 >0)and(loc31 < loc32)):
-                #singer1=original[:loc31]
-            #elif((loc31 > 0 and loc32 >0)and(loc31 > loc32)):
-                #singer1=original[:loc32]
-
+            singer1 = M_matrix[i][1]
         loc2=B_matrix[j][0].find('(')
         loc41=B_matrix[j][1].find('(')
         loc42=B_matrix[j][1].find('&')
@@ -78,24 +87,27 @@ for i in range(0,100):
         else:
             song2 = B_matrix[j][0]
         
-        if((loc41>0)or(loc42>0)or(loc43>0)):
+        if((loc41>0)or(loc42>0)):
             original = B_matrix[j][1]
+         #   if(loc41 == -1):
+         #       if(loc42>0):
+         #           singer2=original[:loc42]
+         #       else:
+         #           singer2=original[:loc43]
+         #   else:
+         #       singer2=original[:loc41]
+        #else:
+            #singer2=B_matrix[j][1]
             if(loc41 == -1):
-                if(loc42>0):
-                    singer2=original[:loc42]
-                else:
-                    singer2=original[:loc43]
-            else:
+                singer2 = original[:loc42]
+            elif(loc42 == -1):
                 singer2=original[:loc41]
+            elif((loc41 > 0 and loc42 >0)and(loc41 < loc42)):
+                singer2=original[:loc31]
+            elif((loc41 > 0 and loc42 >0)and(loc41 > loc42)):
+                singer2=original[:loc42]
         else:
-            singer2=B_matrix[j][1]
-            
-            #elif(loc42 == -1):
-                #singer2=original[:loc41]
-            #elif((loc41 > 0 and loc42 >0)and(loc41 < loc42)):
-                #singer2=original[:loc31]
-            #elif((loc41 > 0 and loc42 >0)and(loc41 > loc42)):
-                #singer2=original[:loc42]
+            singer2 = B_matrix[j][1]
         #if(i == 3 and j ==0):
            # print('song1:',song1)
            # print('singer1:',singer1)
@@ -103,26 +115,20 @@ for i in range(0,100):
            # print('singer2:',singer2) 
         
         if((song1.strip() == song2.strip()) and (singer1.strip()==singer2.strip())):
-            
-            #if(i == 3 and j ==0):
-               # print('song1:',song1)
-               # print('singer1:',singer1)
-
-                #print('song2:',song2)
-                #print('singer2:',singer2)
+            print('song1:',song1)
+            print('singer1:',singer1)
+            print('song2:',song2)
+            print('singer2:',singer2)
 
             #노래같으면 통합해서1개만 저장
-            #print('11','song1:',song1)
-            #print('singer1:',singer1)
-            #print('11','song2:',song2)
-            #print('singer2:',singer2)
+            
             I_matrix[i][0] = M_matrix[i][0]
             I_matrix[i][1] = M_matrix[i][1]
             I_matrix[i][2] = M_matrix[i][2]
             I_matrix[i][3] = M_matrix[i][3] + M_matrix[i][4] + B_matrix[j][3]+B_matrix[j][4]#가중치와 순위를 곱해서 저장i
             I_matrix[i][4] = ""#B_matrix[j][5]#ojymade
             
-            path = './mellonimg/'+M_matrix[i][2]+'.jpg'
+            path = './mellonimg/'+I_matrix[i][2]+'.jpg'
             shutil.copy(path,'./intgrate_img')
             #print('dvd:',I_matrix[i][3])
             #print('j:',j)
@@ -138,7 +144,7 @@ for i in range(0,100):
         I_matrix[i][2] = M_matrix[i][2]
         I_matrix[i][3] = M_matrix[i][3] + M_matrix[i][4]
         I_matrix[i][4] = ""#M_matrix[i][5]
-        path = './mellonimg/'+M_matrix[i][2]+'.jpg'
+        path = './mellonimg/'+I_matrix[i][2]+'.jpg'
         shutil.copy(path,'./intgrate_img')
 
     else:
@@ -147,8 +153,10 @@ for i in range(0,100):
         del B_matrix[index]#mwllon과 같은 노래면 벅스 차트에서 노래 삭제
         
     num = 0
+    #if(f == False):
+        #break
 #for i in range(0,100):
-#    print(I_matrix[i])
+    #print(I_matrix[i])
 
 #print("====================================================")
 
@@ -169,7 +177,7 @@ for i in range(100,100+len(B_matrix)):
     I_matrix[i][2] = B_matrix[i-100][2]
     I_matrix[i][3] = B_matrix[i-100][3]+B_matrix[i-100][4]
     I_matrix[i][4] = ""#B_matrix[i-100][5]
-    path = './Bimg/'+B_matrix[i-100][2]+'.jpg'
+    path = './Bimg/'+I_matrix[i][2]+'.jpg'
     shutil.copy(path,'./intgrate_img')
 
 num = 0
@@ -188,7 +196,7 @@ for i in range(0,I_index):
         
         loc1 = I_matrix[i][0].find('(')
         loc31=I_matrix[i][1].find('(')
-        loc32=I_matrix[i][1].find(',')
+        loc32=I_matrix[i][1].find('&')
         #loc33=I_matrix[i][1].find(',')
        # print('original1:',I_matrix[i][0])
         if(loc1 > 0):
@@ -198,18 +206,7 @@ for i in range(0,I_index):
         else:
             song1 = I_matrix[i][0]
         
-        #if((loc31>0)or(loc32)or(loc33>0)):
-            #original = I_matrix[i][1]
-            #if(loc31 == -1):
-                #if(loc32>0):
-                    #singer1=original[:loc32]
-                #else:
-                #    singer1=original[:loc33]
-            #else:
-            #    singer1=original[:loc31]
-        #else:
-           # singer1 = I_matrix[i][1]
-
+        
         if((loc31>0)or(loc32>0)):
             original = I_matrix[i][1]
             if(loc31 == -1):
@@ -223,26 +220,35 @@ for i in range(0,I_index):
         else:
             singer1= I_matrix[i][1]
         
-        loc2 = G_matrix[j][0].find('(')
+        loc2=G_matrix[j][0].find('(')
         loc41=G_matrix[j][1].find('(')
         loc42=G_matrix[j][1].find('&')
-    
-        #print('original: ', G_matrix[j][0])
-        if(loc2 > 0):
-            original = G_matrix[j][0] 
-            song2 = original[:loc2]
-            #print('song2: ',song2)
-            singer2=original[:loc31]
-        elif((loc41 > 0 and loc42 >0)and(loc41 > loc42)):
-                singer2=original[:loc42]
+        #loc43=G_matrix[j][1].find(',')
 
+        if((loc41>0)or(loc42>0)):
+            original = G_matrix[j][1]
+         #   if(loc41 == -1):
+         #       if(loc42>0):
+         #           singer2=original[:loc42]
+         #       else:
+         #           singer2=original[:loc43]
+         #   else:
+         #       singer2=original[:loc41]
+        #else:
+            #singer2=G_matrix[j][1]
+            if(loc41 == -1):
+                singer2 = original[:loc42]
+            elif(loc42 == -1):
+                singer2=original[:loc41]
+            elif((loc41 > 0 and loc42 >0)and(loc41 < loc42)):
+                singer2=original[:loc31]
+            elif((loc41 > 0 and loc42 >0)and(loc41 > loc42)):
+                singer2=original[:loc42]
         else:
-            singer2= G_matrix[j][1]
-        #if(song2 == "Into the Unknown"):
-            #print('song1:',song1)
-            #print('song2:',song2)
-            #f = False
-            #break
+            singer2 = G_matrix[j][1]
+
+        #print('original: ', G_matrix[j][0])
+        
         if((song1.strip() == song2.strip())and (singer1.strip()==singer2.strip())):
             #지니에도 같은 노래가 있으면 가중치 값만 변경
             #print('22','song1:',song1)
@@ -250,7 +256,7 @@ for i in range(0,I_index):
             #print('sss*:',I_matrix[i][3])
             #print('gg:',G_matrix[j][3])
             #print('gg:',G_matrix[j][4])
-            I_matrix[i][3] +=G_matrix[j][3] + G_matrix[j][4]
+            I_matrix[i][3] =I_matrix[i][3]+ G_matrix[j][3] + G_matrix[j][4]
             #print('sss**:',I_matrix[i][3])
             index = j
             num = num +1
@@ -263,8 +269,8 @@ for i in range(0,I_index):
 #for i in range(len(G_matrix)):
 #    print(G_matrix[i])
 #=======
-    if(f == False):
-        break
+    #if(f == False):
+        #break
     
 #>>>>>>> 56dc1a5e40546d82649551a119526087245391b4
 #통합차트와  겹치는 노래 빼고 ginie 노래 저장
@@ -272,7 +278,7 @@ for i in range(0,len(G_matrix)):
     I_matrix[I_index][0] = G_matrix[i][0]
     I_matrix[I_index][1] = G_matrix[i][1]
     I_matrix[I_index][2] = G_matrix[i][2]
-    I_matrix[I_index][3] = G_matrix[i][3]+G_matrix[i][4]
+    I_matrix[I_index][3] = G_matrix[i][3] + G_matrix[i][4]
     I_matrix[I_index][4] =""# G_matrix[i][5]
     I_index = I_index +1
 
@@ -288,6 +294,7 @@ for t in range(0,100):
 #print('I_index' , I_index)
 
 #print(I_matrix[0])
+
 dir_path = './intgrate_img'
 
 list = os.listdir(dir_path)
@@ -295,6 +302,7 @@ list.sort()
 
 #print(I_matrix[0])
 ggg =1 
+
 for i in range(0,100):
     print(i+1,'위 : ',I_matrix[i])
     alb_name = I_matrix[i][2]+'.jpg'
@@ -302,11 +310,12 @@ for i in range(0,100):
     
     for item in list:
         if item.find(alb_name) is not -1:
-            path = './intgrate_img/'+I_matrix[i][2]+'.jpg'
-            origin_file ='./final_img/'+ I_matrix[i][2]+'.jpg'
-            print('origin_file',origin_file)
+            #print('paht:','./intgrate_img/'+alb_name)
+            path = './intgrate_img/'+alb_name
+            origin_file ='./final_img/'+ alb_name
+           # print('origin_file',origin_file)
             file_name = './final_img/'+str(ggg)+'.jpg'
-            print('file_name:',file_name)
+           # print('file_name:',file_name)
             shutil.copy(path,'./final_img')
             os.rename(origin_file,file_name)
             ggg = ggg +1

@@ -3,40 +3,48 @@ from bs4 import BeautifulSoup
 from urllib.request import urlopen
 import urllib
 from datetime import datetime
-import pymysql
+#import pymysql
 from urllib.parse import urlparse, parse_qsl, urlencode, urlunparse
 
 
 ##mysql ##
-conn = pymysql.connect(
-        host = '52.231.160.91',
-        user = 'oyj',
-        port = 3306,
-        password = '1234',
-        db = 'Cloud',
-        charset = 'utf8'
-        )
+#conn = pymysql.connect(
+#        host = '52.231.160.91',
+#        user = 'oyj',
+#        port = 3306,
+#        password = '1234',
+#        db = 'Cloud',
+#        charset = 'utf8'
+#        )
+
 now=datetime.today()
-curs = conn.cursor()
+#curs = conn.cursor()
 headers = {'User-Agent':'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.3'}#user info
 
 G_matrix = [[0 for x in range(6)] for y in range(100)]#100*4리스트 생성
-nt=now.hour+9
-if(nt>23):
-    nt=0
+nt = now.hour + 9
+hour = ''
 
+if(nt == 24):
+    nt = 0
+
+if(nt <10):
+    hour = '0' +str(nt) 
+print(hour)
 today = datetime.today().strftime("%Y%m%d")#오늘 날짜
 
+hour = '22'
 parts = urlparse('https://www.genie.co.kr/chart/top200?ditc=D&ymd=20191206&hh=22&rtm=Y&pg=1')
 #요소 분리
 qs = dict(parse_qsl(parts.query))
 #parse_sql의 결과를 딕셔너리로 캐스팅
 qs['ymd'] = today
-qs['hh']=nt
+qs['hh'] = hour.strip()
 #수정
 parts = parts._replace(query=urlencode(qs))
 
 new_url = urlunparse(parts)
+print(new_url)
 #print(qs)
 
 http = 'https:'
@@ -85,10 +93,10 @@ for n in range(1,3):
         #curs.execute(sql,('test2','test2','test2'))        
         #curs.execute(sql)
         #print(curs.fetchone())
-        conn.commit()
-if(__name__=="__main__"):
-    for i in range(0,100):
-            print(G_matrix[i])
+        #conn.commit()
+#if(__name__=="__main__"):
+    #for i in range(0,100):
+            #print(G_matrix[i])
 #앨범 사진 크롤링
 
 opener = urllib.request.build_opener()
