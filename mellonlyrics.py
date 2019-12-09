@@ -5,10 +5,7 @@ import urllib.request
 import re
 from mellonchart import M_matrix
 
-headers = {
-            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit 537.36 (KHTML, like Gecko) Chrome",
-                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"
-                }
+headers = {'User-Agent':'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.3'}
 mellon=requests.get("https://www.melon.com/chart/index.htm",headers=headers)
 soup=BeautifulSoup(mellon.text,"html.parser")
 RANK=100
@@ -26,7 +23,7 @@ for tr in lyrics:
     manylyrics=requests.get(lyrics_add,headers=headers)
     lyrics_soup=BeautifulSoup(manylyrics.text,'html.parser')
     lyric=str(lyrics_soup.find('div',{'id':'d_video_summary'}))
-    lic = lyric.strip('<div class="lyric" id="d_video_summary"><!-- height:auto; 로 변경시, 확장됨 -->\r\n\t\t\t\t\t\t\t')
+    lic = lyric.strip('<div class="lyric" id="d_video_summary"><!-- height:auto; 로 변경시, 확장됨 -->')
     M_matrix[a][5]=lic.strip('</div>')
     a = a + 1
 
@@ -37,7 +34,7 @@ for tr2 in lyrics2:
     manylyrics2=requests.get(lyrics2_add,headers=headers)
     lyrics_soup2=BeautifulSoup(manylyrics2.text,'html.parser')
     lyric2=str(lyrics_soup2.find('div',{'id':'d_video_summary'}))
-    lic2= lyric2.strip('<div class="lyric" id="d_video_summary"><!-- height:auto; 로 변경시, 확장됨 -->\r\n\t\t\t\t\t\t\t')
+    lic2= lyric2.strip('<div class="lyric" id="d_video_summary"><!-- height:auto; 로 변경시, 확장됨 -->')
     M_matrix[a][5] = lic2.strip('</div>')
     a=a+1
 
