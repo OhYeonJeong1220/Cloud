@@ -36,10 +36,27 @@ for t in range(RANK):
 for a in albums:
     album.append(a.find('a').text.strip())
 
+str = "hello,world".replace(',','&')
+print(str)
+
 for i in range(0,100):
-    M_matrix[i][0] = title[i]
-    M_matrix[i][1] = singer[i]
-    M_matrix[i][2] = album[i]
+    #if(title[i].find(',')>0):
+        #만약 제목에 ,가 있다면
+        #print('title 수정:',title[i])
+    tit=title[i]
+        #print('title:',title[i])
+    sing=singer[i]
+    alb=album[i]
+    #if(singer[i].find(',')>0):
+        #만약 가수에 ,가 있다면
+        #singer[i]
+    #if(album[i].find(',')>0):
+        #만약 앨범에 ,가 있다면
+        #album[i].replace(',','&')
+
+    M_matrix[i][0] = tit.replace(',','&')
+    M_matrix[i][1] = sing.replace(',','&')
+    M_matrix[i][2] = alb.replace(',','&')
     M_matrix[i][3] = 45
     M_matrix[i][4] = 100-i
 

@@ -61,13 +61,16 @@ for n in range(1,3):
     
     for song in songs:#노래 제못, 가수, 앨범
         title = song.find('td',{'class':'info'}).find('a',{'class':'title ellipsis'}).text
+        tit=title.replace(',','&');
+        #print(tit);
         singer = song.find('td',{'class':'info'}).find('a',{'class':'artist ellipsis'}).text
+        sing=singer.replace(',','&');
         album = song.find('td',{'class':'info'}).find('a',{'class':'albumtitle ellipsis'}).text
-        
+        alb=album.replace(',','&');
         #2차원 배열에 곡제목, 가수, 앨범 이름 저장
-        G_matrix[col][0]=title.strip()
-        G_matrix[col][1]=singer.strip()
-        G_matrix[col][2]=album.strip()
+        G_matrix[col][0]=tit.strip()
+        G_matrix[col][1]=sing.strip()
+        G_matrix[col][2]=alb.strip()
         G_matrix[col][3]=30#지분율
         G_matrix[col][4]= 100-col#순위
         col = col +1
