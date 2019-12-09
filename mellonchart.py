@@ -37,9 +37,12 @@ for a in albums:
     album.append(a.find('a').text.strip())
 
 for i in range(0,100):
-    M_matrix[i][0] = title[i]
-    M_matrix[i][1] = singer[i]
-    M_matrix[i][2] = album[i]
+    tit=title[i].replace(',','')
+    sing_n=singer[i].replace(',','&')
+    album_n=album[i].replace(',','')
+    M_matrix[i][0] = tit
+    M_matrix[i][1] = sing_n
+    M_matrix[i][2] = album_n
     M_matrix[i][3] = 45
     M_matrix[i][4] = 100-i
 

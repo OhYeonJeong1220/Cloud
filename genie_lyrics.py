@@ -38,7 +38,7 @@ for n in range(1,3):
     resp = requests.get(link,headers = headers)
     soup = BeautifulSoup(resp.text, 'html.parser')
     #songs = soup.select('#body-content > div.newest-list > div > table')
-    print('page',n,'====================================================') 
+    #print('page',n,'====================================================') 
     #trs=xxxxxii  songs.find_all('tr',class_='list')
     i = j
     for tr in soup.find_all('tr',class_='list'):

@@ -48,6 +48,7 @@ for n in range(1,3):
     #요소 분리
     parts_ = urlparse('https://www.genie.co.kr/chart/top200?ditc=D&ymd=20191206&hh=19&rtm=Y&pg=1')
     #parse_sql의 결과를 딕셔너리로 캐스팅
+    
     qs_ = dict(parse_qsl(parts_.query))
     #수정
     qs_['pg'] = n
@@ -63,11 +64,14 @@ for n in range(1,3):
         title = song.find('td',{'class':'info'}).find('a',{'class':'title ellipsis'}).text
         singer = song.find('td',{'class':'info'}).find('a',{'class':'artist ellipsis'}).text
         album = song.find('td',{'class':'info'}).find('a',{'class':'albumtitle ellipsis'}).text
-        
+        tit=title.replace(',','');
+        sing=singer.replace(',','&');
+        alb=album.replace(',','');
+
         #2차원 배열에 곡제목, 가수, 앨범 이름 저장
-        G_matrix[col][0]=title.strip()
-        G_matrix[col][1]=singer.strip()
-        G_matrix[col][2]=album.strip()
+        G_matrix[col][0]=tit.strip()
+        G_matrix[col][1]=sing.strip()
+        G_matrix[col][2]=alb.strip()
         G_matrix[col][3]=30#지분율
         G_matrix[col][4]= 100-col#순위
         col = col +1
