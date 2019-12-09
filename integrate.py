@@ -4,9 +4,9 @@ from bugs import B_matrix
 import pandas as pd
 from operator import itemgetter
 import urllib
+from datetime import datetime
 import shutil
 import os
-
 I_matrix = [[0  for locix in range(6)] for y in range(300)]
 
 
@@ -232,20 +232,8 @@ for i in range(0,I_index):
             original = G_matrix[j][0] 
             song2 = original[:loc2]
             #print('song2: ',song2)
-        
-        else:
-            song2 = G_matrix[j][0]
-        
-        
-        if((loc41>0)or(loc42>0)):
-            original = G_matrix[j][1]
-            if(loc41 == -1):
-                singer2=original[:loc42]
-            elif(loc42 == -1):
-                singer2=original[:loc41]
-            elif((loc41 > 0 and loc42 >0)and(loc41 < loc42)):
-                singer2=original[:loc31]
-            elif((loc41 > 0 and loc42 >0)and(loc41 > loc42)):
+            singer2=original[:loc31]
+        elif((loc41 > 0 and loc42 >0)and(loc41 > loc42)):
                 singer2=original[:loc42]
 
         else:
@@ -263,11 +251,7 @@ for i in range(0,I_index):
             #print('gg:',G_matrix[j][3])
             #print('gg:',G_matrix[j][4])
             I_matrix[i][3] +=G_matrix[j][3] + G_matrix[j][4]
-            
-            I_matrix[i][4] = ""#G_matrix[j][5]#ojymade
             #print('sss**:',I_matrix[i][3])
-            
-
             index = j
             num = num +1
     #통합차트와 같은 노래면 지니 차트에서 삭제
@@ -289,10 +273,7 @@ for i in range(0,len(G_matrix)):
     I_matrix[I_index][1] = G_matrix[i][1]
     I_matrix[I_index][2] = G_matrix[i][2]
     I_matrix[I_index][3] = G_matrix[i][3]+G_matrix[i][4]
-    I_matrix[I_index][4] = ""#G_matrix[i][5]
-    path = './Gimg/'+G_matrix[i][2]+'.jpg'
-    shutil.copy(path,'./intgrate_img')
-
+    I_matrix[I_index][4] =""# G_matrix[i][5]
     I_index = I_index +1
 
 
@@ -306,6 +287,7 @@ for t in range(0,100):
     I_matrix[t][5]=full_url
 #print('I_index' , I_index)
 
+#print(I_matrix[0])
 dir_path = './intgrate_img'
 
 list = os.listdir(dir_path)
@@ -328,12 +310,14 @@ for i in range(0,100):
             shutil.copy(path,'./final_img')
             os.rename(origin_file,file_name)
             ggg = ggg +1
-    #디렉토리에서 순위에 따른 이미지 파일 이름 찾기
+#for i in range(0,100):
     
-    
+    #print(i+1,'위 : ',I_matrix[i])
+
 #I_matrx 전체  출력
 #for x,y,z,r,b in I_matrix:
     #print(x,y,z,r,b)
+
 
 excel_data = pd.DataFrame(I_matrix)
 #크롤링 결과 2차원 배열을 excel_data 변수에 저장
@@ -342,3 +326,7 @@ excel_data.columns = ['title','singer','albumName','score','lyrics','youtube']
 excel_data.to_csv('integrate_excel.csv',encoding='utf-8')
 #csv파일로 저장
 
+#now = datetime.now()
+#f_log = open("log.txt","a")
+#f_log.write(now)
+#f_log.close()

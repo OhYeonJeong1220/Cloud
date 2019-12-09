@@ -16,37 +16,40 @@ conn = pymysql.connect(
         db = 'Cloud',
         charset = 'utf8'
         )
-
+now=datetime.today()
 curs = conn.cursor()
-
 headers = {'User-Agent':'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.3'}#user info
 
 G_matrix = [[0 for x in range(6)] for y in range(100)]#100*4리스트 생성
+nt=now.hour+9
+if(nt>23):
+    nt=0
 
 today = datetime.today().strftime("%Y%m%d")#오늘 날짜
 
-
-parts = urlparse('https://www.genie.co.kr/chart/top200?ditc=D&ymd=20191209&hh=19&rtm=Y&pg=1')
+parts = urlparse('https://www.genie.co.kr/chart/top200?ditc=D&ymd=20191206&hh=22&rtm=Y&pg=1')
 #요소 분리
 qs = dict(parse_qsl(parts.query))
 #parse_sql의 결과를 딕셔너리로 캐스팅
 qs['ymd'] = today
+qs['hh']=nt
 #수정
 parts = parts._replace(query=urlencode(qs))
-new_url = urlunparse(parts)
 
+new_url = urlunparse(parts)
+#print(qs)
 
 http = 'https:'
-img_link1 = 'https://www.genie.co.kr/chart/top200?ditc=D&ymd=20191206&hh=19&rtm=Y&pg=1'
+img_link1 = 'https://www.genie.co.kr/chart/top200?ditc=D&ymd=20191206&hh=22&rtm=Y&pg=1'
 #top1-50 page 
-img_link2 = 'https://www.genie.co.kr/chart/top200?ditc=D&ymd=20191206&hh=19&rtm=Y&pg=2'
+img_link2 = 'https://www.genie.co.kr/chart/top200?ditc=D&ymd=20191206&hh=22&rtm=Y&pg=2'
 #top50-100 page
 
 col = 0
 #곡제목, 가수, 앨범 이름 크롤링
 for n in range(1,3):
     #요소 분리
-    parts_ = urlparse('https://www.genie.co.kr/chart/top200?ditc=D&ymd=20191206&hh=19&rtm=Y&pg=1')
+    parts_ = urlparse(new_url)
     #parse_sql의 결과를 딕셔너리로 캐스팅
     
     qs_ = dict(parse_qsl(parts_.query))
@@ -93,7 +96,7 @@ opener.addheaders = [('User-Agent','Mozilla/5.0')]
 
 urllib.request.install_opener(opener)
 
-resp = requests.get(img_link1,headers = headers)
+resp = requests.get(new_url,headers = headers)
 soup = BeautifulSoup(resp.text, 'html.parser')
 
 num = 0
@@ -108,7 +111,7 @@ for i in soup.find_all('a',class_='cover'):
     urllib.request.urlretrieve(img_url,'Gimg/' + img_name + '.jpg')
     num = num +1
     
-resp = requests.get(img_link2,headers = headers)
+resp = requests.get(new_url,headers = headers)
 soup = BeautifulSoup(resp.text, 'html.parser')
 
 num = 50

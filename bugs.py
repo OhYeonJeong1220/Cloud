@@ -3,8 +3,8 @@ from bs4 import BeautifulSoup
 import requests
 import urllib.request
 #import pandas as pd
-req = requests.get('https://music.bugs.co.kr/chart/track/realtime/total?wl_ref=M_contents_03_01')
-
+req = requests.get('https://music.bugs.co.kr/chart/track/realtime/total')
+#req=requests.get('https://music.bugs.co.kr/chart')
 html = req.text
 
 soup = BeautifulSoup(html,'html.parser')
@@ -12,6 +12,7 @@ soup = BeautifulSoup(html,'html.parser')
 #top_list = soup.select('#CHARTrealtime > table > tbody > tr')
 #top_list2 = soup.select('#CHARTrealtime > table > tbody > tr')
 f_song = open("bugs_song.txt","w") #노래 차트 텍스트 파일
+
 f_singer = open("bugs_singer.txt","w") #가수 차트 텍스트 파일
 
 title = [None]*100
@@ -114,11 +115,11 @@ for i in soup.find_all('a',class_='thumbnail'):
 for i in range(0,100):
     B_matrix[i][3]=25
     B_matrix[i][4]=100-i
-if(__name__ == "__main__"):
-    del B_matrix[0]
+#if(__name__ == "__main__"):
+    #del B_matrix[0]
 
-    for i in range(0,99):
-        print(i+1,'위:',B_matrix[i])
+for i in range(0,100):
+    print(i+1,'위:',B_matrix[i][0])
 
 #수록곡 크롤링
 #for i in soup.find_all('a', class_='album'):
