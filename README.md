@@ -1,7 +1,13 @@
 # README.md file
 
 <h1>This project is make integrated chart from mellon,genie,bugs top100 chart.</h1>
-
+<br/>
+<h2>URL주소</h2>
+ <p>
+ http://52.231.160.91/UI.php
+</p>
+<hr>
+<br/>
 <h2>1. installing for python file</h2>
 <br/>
 - install python3 
