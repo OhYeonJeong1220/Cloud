@@ -306,21 +306,24 @@ for t in range(0,100):
     I_matrix[t][5]=full_url
 #print('I_index' , I_index)
 
+dir_path = './intgrate_img'
+
+list = os.listdir(dir_path)
+list.sort()
+
 #print(I_matrix[0])
+ggg =1 
 for i in range(0,100):
     print(i+1,'위 : ',I_matrix[i])
     alb_name = I_matrix[i][2]+'.jpg'
-    dir_path = './intgrate_img'
-    
-    list = os.listdir(dir_path)
 
-    list.sort()
-    ggg = 1
+    
     for item in list:
         if item.find(alb_name) is not -1:
             path = './intgrate_img/'+I_matrix[i][2]+'.jpg'
             origin_file ='./final_img/'+ I_matrix[i][2]+'.jpg'
             file_name = './final_img/'+str(ggg)+'.jpg'
+            print('file_name:',file_name)
             shutil.copy(path,'./final_img')
             os.rename(origin_file,file_name)
             ggg = ggg +1
