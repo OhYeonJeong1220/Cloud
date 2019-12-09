@@ -120,7 +120,7 @@ for i in soup.find_all('a',class_='cover'):
     #print(img_name+'.jpg')
 
     #파일로 저장
-    #urllib.request.urlretrieve(img_url,'Gimg/' + str(num) + '.jpg')
+    urllib.request.urlretrieve(img_url,'Gimg/' + img_name + '.jpg')
     num = num +1
 
 
