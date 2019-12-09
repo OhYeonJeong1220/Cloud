@@ -24,7 +24,7 @@ for tr in lyrics:
     lyrics_soup=BeautifulSoup(manylyrics.text,'html.parser')
     lyric=str(lyrics_soup.find('div',{'id':'d_video_summary'}))
     lic = lyric.strip('<div class="lyric" id="d_video_summary"><!-- height:auto; 로 변경시, 확장됨 -->')
-    M_matrix[a][5]=lic.strip('</div>')
+    M_matrix[a][5]=lic.strip('</')
     a = a + 1
 
 tr2=50

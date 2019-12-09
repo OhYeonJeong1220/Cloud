@@ -37,7 +37,7 @@ for a in albums:
     album.append(a.find('a').text.strip())
 
 str = "hello,world".replace(',','&')
-print(str)
+
 
 for i in range(0,100):
     tit=title[i].replace(',','')

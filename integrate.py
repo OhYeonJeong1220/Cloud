@@ -117,7 +117,7 @@ for i in range(0,100):
             I_matrix[i][1] = M_matrix[i][1]
             I_matrix[i][2] = M_matrix[i][2]
             I_matrix[i][3] = M_matrix[i][3] + M_matrix[i][4] + B_matrix[j][3]+B_matrix[j][4]#가중치와 순위를 곱해서 저장i
-            I_matrix[i][4] = M_matrix[i][5]
+            I_matrix[i][4] = G_matrix[i][5]
             #print('dvd:',I_matrix[i][3])
             #print('j:',j)
             #I_matrix[i][3] = (M_matrix[i][3]*M_matrix[i][4]) + (B_matrix[j][3]*B_matrix[j][4])#가중치와 순위를 곱해서 저장i
