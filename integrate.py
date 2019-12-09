@@ -1,9 +1,11 @@
 from mellonlyrics import M_matrix
 from genie_lyrics import G_matrix
 from bugs import B_matrix
+import pandas as pd
 from operator import itemgetter
+import urllib
+I_matrix = [[0  for locix in range(6)] for y in range(300)]
 
-I_matrix = [[0  for locix in range(5)] for y in range(300)]
 
 num = 0
 index = 0
@@ -115,6 +117,7 @@ for i in range(0,100):
             I_matrix[i][1] = M_matrix[i][1]
             I_matrix[i][2] = M_matrix[i][2]
             I_matrix[i][3] = M_matrix[i][3] + M_matrix[i][4] + B_matrix[j][3]+B_matrix[j][4]#가중치와 순위를 곱해서 저장i
+            I_matrix[i][4] = M_matrix[i][5]
             #print('dvd:',I_matrix[i][3])
             #print('j:',j)
             #I_matrix[i][3] = (M_matrix[i][3]*M_matrix[i][4]) + (B_matrix[j][3]*B_matrix[j][4])#가중치와 순위를 곱해서 저장i
@@ -128,17 +131,27 @@ for i in range(0,100):
         I_matrix[i][1] = M_matrix[i][1]
         I_matrix[i][2] = M_matrix[i][2]
         I_matrix[i][3] = M_matrix[i][3] + M_matrix[i][4]
-
+        I_matrix[i][4] = M_matrix[i][5]
     else:
         #print(index)
         #print(B_matrix[index])
         del B_matrix[index]#mwllon과 같은 노래면 벅스 차트에서 노래 삭제
         
     num = 0
+#for i in range(0,100):
+#    print(I_matrix[i])
+
+#print("====================================================")
+
+#for i in range(len(B_matrix)):
+#    print(B_matrix[i])
+#print("====================================================")
+
 
 
 #for i in range(0,len(B_matrix)):
     #print(i+1,':',B_matrix[i])
+
 
 #mellon 노래와 겹치는 노래 빼고 bugs 노래 저장
 for i in range(100,100+len(B_matrix)):
@@ -146,7 +159,7 @@ for i in range(100,100+len(B_matrix)):
     I_matrix[i][1] = B_matrix[i-100][1]
     I_matrix[i][2] = B_matrix[i-100][2]
     I_matrix[i][3] = B_matrix[i-100][3]+B_matrix[i-100][4]
-    
+    I_matrix[i][4] = B_matrix[i-100][5]
 
 num = 0
 index = 0
@@ -246,21 +259,33 @@ for i in range(0,I_index):
     if(num > 0):
         del G_matrix[index]
     num = 0
+#<<<<<<< HEAD
+
+#for i in range(len(G_matrix)):
+#    print(G_matrix[i])
+#=======
     if(f == False):
         break
     
+#>>>>>>> 56dc1a5e40546d82649551a119526087245391b4
 #통합차트와  겹치는 노래 빼고 ginie 노래 저장
 for i in range(0,len(G_matrix)):
     I_matrix[I_index][0] = G_matrix[i][0]
     I_matrix[I_index][1] = G_matrix[i][1]
     I_matrix[I_index][2] = G_matrix[i][2]
     I_matrix[I_index][3] = G_matrix[i][3]+G_matrix[i][4]
+    I_matrix[I_index][4] = G_matrix[i][5]
     I_index = I_index +1
 
 
 I_index = I_index + len(G_matrix)
 I_matrix.sort(key=itemgetter(3), reverse=True)#3번째 원소로 정렬
 
+for t in range(0,100):
+    youtube_url = 'https://www.youtube.com/results?search_query='
+    url2 = urllib.parse.quote_plus(I_matrix[t][0])
+    full_url = youtube_url + url2
+    I_matrix[t][5]=full_url
 #print('I_index' , I_index)
 
 #print(I_matrix[0])
@@ -270,3 +295,11 @@ for i in range(0,100):
 #I_matrx 전체  출력
 #for x,y,z,r,b in I_matrix:
     #print(x,y,z,r,b)
+
+excel_data = pd.DataFrame(I_matrix)
+#크롤링 결과 2차원 배열을 excel_data 변수에 저장
+excel_data.columns = ['title','singer','albumName','x','y']
+#엑셀 각 열의 이름 정하기
+excel_data.to_csv('integrate_excel.csv',encoding='utf-8')
+#csv파일로 저장
+
