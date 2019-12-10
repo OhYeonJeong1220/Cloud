@@ -38,6 +38,21 @@ if(nt>10 and nt<24):
 today = datetime.today().strftime("%Y%m%d")#오늘 날짜
 
 #hour = '22'
+
+hour = ''
+
+
+if(nt == 24):
+    nt = 0
+    hour = str(nt)
+if(nt <10):
+    hour = '0' +str(nt)
+if(nt>10 and nt <24):
+    hour = str(nt)
+print(hour)
+today = datetime.today().strftime("%Y%m%d")#오늘 날짜
+
+
 parts = urlparse('https://www.genie.co.kr/chart/top200?ditc=D&ymd=20191206&hh=22&rtm=Y&pg=1')
 #요소 분리
 qs = dict(parse_qsl(parts.query))

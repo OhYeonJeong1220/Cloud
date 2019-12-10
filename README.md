@@ -1,9 +1,25 @@
 # README.md file
 
 <h1>This project is make integrated chart from mellon,genie,bugs top100 chart.</h1>
+<br/>
+<h2>URL주소</h2>
+ <p>
+ http://52.231.160.91/UI.php
+</p>
+<hr>
 
+<br/>
+<h2><b>주요 기능</b</h2><br/><br/>
+
+ - 멜론,지니,벅스의 실시간 차트를 통합
+ - 정확한 순위와 차트로 구성해 보기 쉬움
+ - 각 곡에 대한 유튜브 서비스를 제공(유튜브 연결)
+
+
+<br/>
 <h2>1. installing for python file</h2>
 <br/>
+
 - install python3 
 
 <pre>
