@@ -46,7 +46,7 @@ for i in range(0,100):
         if(loc1 > 0):
             original = M_matrix[i][0]
             song1 = original[:loc1]
-            print('song1:',song1)
+            #print('song1:',song1)
             
             #if(song1 == '아마두'):
                 #f = False
@@ -115,10 +115,10 @@ for i in range(0,100):
            # print('singer2:',singer2) 
         
         if((song1.strip() == song2.strip()) and (singer1.strip()==singer2.strip())):
-            print('song1:',song1)
-            print('singer1:',singer1)
-            print('song2:',song2)
-            print('singer2:',singer2)
+            #print('song1:',song1)
+            #print('singer1:',singer1)
+            #print('song2:',song2)
+            #print('singer2:',singer2)
 
             #노래같으면 통합해서1개만 저장
             
@@ -186,7 +186,7 @@ index = 0
 I_index = 100 + len(B_matrix)
 
 #for i in range(0,I_index):
-    #print(I_matrix[i])
+#    print(I_matrix[i])
 #for i in range(0,I_index):
     #I_matrix[i][4] = i+1
 
@@ -274,6 +274,7 @@ for i in range(0,I_index):
     
 #>>>>>>> 56dc1a5e40546d82649551a119526087245391b4
 #통합차트와  겹치는 노래 빼고 ginie 노래 저장
+print('I_index:',I_index)
 for i in range(0,len(G_matrix)):
     I_matrix[I_index][0] = G_matrix[i][0]
     I_matrix[I_index][1] = G_matrix[i][1]

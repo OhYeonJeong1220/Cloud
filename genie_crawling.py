@@ -23,23 +23,27 @@ headers = {'User-Agent':'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/53
 
 G_matrix = [[0 for x in range(6)] for y in range(100)]#100*4리스트 생성
 nt = now.hour + 9
+
 hour = ''
-
-if(nt == 24):
-    nt = 0
-
+print('nt:',nt)
+if(nt > 24):
+    nt=0
+    hour = str(nt)
 if(nt <10):
     hour = '0' +str(nt) 
-print(hour)
+if(nt>10 and nt<24):
+    hour=str(nt)
+
+#print('hour:',hour)
 today = datetime.today().strftime("%Y%m%d")#오늘 날짜
 
-hour = '22'
+#hour = '22'
 parts = urlparse('https://www.genie.co.kr/chart/top200?ditc=D&ymd=20191206&hh=22&rtm=Y&pg=1')
 #요소 분리
 qs = dict(parse_qsl(parts.query))
 #parse_sql의 결과를 딕셔너리로 캐스팅
 qs['ymd'] = today
-qs['hh'] = hour.strip()
+qs['hh'] = hour
 #수정
 parts = parts._replace(query=urlencode(qs))
 
