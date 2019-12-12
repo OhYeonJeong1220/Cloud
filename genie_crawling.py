@@ -113,9 +113,9 @@ for n in range(1,3):
         #curs.execute(sql)
         #print(curs.fetchone())
         #conn.commit()
-#if(__name__=="__main__"):
-    #for i in range(0,100):
-            #print(G_matrix[i])
+if(__name__=="__main__"):
+    for i in range(0,100):
+            print(G_matrix[i])
 #앨범 사진 크롤링
 
 opener = urllib.request.build_opener()

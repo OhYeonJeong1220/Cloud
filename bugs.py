@@ -72,8 +72,8 @@ for i in soup.find_all('a', class_='trackInfo'):
     soup_lyrics = BeautifulSoup(html2,'html.parser')
     j = soup_lyrics.find('div',class_='lyricsContainer')
     lyrics = j.find('xmp')
-    lyrics2 = "%s\n" % lyrics.text
-    B_matrix[m][5] = lyrics2.strip()
+    #lyrics2 = "%s\n" % lyrics.text
+   # B_matrix[m][5] = lyrics2.strip()
 #    rank_list[m][3] = lyrics2
     m = m+1
     #print(lyrics.text)

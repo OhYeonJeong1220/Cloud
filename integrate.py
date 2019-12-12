@@ -155,20 +155,6 @@ for i in range(0,100):
     num = 0
     #if(f == False):
         #break
-#for i in range(0,100):
-    #print(I_matrix[i])
-
-#print("====================================================")
-
-#for i in range(len(B_matrix)):
-#    print(B_matrix[i])
-#print("====================================================")
-
-
-
-#for i in range(0,len(B_matrix)):
-    #print(i+1,':',B_matrix[i])
-
 
 #mellon 노래와 겹치는 노래 빼고 bugs 노래 저장
 for i in range(100,100+len(B_matrix)):
@@ -184,13 +170,15 @@ num = 0
 index = 0
 
 I_index = 100 + len(B_matrix)
-
+#print('I_index:',I_index)
+#print('len:',len(I_matrix))
 #for i in range(0,I_index):
-#    print(I_matrix[i])
+#    print(i+1,':',I_matrix[i])
 #for i in range(0,I_index):
     #I_matrix[i][4] = i+1
 
 #통합차트에서 같은 노래가 있는지 비교
+
 for i in range(0,I_index):
     for j in range(0,len(G_matrix)):
         
@@ -224,7 +212,14 @@ for i in range(0,I_index):
         loc41=G_matrix[j][1].find('(')
         loc42=G_matrix[j][1].find('&')
         #loc43=G_matrix[j][1].find(',')
-
+        
+        if(loc2 > 0):
+            original = G_matrix[j][0]
+            song2 = original[:loc2]
+            #print('song1:',song1)
+        else:
+            song2 = G_matrix[j][0]
+        
         if((loc41>0)or(loc42>0)):
             original = G_matrix[j][1]
          #   if(loc41 == -1):
@@ -275,6 +270,8 @@ for i in range(0,I_index):
 #>>>>>>> 56dc1a5e40546d82649551a119526087245391b4
 #통합차트와  겹치는 노래 빼고 ginie 노래 저장
 print('I_index:',I_index)
+
+
 for i in range(0,len(G_matrix)):
     I_matrix[I_index][0] = G_matrix[i][0]
     I_matrix[I_index][1] = G_matrix[i][1]
@@ -282,8 +279,7 @@ for i in range(0,len(G_matrix)):
     I_matrix[I_index][3] = G_matrix[i][3] + G_matrix[i][4]
     I_matrix[I_index][4] =""# G_matrix[i][5]
     I_index = I_index +1
-
-
+    
 I_index = I_index + len(G_matrix)
 I_matrix.sort(key=itemgetter(3), reverse=True)#3번째 원소로 정렬
 
@@ -304,20 +300,25 @@ list.sort()
 #print(I_matrix[0])
 ggg =1 
 
+#for item in list:
+#    print("item:",item)
+
 for i in range(0,100):
-    print(i+1,'위 : ',I_matrix[i])
+    #print(i+1,'위 : ',I_matrix[i])
     alb_name = I_matrix[i][2]+'.jpg'
-    print('alb_name:',alb_name)
-    
+    #print('alb_name:',alb_name)
+    #print('alb_name:',alb_name)
     for item in list:
         if item.find(alb_name) is not -1:
-            #print('paht:','./intgrate_img/'+alb_name)
             path = './intgrate_img/'+alb_name
+            
             origin_file ='./final_img/'+ alb_name
-           # print('origin_file',origin_file)
+            print('origin_file',origin_file)
             file_name = './final_img/'+str(ggg)+'.jpg'
-           # print('file_name:',file_name)
+            print('file_name:',file_name)
+            
             shutil.copy(path,'./final_img')
+            
             os.rename(origin_file,file_name)
             ggg = ggg +1
 #for i in range(0,100):
