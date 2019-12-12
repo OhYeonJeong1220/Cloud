@@ -108,8 +108,9 @@ for i in soup.find_all('a', class_='album'):
 m=0
 for i in soup.find_all('a',class_='thumbnail'):
     img_url = i.find('img').get('src')
-    img_name = B_matrix[m-1][2]
-    urllib.request.urlretrieve(img_url,'Bimg/'+img_name+'.jpg')
+    img_name = B_matrix[m][2]
+    print('img_name:',img_name)
+    urllib.request.urlretrieve(img_url,'./Bimg/'+img_name.strip()+'.jpg')
     m=m+1
 
 for i in range(0,100):

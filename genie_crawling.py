@@ -128,11 +128,12 @@ soup = BeautifulSoup(resp.text, 'html.parser')
 
 num = 0
 j=0
+
 for i in soup.find_all('a',class_='cover'):
     img_url = http + i.find('img').get('src') 
     img_name = G_matrix[num][2]
-    #print(img_url)
-    #print(img_name+'.jpg')
+    print(img_url)
+    print(img_name+'.jpg')
     
     #파일로 저장 
     urllib.request.urlretrieve(img_url,'Gimg/' + img_name + '.jpg')
@@ -150,7 +151,7 @@ for i in soup.find_all('a',class_='cover'):
     #print(img_name+'.jpg')
 
     #파일로 저장
-    urllib.request.urlretrieve(img_url,'Gimg/' + img_name + '.jpg')
+    urllib.request.urlretrieve(img_url,'./Gimg/'+ img_name.strip() + '.jpg')
     j=j+1
     num = num +1
 
